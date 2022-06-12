@@ -892,10 +892,10 @@
   {
     "name": "Tachiyomi: BILIBILI COMICS",
     "pkg": "eu.kanade.tachiyomi.extension.all.bilibilicomics",
-    "apk": "tachiyomi-all.bilibilicomics-v1.3.3.apk",
+    "apk": "tachiyomi-all.bilibilicomics-v1.3.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 4,
+    "version": "1.3.4",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -920,6 +920,14 @@
         "name": "BILIBILI COMICS",
         "lang": "id",
         "id": "1333001923182974945",
+        "baseUrl": "https://www.bilibilicomics.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "BILIBILI COMICS",
+        "lang": "es",
+        "id": "2832751840997540437",
         "baseUrl": "https://www.bilibilicomics.com",
         "versionId": 1,
         "hasCloudflare": 1
@@ -22194,6 +22202,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Bichen Traduções",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.bichentraducoes",
+    "apk": "tachiyomi-pt.bichentraducoes-v1.3.21.apk",
+    "lang": "pt-BR",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Bichen Traduções",
+        "lang": "pt-BR",
+        "id": "2969617740054969413",
+        "baseUrl": "https://bichentraducoes.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BL Manhwa Club",
     "pkg": "eu.kanade.tachiyomi.extension.pt.blmanhwaclub",
     "apk": "tachiyomi-pt.blmanhwaclub-v1.3.23.apk",
@@ -23721,6 +23750,27 @@
         "lang": "pt-BR",
         "id": "7330705555862299741",
         "baseUrl": "https://sodascan.xyz",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Sweet Desire Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.sweetdesirescan",
+    "apk": "tachiyomi-pt.sweetdesirescan-v1.3.21.apk",
+    "lang": "pt-BR",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sweet Desire Scan",
+        "lang": "pt-BR",
+        "id": "5362144965063358146",
+        "baseUrl": "https://sweetdesire.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
