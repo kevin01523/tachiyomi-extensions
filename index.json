@@ -4170,10 +4170,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.3.34.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.3.35.apk",
     "lang": "all",
-    "code": 34,
-    "version": "1.3.34",
+    "code": 35,
+    "version": "1.3.35",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -5194,6 +5194,35 @@
         "lang": "all",
         "id": "7651943104270359588",
         "baseUrl": "https://nyahentai.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Olympus Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.all.olympusscanlation",
+    "apk": "tachiyomi-all.olympusscanlation-v1.3.21.apk",
+    "lang": "all",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Olympus Scanlation",
+        "lang": "pt-BR",
+        "id": "3655034833454353805",
+        "baseUrl": "https://br.olympusscanlation.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Olympus Scanlation",
+        "lang": "es",
+        "id": "4384315126107049412",
+        "baseUrl": "https://olympusscanlation.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19020,27 +19049,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Olympus Scanlation",
-    "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.3.21.apk",
-    "lang": "es",
-    "code": 21,
-    "version": "1.3.21",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Olympus Scanlation",
-        "lang": "es",
-        "id": "4384315126107049412",
-        "baseUrl": "https://olympusscanlation.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Phoenix Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.phoenixfansub",
     "apk": "tachiyomi-es.phoenixfansub-v1.3.17.apk",
@@ -23042,6 +23050,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Leitura Noturna",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.leituranoturna",
+    "apk": "tachiyomi-pt.leituranoturna-v1.3.21.apk",
+    "lang": "pt-BR",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Leitura Noturna",
+        "lang": "pt-BR",
+        "id": "2017565427540434276",
+        "baseUrl": "https://leituranoturna.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Lima Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.limascans",
     "apk": "tachiyomi-pt.limascans-v1.3.23.apk",
@@ -23779,10 +23808,10 @@
   {
     "name": "Tachiyomi: Sinensis",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sinensis",
-    "apk": "tachiyomi-pt.sinensis-v1.3.23.apk",
+    "apk": "tachiyomi-pt.sinensis-v1.3.24.apk",
     "lang": "pt-BR",
-    "code": 23,
-    "version": "1.3.23",
+    "code": 24,
+    "version": "1.3.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23791,7 +23820,7 @@
         "name": "Sinensis",
         "lang": "pt-BR",
         "id": "3891513807564817914",
-        "baseUrl": "https://sinensisscan.com",
+        "baseUrl": "https://sinensisscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23834,6 +23863,27 @@
         "lang": "pt-BR",
         "id": "7330705555862299741",
         "baseUrl": "https://sodascan.xyz",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Summer Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.summerfansub",
+    "apk": "tachiyomi-pt.summerfansub-v1.3.15.apk",
+    "lang": "pt-BR",
+    "code": 15,
+    "version": "1.3.15",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Summer Fansub",
+        "lang": "pt-BR",
+        "id": "4113572066857168695",
+        "baseUrl": "https://smmr.in",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24045,27 +24095,6 @@
         "id": "2966445974202315599",
         "baseUrl": "http://xxx.vaposcans.com",
         "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Vapo Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.vaposcan",
-    "apk": "tachiyomi-pt.vaposcan-v1.3.22.apk",
-    "lang": "pt-BR",
-    "code": 22,
-    "version": "1.3.22",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Vapo Scan",
-        "lang": "pt-BR",
-        "id": "271724643245214241",
-        "baseUrl": "https://vaposcans.com",
-        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
