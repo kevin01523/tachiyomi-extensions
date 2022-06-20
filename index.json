@@ -4170,10 +4170,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.3.33.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.3.34.apk",
     "lang": "all",
-    "code": 33,
-    "version": "1.3.33",
+    "code": 34,
+    "version": "1.3.34",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -12111,21 +12111,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: manga-raw.club",
+    "name": "Tachiyomi: mcreader.net",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.3.11.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.3.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.3.11",
+    "code": 12,
+    "version": "1.3.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "manga-raw.club",
+        "name": "mcreader.net",
         "lang": "en",
         "id": "734865402529567092",
-        "baseUrl": "https://www.manga-raw.club",
+        "baseUrl": "https://www.mcreader.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18489,6 +18489,27 @@
         "lang": "es",
         "id": "7567013997438852760",
         "baseUrl": "https://ikuhentai.net/",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: InariManga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
+    "apk": "tachiyomi-es.inarimanga-v1.3.13.apk",
+    "lang": "es",
+    "code": 13,
+    "version": "1.3.13",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "InariManga",
+        "lang": "es",
+        "id": "2135814087562697653",
+        "baseUrl": "https://inarimanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26635,10 +26656,10 @@
   {
     "name": "Tachiyomi: ManhuaDB",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuadb",
-    "apk": "tachiyomi-zh.manhuadb-v1.3.4.apk",
+    "apk": "tachiyomi-zh.manhuadb-v1.3.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
