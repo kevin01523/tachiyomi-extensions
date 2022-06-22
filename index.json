@@ -31,10 +31,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.3.25.apk",
+    "apk": "tachiyomi-all.batoto-v1.3.26.apk",
     "lang": "all",
-    "code": 25,
-    "version": "1.3.25",
+    "code": 26,
+    "version": "1.3.26",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -1373,10 +1373,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.3.13.apk",
+    "apk": "tachiyomi-all.cubari-v1.3.14.apk",
     "lang": "all",
-    "code": 13,
-    "version": "1.3.13",
+    "code": 14,
+    "version": "1.3.14",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -6459,6 +6459,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Alarab",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaalarab",
+    "apk": "tachiyomi-ar.mangaalarab-v1.3.21.apk",
+    "lang": "ar",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Alarab",
+        "lang": "ar",
+        "id": "6409767865121453660",
+        "baseUrl": "https://manga-alarab.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: مانجا العرب",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaalarab",
     "apk": "tachiyomi-ar.mangaalarab-v1.3.7.apk",
@@ -6470,12 +6491,12 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaAlarab",
+        "name": "Manga Alarab",
         "lang": "ar",
-        "id": "3011437672288183404",
-        "baseUrl": "https://mangaalarab.com",
+        "id": "6409767865121453660",
+        "baseUrl": "https://manga-alarab.com",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
@@ -21985,7 +22006,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki169.net",
+        "baseUrl": "https://manatoki170.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21993,7 +22014,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki169.com",
+        "baseUrl": "https://newtoki170.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24375,10 +24396,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.hentailib",
-    "apk": "tachiyomi-ru.hentailib-v1.3.24.apk",
+    "apk": "tachiyomi-ru.hentailib-v1.3.25.apk",
     "lang": "ru",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24480,10 +24501,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
-    "apk": "tachiyomi-ru.mangalib-v1.3.79.apk",
+    "apk": "tachiyomi-ru.mangalib-v1.3.80.apk",
     "lang": "ru",
-    "code": 79,
-    "version": "1.3.79",
+    "code": 80,
+    "version": "1.3.80",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26454,10 +26475,10 @@
   {
     "name": "Tachiyomi: Gufeng Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-    "apk": "tachiyomi-zh.gufengmh-v1.3.9.apk",
+    "apk": "tachiyomi-zh.gufengmh-v1.3.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26580,10 +26601,10 @@
   {
     "name": "Tachiyomi: Imitui Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.imitui",
-    "apk": "tachiyomi-zh.imitui-v1.3.6.apk",
+    "apk": "tachiyomi-zh.imitui-v1.3.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26706,10 +26727,10 @@
   {
     "name": "Tachiyomi: YKMH",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuadui",
-    "apk": "tachiyomi-zh.manhuadui-v1.3.21.apk",
+    "apk": "tachiyomi-zh.manhuadui-v1.3.22.apk",
     "lang": "zh",
-    "code": 21,
-    "version": "1.3.21",
+    "code": 22,
+    "version": "1.3.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26851,6 +26872,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Qinqin Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.qinqin",
+    "apk": "tachiyomi-zh.qinqin-v1.3.5.apk",
+    "lang": "zh",
+    "code": 5,
+    "version": "1.3.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "亲亲漫画",
+        "lang": "zh",
+        "id": "5708464438257530526",
+        "baseUrl": "https://www.acgqd.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: QiXiManhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.qiximh",
     "apk": "tachiyomi-zh.qiximh-v1.3.4.apk",
@@ -26956,12 +26998,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: WuqiManga",
+    "name": "Tachiyomi: 57Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wuqimanga",
-    "apk": "tachiyomi-zh.wuqimanga-v1.3.3.apk",
+    "apk": "tachiyomi-zh.wuqimanga-v1.3.8.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
