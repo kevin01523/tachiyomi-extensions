@@ -6470,12 +6470,12 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga Alarab",
+        "name": "MangaAlarab",
         "lang": "ar",
-        "id": "6409767865121453660",
-        "baseUrl": "https://manga-alarab.com",
+        "id": "3011437672288183404",
+        "baseUrl": "https://mangaalarab.com",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
@@ -6491,12 +6491,12 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga Alarab",
+        "name": "MangaAlarab",
         "lang": "ar",
-        "id": "6409767865121453660",
-        "baseUrl": "https://manga-alarab.com",
+        "id": "3011437672288183404",
+        "baseUrl": "https://mangaalarab.com",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
@@ -12029,27 +12029,6 @@
         "lang": "en",
         "id": "6944316533867706525",
         "baseUrl": "https://mangaonlineteam.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaOwl",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaowl",
-    "apk": "tachiyomi-en.mangaowl-v1.3.25.apk",
-    "lang": "en",
-    "code": 25,
-    "version": "1.3.25",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaOwl",
-        "lang": "en",
-        "id": "5912129849785928949",
-        "baseUrl": "https://mangaowls.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27013,27 +26992,6 @@
         "lang": "zh",
         "id": "6973908146706613748",
         "baseUrl": "http://www.wuqimh.net",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Yimmh",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.yimmh",
-    "apk": "tachiyomi-zh.yimmh-v1.3.5.apk",
-    "lang": "zh",
-    "code": 5,
-    "version": "1.3.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "忆漫",
-        "lang": "zh",
-        "id": "4054740359162549936",
-        "baseUrl": "https://m.yimmh.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
