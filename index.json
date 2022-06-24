@@ -7280,10 +7280,10 @@
   {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
-    "apk": "tachiyomi-en.aquamanga-v1.3.21.apk",
+    "apk": "tachiyomi-en.aquamanga-v1.3.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.3.21",
+    "code": 22,
+    "version": "1.3.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9914,6 +9914,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lala Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lalamanga",
+    "apk": "tachiyomi-en.lalamanga-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lala Manga",
+        "lang": "en",
+        "id": "9136926923442905745",
+        "baseUrl": "https://lalamanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Lara Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.laramanga",
     "apk": "tachiyomi-en.laramanga-v1.3.21.apk",
@@ -12476,6 +12497,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaSiro",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangasiro",
+    "apk": "tachiyomi-en.mangasiro-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaSiro",
+        "lang": "en",
+        "id": "5824595730165070163",
+        "baseUrl": "https://mangasiro.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Sky",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasky",
     "apk": "tachiyomi-en.mangasky-v1.3.21.apk",
@@ -14906,6 +14948,27 @@
         "lang": "en",
         "id": "4878002226963927404",
         "baseUrl": "https://phantomscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pian Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.pianmanga",
+    "apk": "tachiyomi-en.pianmanga-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pian Manga",
+        "lang": "en",
+        "id": "4277591029938057112",
+        "baseUrl": "https://pianmanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
