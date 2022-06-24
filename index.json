@@ -6459,27 +6459,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Alarab",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaalarab",
-    "apk": "tachiyomi-ar.mangaalarab-v1.3.21.apk",
-    "lang": "ar",
-    "code": 21,
-    "version": "1.3.21",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaAlarab",
-        "lang": "ar",
-        "id": "3011437672288183404",
-        "baseUrl": "https://mangaalarab.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: مانجا العرب",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaalarab",
     "apk": "tachiyomi-ar.mangaalarab-v1.3.7.apk",
@@ -6537,6 +6516,27 @@
         "lang": "ar",
         "id": "7508878706836874647",
         "baseUrl": "https://mangaka3rb.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: مانجا العرب Manga Alarab",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalarab",
+    "apk": "tachiyomi-ar.mangalarab-v1.3.22.apk",
+    "lang": "ar",
+    "code": 22,
+    "version": "1.3.22",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "مانجا العرب Manga Alarab",
+        "lang": "ar",
+        "id": "3659349346202197160",
+        "baseUrl": "https://manga-alarab.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26391,10 +26391,10 @@
   {
     "name": "Tachiyomi: CopyManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-    "apk": "tachiyomi-zh.copymanga-v1.3.27.apk",
+    "apk": "tachiyomi-zh.copymanga-v1.3.28.apk",
     "lang": "zh",
-    "code": 27,
-    "version": "1.3.27",
+    "code": 28,
+    "version": "1.3.28",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26454,10 +26454,10 @@
   {
     "name": "Tachiyomi: Gufeng Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-    "apk": "tachiyomi-zh.gufengmh-v1.3.10.apk",
+    "apk": "tachiyomi-zh.gufengmh-v1.3.11.apk",
     "lang": "zh",
-    "code": 10,
-    "version": "1.3.10",
+    "code": 11,
+    "version": "1.3.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
