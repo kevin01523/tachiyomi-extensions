@@ -9370,10 +9370,10 @@
   {
     "name": "Tachiyomi: Infernal Void Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.3.18.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.3.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.3.18",
+    "code": 19,
+    "version": "1.3.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9382,7 +9382,7 @@
         "name": "Infernal Void Scans",
         "lang": "en",
         "id": "6422096666751316291",
-        "baseUrl": "https://infernalvoidscans.com",
+        "baseUrl": "https://void-scans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26454,10 +26454,10 @@
   {
     "name": "Tachiyomi: CopyManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-    "apk": "tachiyomi-zh.copymanga-v1.3.28.apk",
+    "apk": "tachiyomi-zh.copymanga-v1.3.29.apk",
     "lang": "zh",
-    "code": 28,
-    "version": "1.3.28",
+    "code": 29,
+    "version": "1.3.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
