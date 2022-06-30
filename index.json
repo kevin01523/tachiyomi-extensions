@@ -26452,27 +26452,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: CopyManga",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-    "apk": "tachiyomi-zh.copymanga-v1.3.31.apk",
-    "lang": "zh",
-    "code": 31,
-    "version": "1.3.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "拷贝漫画",
-        "lang": "zh",
-        "id": "6696312508930833206",
-        "baseUrl": "https://www.copymanga.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
     "apk": "tachiyomi-zh.dmzj-v1.3.30.apk",
