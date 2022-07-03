@@ -26956,6 +26956,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: 6Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.sixmh",
+    "apk": "tachiyomi-zh.sixmh-v1.3.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "6漫画",
+        "lang": "zh",
+        "id": "7259486566651312186",
+        "baseUrl": "http://www.sixmh7.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tencent Comics (ac.qq.com)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.tencentcomics",
     "apk": "tachiyomi-zh.tencentcomics-v1.3.5.apk",
