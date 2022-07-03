@@ -21033,11 +21033,11 @@
   {
     "name": "Tachiyomi: Mangaworld",
     "pkg": "eu.kanade.tachiyomi.extension.it.mangaworld",
-    "apk": "tachiyomi-it.mangaworld-v1.3.5.apk",
+    "apk": "tachiyomi-it.mangaworld-v1.3.6.apk",
     "lang": "it",
-    "code": 5,
-    "version": "1.3.5",
-    "nsfw": 1,
+    "code": 6,
+    "version": "1.3.6",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21046,6 +21046,27 @@
         "lang": "it",
         "id": "7114846210461894145",
         "baseUrl": "https://www.mangaworld.in",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaworldAdult",
+    "pkg": "eu.kanade.tachiyomi.extension.it.mangaworldadult",
+    "apk": "tachiyomi-it.mangaworldadult-v1.3.1.apk",
+    "lang": "it",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaworldAdult",
+        "lang": "it",
+        "id": "392961957042768607",
+        "baseUrl": "https://www.mangaworldadult.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
