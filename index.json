@@ -5231,10 +5231,10 @@
   {
     "name": "Tachiyomi: Ravens Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.ravensscans",
-    "apk": "tachiyomi-all.ravensscans-v1.3.5.apk",
+    "apk": "tachiyomi-all.ravensscans-v1.3.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7173,6 +7173,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Akuzenai Arts",
+    "pkg": "eu.kanade.tachiyomi.extension.en.akuzenaiarts",
+    "apk": "tachiyomi-en.akuzenaiarts-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Akuzenai Arts",
+        "lang": "en",
+        "id": "3487398488218566699",
+        "baseUrl": "https://akuzenaiarts.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AllPornComic",
     "pkg": "eu.kanade.tachiyomi.extension.en.allporncomic",
     "apk": "tachiyomi-en.allporncomic-v1.3.21.apk",
@@ -7257,9 +7278,9 @@
     ]
   },
   {
-    "name": "Tachiyomi: Anitation Arts",
-    "pkg": "eu.kanade.tachiyomi.extension.en.anitationarts",
-    "apk": "tachiyomi-en.anitationarts-v1.3.15.apk",
+    "name": "Tachiyomi: Animated Glitched Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedscans",
+    "apk": "tachiyomi-en.animatedglitchedscans-v1.3.15.apk",
     "lang": "en",
     "code": 15,
     "version": "1.3.15",
@@ -7268,10 +7289,10 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Anitation Arts",
+        "name": "Animated Glitched Scans",
         "lang": "en",
-        "id": "5924904854159601897",
-        "baseUrl": "https://anitationarts.org",
+        "id": "77648069822920338",
+        "baseUrl": "https://anigliscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -16363,10 +16384,10 @@
   {
     "name": "Tachiyomi: Scylla Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.scyllascans",
-    "apk": "tachiyomi-en.scyllascans-v1.3.6.apk",
+    "apk": "tachiyomi-en.scyllascans-v1.3.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17012,27 +17033,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: The Nonames Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.thenonamesscans",
-    "apk": "tachiyomi-en.thenonamesscans-v1.3.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.3.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "The Nonames Scans",
-        "lang": "en",
-        "id": "4253972830859945069",
-        "baseUrl": "https://the-nonames.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: The Property of Hate",
     "pkg": "eu.kanade.tachiyomi.extension.en.thepropertyofhate",
     "apk": "tachiyomi-en.thepropertyofhate-v1.3.4.apk",
@@ -17474,27 +17474,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Vanguard Bun",
-    "pkg": "eu.kanade.tachiyomi.extension.en.vanguardbun",
-    "apk": "tachiyomi-en.vanguardbun-v1.3.22.apk",
-    "lang": "en",
-    "code": 22,
-    "version": "1.3.22",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Vanguard Bun",
-        "lang": "en",
-        "id": "4343394435801732101",
-        "baseUrl": "https://vanguardbun.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: vgperson",
     "pkg": "eu.kanade.tachiyomi.extension.en.vgperson",
     "apk": "tachiyomi-en.vgperson-v1.3.4.apk",
@@ -17594,27 +17573,6 @@
         "lang": "en",
         "id": "9161629559428486377",
         "baseUrl": "https://xrabohrok.github.io/WarMap/#/",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: WD Scans (Wicked Dragon Scans)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.wdscans",
-    "apk": "tachiyomi-en.wdscans-v1.3.21.apk",
-    "lang": "en",
-    "code": 21,
-    "version": "1.3.21",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "WD Scans (Wicked Dragon Scans)",
-        "lang": "en",
-        "id": "5198130264895669273",
-        "baseUrl": "https://wdscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17846,6 +17804,27 @@
         "lang": "en",
         "id": "4707876338832716606",
         "baseUrl": "https://whitecloudpavilion.com/manga/patreon",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: White Cloud Pavilion (New)",
+    "pkg": "eu.kanade.tachiyomi.extension.en.whitecloudpavilionnew",
+    "apk": "tachiyomi-en.whitecloudpavilionnew-v1.3.14.apk",
+    "lang": "en",
+    "code": 14,
+    "version": "1.3.14",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "White Cloud Pavilion (New)",
+        "lang": "en",
+        "id": "3086937479899925659",
+        "baseUrl": "https://www.whitecloudpavilion.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
