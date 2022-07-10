@@ -10924,10 +10924,10 @@
   {
     "name": "Tachiyomi: MangaDoom",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadoom",
-    "apk": "tachiyomi-en.mangadoom-v1.3.3.apk",
+    "apk": "tachiyomi-en.mangadoom-v1.3.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 4,
+    "version": "1.3.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19479,10 +19479,10 @@
   {
     "name": "Tachiyomi: Japanread",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japanread",
-    "apk": "tachiyomi-fr.japanread-v1.3.9.apk",
+    "apk": "tachiyomi-fr.japanread-v1.3.10.apk",
     "lang": "fr",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20920,6 +20920,27 @@
         "lang": "id",
         "id": "3921803774683581703",
         "baseUrl": "https://wrt.my.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DemoneCeleste",
+    "pkg": "eu.kanade.tachiyomi.extension.it.demoneceleste",
+    "apk": "tachiyomi-it.demoneceleste-v1.3.1.apk",
+    "lang": "it",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DemoneCeleste",
+        "lang": "it",
+        "id": "6934100553530573882",
+        "baseUrl": "https://www.demoneceleste.it/",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24417,10 +24438,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.hentailib",
-    "apk": "tachiyomi-ru.hentailib-v1.3.26.apk",
+    "apk": "tachiyomi-ru.hentailib-v1.3.27.apk",
     "lang": "ru",
-    "code": 26,
-    "version": "1.3.26",
+    "code": 27,
+    "version": "1.3.27",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24522,10 +24543,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
-    "apk": "tachiyomi-ru.mangalib-v1.3.81.apk",
+    "apk": "tachiyomi-ru.mangalib-v1.3.82.apk",
     "lang": "ru",
-    "code": 81,
-    "version": "1.3.81",
+    "code": 82,
+    "version": "1.3.82",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24858,10 +24879,10 @@
   {
     "name": "Tachiyomi: YaoiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoilib",
-    "apk": "tachiyomi-ru.yaoilib-v1.3.8.apk",
+    "apk": "tachiyomi-ru.yaoilib-v1.3.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26538,10 +26559,10 @@
   {
     "name": "Tachiyomi: Haoman6",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6",
-    "apk": "tachiyomi-zh.haoman6-v1.3.4.apk",
+    "apk": "tachiyomi-zh.haoman6-v1.3.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26559,10 +26580,10 @@
   {
     "name": "Tachiyomi: Haoman6 (g-lens)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6_glens",
-    "apk": "tachiyomi-zh.haoman6_glens-v1.3.2.apk",
+    "apk": "tachiyomi-zh.haoman6_glens-v1.3.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26580,10 +26601,10 @@
   {
     "name": "Tachiyomi: Haoman8",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haoman8",
-    "apk": "tachiyomi-zh.haoman8-v1.3.2.apk",
+    "apk": "tachiyomi-zh.haoman8-v1.3.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26592,7 +26613,7 @@
         "name": "好漫8",
         "lang": "zh",
         "id": "8428908309737098696",
-        "baseUrl": "https://caiji.haoman8.com",
+        "baseUrl": "https://www.haoman8.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26601,10 +26622,10 @@
   {
     "name": "Tachiyomi: Haomanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haomanwu",
-    "apk": "tachiyomi-zh.haomanwu-v1.3.5.apk",
+    "apk": "tachiyomi-zh.haomanwu-v1.3.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26614,6 +26635,27 @@
         "lang": "zh",
         "id": "2636772176248575356",
         "baseUrl": "https://app2.haoman6.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Haomanwu (www)",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.haomanwu_www",
+    "apk": "tachiyomi-zh.haomanwu_www-v1.3.3.apk",
+    "lang": "zh",
+    "code": 3,
+    "version": "1.3.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "好漫屋 (网页)",
+        "lang": "zh",
+        "id": "7484453087554930392",
+        "baseUrl": "https://www.haomanwu.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26803,6 +26845,27 @@
         "lang": "zh",
         "id": "6974398504587768360",
         "baseUrl": "https://www.manhuagui.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pupu Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.manhuaorg",
+    "apk": "tachiyomi-zh.manhuaorg-v1.3.3.apk",
+    "lang": "zh",
+    "code": 3,
+    "version": "1.3.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "朴朴漫画",
+        "lang": "zh",
+        "id": "6699237900686522982",
+        "baseUrl": "https://www.manhuaorg.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
