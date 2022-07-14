@@ -21330,27 +21330,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Comick",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.comick",
-    "apk": "tachiyomi-ja.comick-v1.3.2.apk",
-    "lang": "ja",
-    "code": 2,
-    "version": "1.3.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Comick",
-        "lang": "ja",
-        "id": "7016065305092188139",
-        "baseUrl": "https://comick.top",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Comiplex",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comiplex",
     "apk": "tachiyomi-ja.comiplex-v1.3.5.apk",
@@ -21533,7 +21512,28 @@
         "name": "Manga1001",
         "lang": "ja",
         "id": "4239270419267556174",
-        "baseUrl": "https://manga1001.top/",
+        "baseUrl": "https://manga1001.top",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga9co",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.manga9co",
+    "apk": "tachiyomi-ja.manga9co-v1.3.2.apk",
+    "lang": "ja",
+    "code": 2,
+    "version": "1.3.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga9co",
+        "lang": "ja",
+        "id": "4572869149806246133",
+        "baseUrl": "https://manga9.co/",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -21599,27 +21599,6 @@
         "baseUrl": "https://mangakala.com",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaPro",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.mangapro",
-    "apk": "tachiyomi-ja.mangapro-v1.3.2.apk",
-    "lang": "ja",
-    "code": 2,
-    "version": "1.3.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaPro",
-        "lang": "ja",
-        "id": "629737513778186847",
-        "baseUrl": "https://mangapro.top",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
@@ -26415,12 +26394,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: Baozimanhua",
+    "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.3.8.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.3.9.apk",
     "lang": "zh",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -26431,7 +26410,7 @@
         "id": "5724751873601868259",
         "baseUrl": "https://cn.baozimh.com",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
