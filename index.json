@@ -9837,10 +9837,10 @@
   {
     "name": "Tachiyomi: Koushoku",
     "pkg": "eu.kanade.tachiyomi.extension.en.koushoku",
-    "apk": "tachiyomi-en.koushoku-v1.3.4.apk",
+    "apk": "tachiyomi-en.koushoku-v1.3.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18930,10 +18930,10 @@
   {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
-    "apk": "tachiyomi-es.manhwalatino-v1.3.18.apk",
+    "apk": "tachiyomi-es.manhwalatino-v1.3.19.apk",
     "lang": "es",
-    "code": 18,
-    "version": "1.3.18",
+    "code": 19,
+    "version": "1.3.19",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18942,7 +18942,7 @@
         "name": "Manhwa-Latino",
         "lang": "es",
         "id": "3548601371328353875",
-        "baseUrl": "https://manhwa-es.com",
+        "baseUrl": "https://manhwa-latino.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19373,6 +19373,27 @@
         "baseUrl": "https://anime-sama.fr",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: AralosBD",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.aralosbd",
+    "apk": "tachiyomi-fr.aralosbd-v1.3.4.apk",
+    "lang": "fr",
+    "code": 4,
+    "version": "1.3.4",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AralosBD",
+        "lang": "fr",
+        "id": "7086384324753337104",
+        "baseUrl": "https://aralosbd.fr",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -20933,10 +20954,10 @@
   {
     "name": "Tachiyomi: DemoneCeleste",
     "pkg": "eu.kanade.tachiyomi.extension.it.demoneceleste",
-    "apk": "tachiyomi-it.demoneceleste-v1.3.1.apk",
+    "apk": "tachiyomi-it.demoneceleste-v1.3.2.apk",
     "lang": "it",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21162,27 +21183,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: QuegnaReader",
-    "pkg": "eu.kanade.tachiyomi.extension.it.quegnareader",
-    "apk": "tachiyomi-it.quegnareader-v1.3.4.apk",
-    "lang": "it",
-    "code": 4,
-    "version": "1.3.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "QuegnaReader",
-        "lang": "it",
-        "id": "8522117853543436393",
-        "baseUrl": "http://pignaquegna.altervista.org",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Rama",
     "pkg": "eu.kanade.tachiyomi.extension.it.rama",
     "apk": "tachiyomi-it.rama-v1.3.3.apk",
@@ -21200,6 +21200,27 @@
         "baseUrl": "https://www.ramareader.it",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ShavelProiection",
+    "pkg": "eu.kanade.tachiyomi.extension.it.shavelproiection",
+    "apk": "tachiyomi-it.shavelproiection-v1.3.21.apk",
+    "lang": "it",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ShavelProiection",
+        "lang": "it",
+        "id": "1177074683195810699",
+        "baseUrl": "https://www.shavelproiection.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -21227,10 +21248,10 @@
   {
     "name": "Tachiyomi: TuttoAnimeManga",
     "pkg": "eu.kanade.tachiyomi.extension.it.tuttoanimemanga",
-    "apk": "tachiyomi-it.tuttoanimemanga-v1.3.3.apk",
+    "apk": "tachiyomi-it.tuttoanimemanga-v1.3.6.apk",
     "lang": "it",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21239,7 +21260,7 @@
         "name": "TuttoAnimeManga",
         "lang": "it",
         "id": "2102507871480604746",
-        "baseUrl": "https://tuttoanimemanga.net",
+        "baseUrl": "http://tuttoanimemanga.net",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -24632,10 +24653,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.3.49.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.3.50.apk",
     "lang": "ru",
-    "code": 49,
-    "version": "1.3.49",
+    "code": 50,
+    "version": "1.3.50",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24644,7 +24665,7 @@
         "name": "ReadManga",
         "lang": "ru",
         "id": "5",
-        "baseUrl": "https://readmanga.io",
+        "baseUrl": "https://readmanga.live",
         "versionId": 1,
         "hasCloudflare": 1
       }
