@@ -26795,10 +26795,10 @@
   {
     "name": "Tachiyomi: Kuaikanmanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua",
-    "apk": "tachiyomi-zh.kuaikanmanhua-v1.3.9.apk",
+    "apk": "tachiyomi-zh.kuaikanmanhua-v1.3.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
