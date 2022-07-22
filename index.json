@@ -24126,27 +24126,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Neox Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.neoxscanlator",
-    "apk": "tachiyomi-pt.neoxscanlator-v1.3.37.apk",
-    "lang": "pt-BR",
-    "code": 37,
-    "version": "1.3.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Neox Scanlator",
-        "lang": "pt-BR",
-        "id": "1784135076119945250",
-        "baseUrl": "https://neoxscans.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Ninja Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.ninjascan",
     "apk": "tachiyomi-pt.ninjascan-v1.3.24.apk",
@@ -24632,10 +24611,10 @@
   {
     "name": "Tachiyomi: Tatakae Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tatakaescan",
-    "apk": "tachiyomi-pt.tatakaescan-v1.3.24.apk",
+    "apk": "tachiyomi-pt.tatakaescan-v1.3.25.apk",
     "lang": "pt-BR",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24644,7 +24623,7 @@
         "name": "Tatakae Scan",
         "lang": "pt-BR",
         "id": "7640190247679480703",
-        "baseUrl": "https://tatakaescan.xyz",
+        "baseUrl": "https://tatakaescan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
