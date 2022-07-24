@@ -1740,10 +1740,10 @@
   {
     "name": "Tachiyomi: E-Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "tachiyomi-all.ehentai-v1.3.16.apk",
+    "apk": "tachiyomi-all.ehentai-v1.3.17.apk",
     "lang": "all",
-    "code": 16,
-    "version": "1.3.16",
+    "code": 17,
+    "version": "1.3.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7558,10 +7558,10 @@
   {
     "name": "Tachiyomi: Bakkin",
     "pkg": "eu.kanade.tachiyomi.extension.en.bakkin",
-    "apk": "tachiyomi-en.bakkin-v1.3.4.apk",
+    "apk": "tachiyomi-en.bakkin-v1.3.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7579,10 +7579,10 @@
   {
     "name": "Tachiyomi: Bakkin Self-hosted",
     "pkg": "eu.kanade.tachiyomi.extension.en.bakkinselfhosted",
-    "apk": "tachiyomi-en.bakkinselfhosted-v1.3.4.apk",
+    "apk": "tachiyomi-en.bakkinselfhosted-v1.3.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25680,6 +25680,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Niceoppai",
+    "pkg": "eu.kanade.tachiyomi.extension.th.niceoppai",
+    "apk": "tachiyomi-th.niceoppai-v1.3.23.apk",
+    "lang": "th",
+    "code": 23,
+    "version": "1.3.23",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Niceoppai",
+        "lang": "th",
+        "id": "7720269837249664423",
+        "baseUrl": "https://www.niceoppai.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rh2PlusManga",
     "pkg": "eu.kanade.tachiyomi.extension.th.rh2plusmanga",
     "apk": "tachiyomi-th.rh2plusmanga-v1.3.27.apk",
@@ -26898,6 +26919,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: LKDTT",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.lkdtt",
+    "apk": "tachiyomi-vi.lkdtt-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LKDTT",
+        "lang": "vi",
+        "id": "6755797126867425617",
+        "baseUrl": "https://lkdtt.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhuaRock",
     "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
     "apk": "tachiyomi-vi.manhuarock-v1.3.8.apk",
@@ -27003,6 +27045,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Phê Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.phemanga",
+    "apk": "tachiyomi-vi.phemanga-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Phê Manga",
+        "lang": "vi",
+        "id": "841842111356923980",
+        "baseUrl": "https://phemanga.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Say Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
     "apk": "tachiyomi-vi.saytruyen-v1.3.9.apk",
@@ -27068,10 +27131,10 @@
   {
     "name": "Tachiyomi: TruyenTranhLH",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyentranhlh",
-    "apk": "tachiyomi-vi.truyentranhlh-v1.3.9.apk",
+    "apk": "tachiyomi-vi.truyentranhlh-v1.3.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
