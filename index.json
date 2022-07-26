@@ -4755,10 +4755,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.3.34.apk",
+    "apk": "tachiyomi-all.nhentai-v1.3.35.apk",
     "lang": "all",
-    "code": 34,
-    "version": "1.3.34",
+    "code": 35,
+    "version": "1.3.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21030,6 +21030,27 @@
         "lang": "id",
         "id": "4838485846640015979",
         "baseUrl": "https://komiku.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komiku.com",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikucom",
+    "apk": "tachiyomi-id.komikucom-v1.3.14.apk",
+    "lang": "id",
+    "code": 14,
+    "version": "1.3.14",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komiku.com",
+        "lang": "id",
+        "id": "8489420317813224728",
+        "baseUrl": "https://komiku.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
