@@ -4403,10 +4403,10 @@
   {
     "name": "Tachiyomi: Manga UP!",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaup",
-    "apk": "tachiyomi-all.mangaup-v1.3.1.apk",
+    "apk": "tachiyomi-all.mangaup-v1.3.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -12667,10 +12667,10 @@
   {
     "name": "Tachiyomi: MangaSee",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasee",
-    "apk": "tachiyomi-en.mangasee-v1.3.31.apk",
+    "apk": "tachiyomi-en.mangasee-v1.3.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.3.31",
+    "code": 32,
+    "version": "1.3.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17980,10 +17980,10 @@
   {
     "name": "Tachiyomi: Webnovel.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.webnovel",
-    "apk": "tachiyomi-en.webnovel-v1.3.3.apk",
+    "apk": "tachiyomi-en.webnovel-v1.3.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 4,
+    "version": "1.3.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22840,6 +22840,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Amuy",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.amuy",
+    "apk": "tachiyomi-pt.amuy-v1.3.24.apk",
+    "lang": "pt-BR",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Amuy",
+        "lang": "pt-BR",
+        "id": "5257426184455231951",
+        "baseUrl": "https://amuyscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AnimaRegia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.animaregia",
     "apk": "tachiyomi-pt.animaregia-v1.3.9.apk",
@@ -23325,10 +23346,10 @@
   {
     "name": "Tachiyomi: Fleur Blanche",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
-    "apk": "tachiyomi-pt.fleurblanche-v1.3.25.apk",
+    "apk": "tachiyomi-pt.fleurblanche-v1.3.26.apk",
     "lang": "pt-BR",
-    "code": 25,
-    "version": "1.3.25",
+    "code": 26,
+    "version": "1.3.26",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23337,7 +23358,7 @@
         "name": "Fleur Blanche",
         "lang": "pt-BR",
         "id": "2748000026130339026",
-        "baseUrl": "https://fbsquadz.com",
+        "baseUrl": "https://fbsquads.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23800,6 +23821,27 @@
         "lang": "pt-BR",
         "id": "2691607827452752161",
         "baseUrl": "https://mangaschan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mangás Overall",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangasoverall",
+    "apk": "tachiyomi-pt.mangasoverall-v1.3.24.apk",
+    "lang": "pt-BR",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangás Overall",
+        "lang": "pt-BR",
+        "id": "7865569692125193686",
+        "baseUrl": "https://mangasoverall.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24312,10 +24354,10 @@
   {
     "name": "Tachiyomi: Random Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.3.28.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.3.29.apk",
     "lang": "pt-BR",
-    "code": 28,
-    "version": "1.3.28",
+    "code": 29,
+    "version": "1.3.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24324,7 +24366,7 @@
         "name": "Random Scan",
         "lang": "pt-BR",
         "id": "8295593204533043008",
-        "baseUrl": "https://randomscan.online",
+        "baseUrl": "https://randomscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27208,27 +27250,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Bainian Manhua",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.bainianmanga",
-    "apk": "tachiyomi-zh.bainianmanga-v1.3.8.apk",
-    "lang": "zh",
-    "code": 8,
-    "version": "1.3.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "百年漫画",
-        "lang": "zh",
-        "id": "803383413234524994",
-        "baseUrl": "https://www.bnman.net",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
     "apk": "tachiyomi-zh.baozimanhua-v1.3.12.apk",
@@ -27313,6 +27334,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comicabc",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.comicabc",
+    "apk": "tachiyomi-zh.comicabc-v1.3.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "無限動漫",
+        "lang": "zh",
+        "id": "8110122805257580230",
+        "baseUrl": "https://www.comicabc.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
     "apk": "tachiyomi-zh.dmzj-v1.3.30.apk",
@@ -27357,10 +27399,10 @@
   {
     "name": "Tachiyomi: Gufeng Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-    "apk": "tachiyomi-zh.gufengmh-v1.3.12.apk",
+    "apk": "tachiyomi-zh.gufengmh-v1.3.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.3.12",
+    "code": 13,
+    "version": "1.3.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27504,10 +27546,10 @@
   {
     "name": "Tachiyomi: Imitui Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.imitui",
-    "apk": "tachiyomi-zh.imitui-v1.3.8.apk",
+    "apk": "tachiyomi-zh.imitui-v1.3.9.apk",
     "lang": "zh",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27628,27 +27670,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: YKMH",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.manhuadui",
-    "apk": "tachiyomi-zh.manhuadui-v1.3.23.apk",
-    "lang": "zh",
-    "code": 23,
-    "version": "1.3.23",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "优酷漫画",
-        "lang": "zh",
-        "id": "1637952806167036168",
-        "baseUrl": "http://www.ykmh.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ManHuaGui",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuagui",
     "apk": "tachiyomi-zh.manhuagui-v1.3.14.apk",
@@ -27672,10 +27693,10 @@
   {
     "name": "Tachiyomi: Pupu Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuaorg",
-    "apk": "tachiyomi-zh.manhuaorg-v1.3.3.apk",
+    "apk": "tachiyomi-zh.manhuaorg-v1.3.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 4,
+    "version": "1.3.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27684,7 +27705,7 @@
         "name": "朴朴漫画",
         "lang": "zh",
         "id": "6699237900686522982",
-        "baseUrl": "https://www.manhuaorg.com",
+        "baseUrl": "https://app.manhuaorg.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -27754,54 +27775,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: Pufei Manhua",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.pufei",
-    "apk": "tachiyomi-zh.pufei-v1.3.10.apk",
-    "lang": "zh",
-    "code": 10,
-    "version": "1.3.10",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "扑飞漫画",
-        "lang": "zh",
-        "id": "8058371969227852729",
-        "baseUrl": "http://m.pufei.cc",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Qimiaomh",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.qimiaomh",
-    "apk": "tachiyomi-zh.qimiaomh-v1.3.3.apk",
-    "lang": "zh",
-    "code": 3,
-    "version": "1.3.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "奇妙漫画",
-        "lang": "zh",
-        "id": "6473574292325120331",
-        "baseUrl": "https://www.qimiaomh.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Qinqin Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.qinqin",
-    "apk": "tachiyomi-zh.qinqin-v1.3.7.apk",
+    "apk": "tachiyomi-zh.qinqin-v1.3.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.3.7",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27945,10 +27924,10 @@
   {
     "name": "Tachiyomi: 57Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wuqimanga",
-    "apk": "tachiyomi-zh.wuqimanga-v1.3.9.apk",
+    "apk": "tachiyomi-zh.wuqimanga-v1.3.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27966,10 +27945,10 @@
   {
     "name": "Tachiyomi: Zerobyw",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
-    "apk": "tachiyomi-zh.zerobyw-v1.3.9.apk",
+    "apk": "tachiyomi-zh.zerobyw-v1.3.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27978,7 +27957,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywps8.com",
+        "baseUrl": "http://www.zerobywyidu.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
