@@ -22354,27 +22354,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Raw Mangas",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.rawmangas",
-    "apk": "tachiyomi-ja.rawmangas-v1.3.26.apk",
-    "lang": "ja",
-    "code": 26,
-    "version": "1.3.26",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Raw Mangas",
-        "lang": "ja",
-        "id": "7970937808561774321",
-        "baseUrl": "https://rawmangas.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Sen Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.senmanga",
     "apk": "tachiyomi-ja.senmanga-v1.3.5.apk",
