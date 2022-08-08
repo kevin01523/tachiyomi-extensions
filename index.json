@@ -9937,10 +9937,10 @@
   {
     "name": "Tachiyomi: Koushoku",
     "pkg": "eu.kanade.tachiyomi.extension.en.koushoku",
-    "apk": "tachiyomi-en.koushoku-v1.3.13.apk",
+    "apk": "tachiyomi-en.koushoku-v1.3.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.3.13",
+    "code": 14,
+    "version": "1.3.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22657,7 +22657,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki176.net",
+        "baseUrl": "https://manatoki177.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -22665,7 +22665,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki176.com",
+        "baseUrl": "https://newtoki177.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
