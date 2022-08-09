@@ -2828,6 +2828,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Little Garden",
+    "pkg": "eu.kanade.tachiyomi.extension.all.littlegarden",
+    "apk": "tachiyomi-all.littlegarden-v1.3.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Little Garden",
+        "lang": "all",
+        "id": "4646674279369583651",
+        "baseUrl": "https://littlexgarden.com/",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Luscious",
     "pkg": "eu.kanade.tachiyomi.extension.all.luscious",
     "apk": "tachiyomi-all.luscious-v1.3.19.apk",
