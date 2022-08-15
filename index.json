@@ -22049,10 +22049,10 @@
   {
     "name": "Tachiyomi: Comic Newtype",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comicnewtype",
-    "apk": "tachiyomi-ja.comicnewtype-v1.3.1.apk",
+    "apk": "tachiyomi-ja.comicnewtype-v1.3.2.apk",
     "lang": "ja",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
