@@ -6868,10 +6868,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.3.24.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.3.25.apk",
     "lang": "ar",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -6880,7 +6880,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://swatmanga.co",
+        "baseUrl": "https://swatmanga.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19458,10 +19458,10 @@
   {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
-    "apk": "tachiyomi-es.manhwalatino-v1.3.19.apk",
+    "apk": "tachiyomi-es.manhwalatino-v1.3.20.apk",
     "lang": "es",
-    "code": 19,
-    "version": "1.3.19",
+    "code": 20,
+    "version": "1.3.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19472,7 +19472,7 @@
         "id": "3548601371328353875",
         "baseUrl": "https://manhwa-latino.com",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
