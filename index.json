@@ -15718,6 +15718,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: ReadComicOnline",
+    "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
+    "apk": "tachiyomi-en.readcomiconline-v1.3.13.apk",
+    "lang": "en",
+    "code": 13,
+    "version": "1.3.13",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReadComicOnline",
+        "lang": "en",
+        "id": "8061953015808280611",
+        "baseUrl": "https://readcomiconline.li",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Read Comics Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomicsonline",
     "apk": "tachiyomi-en.readcomicsonline-v1.3.5.apk",
@@ -22236,7 +22257,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga1001",
+    "name": "Tachiyomi: Manga1001 (Broken)",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga1001",
     "apk": "tachiyomi-ja.manga1001-v1.3.2.apk",
     "lang": "ja",
@@ -22257,22 +22278,22 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga9co",
+    "name": "Tachiyomi: MangaRaw",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga9co",
-    "apk": "tachiyomi-ja.manga9co-v1.3.2.apk",
+    "apk": "tachiyomi-ja.manga9co-v1.3.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga9co",
+        "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://manga9.co/",
-        "versionId": 1,
+        "baseUrl": "https://manga9.co",
+        "versionId": 2,
         "hasCloudflare": 0
       }
     ]
@@ -22511,10 +22532,10 @@
   {
     "name": "Tachiyomi: SyoSetu",
     "pkg": "eu.kanade.tachiyomi.extension.ja.syosetu",
-    "apk": "tachiyomi-ja.syosetu-v1.3.2.apk",
+    "apk": "tachiyomi-ja.syosetu-v1.3.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27657,12 +27678,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: Jinmantiantang",
+    "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.3.29.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.3.30.apk",
     "lang": "zh",
-    "code": 29,
-    "version": "1.3.29",
+    "code": 30,
+    "version": "1.3.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
