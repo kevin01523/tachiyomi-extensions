@@ -20745,6 +20745,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dojing.net",
+    "pkg": "eu.kanade.tachiyomi.extension.id.dojingnet",
+    "apk": "tachiyomi-id.dojingnet-v1.3.17.apk",
+    "lang": "id",
+    "code": 17,
+    "version": "1.3.17",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dojing.net",
+        "lang": "id",
+        "id": "8062443260299418342",
+        "baseUrl": "https://dojing.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DoujinDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujindesu",
     "apk": "tachiyomi-id.doujindesu-v1.3.2.apk",
@@ -21144,6 +21165,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: LianScans",
+    "pkg": "eu.kanade.tachiyomi.extension.id.lianscans",
+    "apk": "tachiyomi-id.lianscans-v1.3.17.apk",
+    "lang": "id",
+    "code": 17,
+    "version": "1.3.17",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LianScans",
+        "lang": "id",
+        "id": "8863831356505058723",
+        "baseUrl": "https://www.lianscans.my.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Maid - Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.maidmanga",
     "apk": "tachiyomi-id.maidmanga-v1.3.11.apk",
@@ -21291,6 +21333,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangayaro",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangayaro",
+    "apk": "tachiyomi-id.mangayaro-v1.3.17.apk",
+    "lang": "id",
+    "code": 17,
+    "version": "1.3.17",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangayaro",
+        "lang": "id",
+        "id": "7392420618052254784",
+        "baseUrl": "https://mangayaro.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mareceh",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangceh",
     "apk": "tachiyomi-id.mangceh-v1.3.27.apk",
@@ -21354,6 +21417,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhwaDesu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.manhwadesu",
+    "apk": "tachiyomi-id.manhwadesu-v1.3.17.apk",
+    "lang": "id",
+    "code": 17,
+    "version": "1.3.17",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaDesu",
+        "lang": "id",
+        "id": "8258394658125354785",
+        "baseUrl": "https://manhwadesu.me",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhwaIndo",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwaindo",
     "apk": "tachiyomi-id.manhwaindo-v1.3.19.apk",
@@ -21369,6 +21453,48 @@
         "lang": "id",
         "id": "862941840467210819",
         "baseUrl": "https://manhwaindo.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ManhwaLand.mom",
+    "pkg": "eu.kanade.tachiyomi.extension.id.manhwalandmom",
+    "apk": "tachiyomi-id.manhwalandmom-v1.3.17.apk",
+    "lang": "id",
+    "code": 17,
+    "version": "1.3.17",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaLand.mom",
+        "lang": "id",
+        "id": "4281611327457686416",
+        "baseUrl": "https://manhwaland.mom",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ManhwaList",
+    "pkg": "eu.kanade.tachiyomi.extension.id.manhwalist",
+    "apk": "tachiyomi-id.manhwalist-v1.3.17.apk",
+    "lang": "id",
+    "code": 17,
+    "version": "1.3.17",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaList",
+        "lang": "id",
+        "id": "4039555433611432280",
+        "baseUrl": "https://manhwalist.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21411,6 +21537,27 @@
         "lang": "id",
         "id": "5845004992097969882",
         "baseUrl": "https://mgkomik.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nekomik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.nekomik",
+    "apk": "tachiyomi-id.nekomik-v1.3.17.apk",
+    "lang": "id",
+    "code": 17,
+    "version": "1.3.17",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nekomik",
+        "lang": "id",
+        "id": "1171153519563232563",
+        "baseUrl": "https://nekomik.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21474,6 +21621,27 @@
         "lang": "id",
         "id": "5486262618423256587",
         "baseUrl": "https://pojokmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ryukonesia",
+    "pkg": "eu.kanade.tachiyomi.extension.id.ryukonesia",
+    "apk": "tachiyomi-id.ryukonesia-v1.3.17.apk",
+    "lang": "id",
+    "code": 17,
+    "version": "1.3.17",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ryukonesia",
+        "lang": "id",
+        "id": "7243960930771058069",
+        "baseUrl": "https://ryukonesia.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
