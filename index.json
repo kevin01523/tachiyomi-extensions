@@ -23394,6 +23394,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Fay Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.fayscans",
+    "apk": "tachiyomi-pt.fayscans-v1.3.24.apk",
+    "lang": "pt-BR",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fay Scans",
+        "lang": "pt-BR",
+        "id": "4455455706731547485",
+        "baseUrl": "https://fayscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FDM Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fdmscan",
     "apk": "tachiyomi-pt.fdmscan-v1.3.27.apk",
@@ -23940,27 +23961,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaTube",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangatube",
-    "apk": "tachiyomi-pt.mangatube-v1.3.6.apk",
-    "lang": "pt-BR",
-    "code": 6,
-    "version": "1.3.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaTube",
-        "lang": "pt-BR",
-        "id": "8638766250467215060",
-        "baseUrl": "https://mangatube.site",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaVibe",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangavibe",
     "apk": "tachiyomi-pt.mangavibe-v1.3.2.apk",
@@ -23976,6 +23976,27 @@
         "lang": "pt-BR",
         "id": "4752791037024226378",
         "baseUrl": "https://mangavibe.top",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mangazim",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangazim",
+    "apk": "tachiyomi-pt.mangazim-v1.3.7.apk",
+    "lang": "pt-BR",
+    "code": 7,
+    "version": "1.3.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangazim",
+        "lang": "pt-BR",
+        "id": "2261479970554286738",
+        "baseUrl": "https://mangazim.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24005,10 +24026,10 @@
   {
     "name": "Tachiyomi: Meus Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.meusmangas",
-    "apk": "tachiyomi-pt.meusmangas-v1.3.8.apk",
+    "apk": "tachiyomi-pt.meusmangas-v1.3.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24081,6 +24102,27 @@
         "lang": "pt-BR",
         "id": "3632075178768037249",
         "baseUrl": "https://miradscanlator.site",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mizu Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mizumangas",
+    "apk": "tachiyomi-pt.mizumangas-v1.3.24.apk",
+    "lang": "pt-BR",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mizu Mangás",
+        "lang": "pt-BR",
+        "id": "930581406053423703",
+        "baseUrl": "https://mizumangas.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24228,6 +24270,27 @@
         "lang": "pt-BR",
         "id": "7352666952210577708",
         "baseUrl": "https://mundowebtoon.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: My Universe Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.myuniversescanlator",
+    "apk": "tachiyomi-pt.myuniversescanlator-v1.3.24.apk",
+    "lang": "pt-BR",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "My Universe Scanlator",
+        "lang": "pt-BR",
+        "id": "2192114269233761466",
+        "baseUrl": "https://muscan.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24606,27 +24669,6 @@
         "lang": "pt-BR",
         "id": "3891513807564817914",
         "baseUrl": "https://sinensisscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Smash Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.smashscan",
-    "apk": "tachiyomi-pt.smashscan-v1.3.25.apk",
-    "lang": "pt-BR",
-    "code": 25,
-    "version": "1.3.25",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Smash Scan",
-        "lang": "pt-BR",
-        "id": "5618555678200490782",
-        "baseUrl": "https://smashscan.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
