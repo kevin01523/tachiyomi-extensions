@@ -11730,10 +11730,10 @@
   {
     "name": "Tachiyomi: MangaKatana",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakatana",
-    "apk": "tachiyomi-en.mangakatana-v1.3.6.apk",
+    "apk": "tachiyomi-en.mangakatana-v1.3.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22869,27 +22869,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Aiin Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.aiinscan",
-    "apk": "tachiyomi-pt.aiinscan-v1.3.24.apk",
-    "lang": "pt-BR",
-    "code": 24,
-    "version": "1.3.24",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Aiin Scan",
-        "lang": "pt-BR",
-        "id": "5213767865125422800",
-        "baseUrl": "https://aiinscan.xyz",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Akuma no Tenshi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.akumanotenshi",
     "apk": "tachiyomi-pt.akumanotenshi-v1.3.24.apk",
@@ -22968,27 +22947,6 @@
         "lang": "pt-BR",
         "id": "4378659695320121364",
         "baseUrl": "https://animaregia.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Anime Center Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.animecenterscan",
-    "apk": "tachiyomi-pt.animecenterscan-v1.3.24.apk",
-    "lang": "pt-BR",
-    "code": 24,
-    "version": "1.3.24",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Anime Center Scan",
-        "lang": "pt-BR",
-        "id": "6231856208896669443",
-        "baseUrl": "https://animecenterscan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23289,27 +23247,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: DarkYue Realm",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.darkyurealm",
-    "apk": "tachiyomi-pt.darkyurealm-v1.3.28.apk",
-    "lang": "pt-BR",
-    "code": 28,
-    "version": "1.3.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "DarkYue Realm",
-        "lang": "pt-BR",
-        "id": "593455310609863709",
-        "baseUrl": "https://darkyuerealm.site/web",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Diskus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
     "apk": "tachiyomi-pt.diskusscan-v1.3.25.apk",
@@ -23325,27 +23262,6 @@
         "lang": "pt-BR",
         "id": "2061255209421057242",
         "baseUrl": "https://diskusscan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Dream Union Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.dreamunionscan",
-    "apk": "tachiyomi-pt.dreamunionscan-v1.3.26.apk",
-    "lang": "pt-BR",
-    "code": 26,
-    "version": "1.3.26",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Dream Union Scan",
-        "lang": "pt-BR",
-        "id": "6769789490712136355",
-        "baseUrl": "https://www.dreamunionscan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23577,27 +23493,6 @@
         "lang": "pt-BR",
         "id": "283011527490839966",
         "baseUrl": "https://gekkou.com.br",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Glass Sky",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.glasssky",
-    "apk": "tachiyomi-pt.glasssky-v1.3.24.apk",
-    "lang": "pt-BR",
-    "code": 24,
-    "version": "1.3.24",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Glass Sky",
-        "lang": "pt-BR",
-        "id": "2796293225657822577",
-        "baseUrl": "https://glasscan.online",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23856,27 +23751,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Leitura Noturna",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.leituranoturna",
-    "apk": "tachiyomi-pt.leituranoturna-v1.3.24.apk",
-    "lang": "pt-BR",
-    "code": 24,
-    "version": "1.3.24",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Leitura Noturna",
-        "lang": "pt-BR",
-        "id": "2017565427540434276",
-        "baseUrl": "https://leituranoturna.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Lima Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.limascans",
     "apk": "tachiyomi-pt.limascans-v1.3.26.apk",
@@ -23892,27 +23766,6 @@
         "lang": "pt-BR",
         "id": "7200398491235565318",
         "baseUrl": "http://limascans.xyz/v2",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Little Monster Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.littlemonsterscan",
-    "apk": "tachiyomi-pt.littlemonsterscan-v1.3.28.apk",
-    "lang": "pt-BR",
-    "code": 28,
-    "version": "1.3.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Little Monster Scan",
-        "lang": "pt-BR",
-        "id": "5143081798504933114",
-        "baseUrl": "https://littlemonsterscan.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24381,27 +24234,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ow Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.owscan",
-    "apk": "tachiyomi-pt.owscan-v1.3.25.apk",
-    "lang": "pt-BR",
-    "code": 25,
-    "version": "1.3.25",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ow Scan",
-        "lang": "pt-BR",
-        "id": "8533256843165928062",
-        "baseUrl": "https://owscan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Pirulito Rosa",
     "pkg": "eu.kanade.tachiyomi.extension.pt.pirulitorosa",
     "apk": "tachiyomi-pt.pirulitorosa-v1.3.24.apk",
@@ -24585,27 +24417,6 @@
         "lang": "pt-BR",
         "id": "273341846992513187",
         "baseUrl": "https://saikaiscan.com.br",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Seikou Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.seikouscans",
-    "apk": "tachiyomi-pt.seikouscans-v1.3.26.apk",
-    "lang": "pt-BR",
-    "code": 26,
-    "version": "1.3.26",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Seikou Scans",
-        "lang": "pt-BR",
-        "id": "4000493290015775097",
-        "baseUrl": "https://seikouscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24906,27 +24717,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Vapo Hentai",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.vapohentai",
-    "apk": "tachiyomi-pt.vapohentai-v1.3.24.apk",
-    "lang": "pt-BR",
-    "code": 24,
-    "version": "1.3.24",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Vapo Hentai",
-        "lang": "pt-BR",
-        "id": "2966445974202315599",
-        "baseUrl": "http://xxx.vaposcans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Visbellum",
     "pkg": "eu.kanade.tachiyomi.extension.pt.visbellum",
     "apk": "tachiyomi-pt.visbellum-v1.3.26.apk",
@@ -25047,27 +24837,6 @@
         "lang": "pt-BR",
         "id": "4476506734614164770",
         "baseUrl": "https://yuri.live",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ZombieLand Saga Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.zombielandsagascans",
-    "apk": "tachiyomi-pt.zombielandsagascans-v1.3.24.apk",
-    "lang": "pt-BR",
-    "code": 24,
-    "version": "1.3.24",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ZombieLand Saga Scans",
-        "lang": "pt-BR",
-        "id": "8732325749219823944",
-        "baseUrl": "https://zombiland.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
