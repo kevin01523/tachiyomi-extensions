@@ -4212,10 +4212,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.3.35.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.3.36.apk",
     "lang": "all",
-    "code": 35,
-    "version": "1.3.35",
+    "code": 36,
+    "version": "1.3.36",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -4224,6 +4224,22 @@
         "name": "MANGA Plus by SHUEISHA",
         "lang": "en",
         "id": "1998944621602463790",
+        "baseUrl": "https://mangaplus.shueisha.co.jp",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MANGA Plus by SHUEISHA",
+        "lang": "es",
+        "id": "1286073245950890830",
+        "baseUrl": "https://mangaplus.shueisha.co.jp",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MANGA Plus by SHUEISHA",
+        "lang": "fr",
+        "id": "7642759409549978864",
         "baseUrl": "https://mangaplus.shueisha.co.jp",
         "versionId": 1,
         "hasCloudflare": 0
@@ -4254,24 +4270,8 @@
       },
       {
         "name": "MANGA Plus by SHUEISHA",
-        "lang": "es",
-        "id": "1286073245950890830",
-        "baseUrl": "https://mangaplus.shueisha.co.jp",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MANGA Plus by SHUEISHA",
         "lang": "th",
         "id": "6345211913721743017",
-        "baseUrl": "https://mangaplus.shueisha.co.jp",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "MANGA Plus by SHUEISHA",
-        "lang": "fr",
-        "id": "7642759409549978864",
         "baseUrl": "https://mangaplus.shueisha.co.jp",
         "versionId": 1,
         "hasCloudflare": 0
@@ -23753,10 +23753,10 @@
   {
     "name": "Tachiyomi: HQ Now!",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hqnow",
-    "apk": "tachiyomi-pt.hqnow-v1.3.6.apk",
+    "apk": "tachiyomi-pt.hqnow-v1.3.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23765,7 +23765,7 @@
         "name": "HQ Now!",
         "lang": "pt-BR",
         "id": "1639829368022947378",
-        "baseUrl": "http://www.hq-now.com",
+        "baseUrl": "https://www.hq-now.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
