@@ -10489,23 +10489,23 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga18 Fx",
+    "name": "Tachiyomi: Manga18fx",
     "pkg": "eu.kanade.tachiyomi.extension.en.manga18fx",
-    "apk": "tachiyomi-en.manga18fx-v1.3.25.apk",
+    "apk": "tachiyomi-en.manga18fx-v1.3.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "1.3.25",
-    "nsfw": 0,
+    "code": 26,
+    "version": "1.3.26",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga18 Fx",
+        "name": "Manga18fx",
         "lang": "en",
         "id": "3157287889751723714",
         "baseUrl": "https://manga18fx.com",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
