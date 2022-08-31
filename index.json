@@ -4279,6 +4279,35 @@
     ]
   },
   {
+    "name": "Tachiyomi: MANGA Plus Creators by SHUEISHA",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mangapluscreators",
+    "apk": "tachiyomi-all.mangapluscreators-v1.3.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MANGA Plus Creators by SHUEISHA",
+        "lang": "en",
+        "id": "4994699950662723787",
+        "baseUrl": "https://medibang.com/mpc",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MANGA Plus Creators by SHUEISHA",
+        "lang": "es",
+        "id": "1894436225000314286",
+        "baseUrl": "https://medibang.com/mpc",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaReader",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangareaderto",
     "apk": "tachiyomi-all.mangareaderto-v1.3.2.apk",
@@ -23543,11 +23572,11 @@
   {
     "name": "Tachiyomi: Ichirin No Hana Yuri",
     "pkg": "eu.kanade.tachiyomi.extension.pt.ichirinnohanayuri",
-    "apk": "tachiyomi-pt.ichirinnohanayuri-v1.3.27.apk",
+    "apk": "tachiyomi-pt.ichirinnohanayuri-v1.3.28.apk",
     "lang": "pt-BR",
-    "code": 27,
-    "version": "1.3.27",
-    "nsfw": 0,
+    "code": 28,
+    "version": "1.3.28",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -23555,7 +23584,7 @@
         "name": "Ichirin No Hana Yuri",
         "lang": "pt-BR",
         "id": "629798049948184060",
-        "baseUrl": "https://ichirinnohanayuri.com.br",
+        "baseUrl": "https://ichirinnohanayuriscan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24866,10 +24895,10 @@
   {
     "name": "Tachiyomi: HenChan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.3.37.apk",
+    "apk": "tachiyomi-ru.henchan-v1.3.38.apk",
     "lang": "ru",
-    "code": 37,
-    "version": "1.3.37",
+    "code": 38,
+    "version": "1.3.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24878,7 +24907,7 @@
         "name": "HenChan",
         "lang": "ru",
         "id": "5504588601186153612",
-        "baseUrl": "https://y.hentaichan.live",
+        "baseUrl": "https://hchan.live",
         "versionId": 1,
         "hasCloudflare": 0
       }
