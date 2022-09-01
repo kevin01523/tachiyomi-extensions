@@ -4308,15 +4308,15 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaReader",
+    "name": "Tachiyomi: MangaReader.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangareaderto",
-    "apk": "tachiyomi-all.mangareaderto-v1.3.2.apk",
+    "apk": "tachiyomi-all.mangareaderto-v1.3.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 1,
     "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "MangaReader",
@@ -4328,8 +4328,32 @@
       },
       {
         "name": "MangaReader",
+        "lang": "fr",
+        "id": "6728122547380666091",
+        "baseUrl": "https://mangareader.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaReader",
         "lang": "ja",
         "id": "796170456036421142",
+        "baseUrl": "https://mangareader.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaReader",
+        "lang": "ko",
+        "id": "8303923354296505005",
+        "baseUrl": "https://mangareader.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaReader",
+        "lang": "zh",
+        "id": "7713892655571655420",
         "baseUrl": "https://mangareader.to",
         "versionId": 1,
         "hasCloudflare": 0
@@ -4576,6 +4600,27 @@
         "baseUrl": "https://manhwa-raw.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Meitua.top",
+    "pkg": "eu.kanade.tachiyomi.extension.all.meituatop",
+    "apk": "tachiyomi-all.meituatop-v1.3.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Meitua.top",
+        "lang": "all",
+        "id": "2066652761751053456",
+        "baseUrl": "https://meitua.top",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -7479,6 +7524,27 @@
         "baseUrl": "https://arc-relight.com",
         "versionId": 3,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Arena Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.arenascans",
+    "apk": "tachiyomi-en.arenascans-v1.3.20.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "1.3.20",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Arena Scans",
+        "lang": "en",
+        "id": "8861274191478178487",
+        "baseUrl": "https://arenascans.net",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -10919,10 +10985,10 @@
   {
     "name": "Tachiyomi: Manga Chill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangachill",
-    "apk": "tachiyomi-en.mangachill-v1.3.29.apk",
+    "apk": "tachiyomi-en.mangachill-v1.3.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.3.29",
+    "code": 30,
+    "version": "1.3.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10931,7 +10997,7 @@
         "name": "Manga Chill",
         "lang": "en",
         "id": "1646428256207102930",
-        "baseUrl": "https://mangachill.me",
+        "baseUrl": "https://mangachill.io",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19527,6 +19593,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Senpai Ediciones",
+    "pkg": "eu.kanade.tachiyomi.extension.es.senpaiediciones",
+    "apk": "tachiyomi-es.senpaiediciones-v1.3.20.apk",
+    "lang": "es",
+    "code": 20,
+    "version": "1.3.20",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Senpai Ediciones",
+        "lang": "es",
+        "id": "5823367250265948060",
+        "baseUrl": "http://senpaiediciones.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shadow Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.shadowmangas",
     "apk": "tachiyomi-es.shadowmangas-v1.3.20.apk",
@@ -19823,6 +19910,27 @@
         "lang": "fr",
         "id": "645948055480249558",
         "baseUrl": "https://arcanescan.fr",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FlameScans.fr",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.flamescansfr",
+    "apk": "tachiyomi-fr.flamescansfr-v1.3.20.apk",
+    "lang": "fr",
+    "code": 20,
+    "version": "1.3.20",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FlameScans.fr",
+        "lang": "fr",
+        "id": "8947802555328550956",
+        "baseUrl": "https://flamescans.fr",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21083,6 +21191,27 @@
         "lang": "id",
         "id": "8157748444640827548",
         "baseUrl": "https://mangasusu.co.in",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaTale",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
+    "apk": "tachiyomi-id.mangatale-v1.3.20.apk",
+    "lang": "id",
+    "code": 20,
+    "version": "1.3.20",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaTale",
+        "lang": "id",
+        "id": "1532456597012176985",
+        "baseUrl": "https://mangatale.co",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25040,6 +25169,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga One Love",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.mangaonelove",
+    "apk": "tachiyomi-ru.mangaonelove-v1.3.24.apk",
+    "lang": "ru",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga One Love",
+        "lang": "ru",
+        "id": "1599250672484160230",
+        "baseUrl": "https://mangaonelove.site/",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaPoisk",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
     "apk": "tachiyomi-ru.mangapoisk-v1.3.4.apk",
@@ -25147,10 +25297,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.3.53.apk",
+    "apk": "tachiyomi-ru.remanga-v1.3.54.apk",
     "lang": "ru",
-    "code": 53,
-    "version": "1.3.53",
+    "code": 54,
+    "version": "1.3.54",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26468,6 +26618,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Tarot Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.tarotscans",
+    "apk": "tachiyomi-tr.tarotscans-v1.3.20.apk",
+    "lang": "tr",
+    "code": 20,
+    "version": "1.3.20",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tarot Scans",
+        "lang": "tr",
+        "id": "8054539304013575208",
+        "baseUrl": "https://www.tarotscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tempest Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.tempestmanga",
     "apk": "tachiyomi-tr.tempestmanga-v1.3.20.apk",
@@ -26693,6 +26864,27 @@
         "lang": "tr",
         "id": "7083845009873813929",
         "baseUrl": "https://yetiskin.ruyamanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaInUa",
+    "pkg": "eu.kanade.tachiyomi.extension.uk.mangainua",
+    "apk": "tachiyomi-uk.mangainua-v1.3.1.apk",
+    "lang": "uk",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MANGA/in/UA",
+        "lang": "uk",
+        "id": "7444761572611117628",
+        "baseUrl": "https://manga.in.ua",
         "versionId": 1,
         "hasCloudflare": 1
       }
