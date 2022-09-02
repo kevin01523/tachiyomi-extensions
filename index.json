@@ -2621,6 +2621,35 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komik Lab",
+    "pkg": "eu.kanade.tachiyomi.extension.all.komiklab",
+    "apk": "tachiyomi-all.komiklab-v1.3.21.apk",
+    "lang": "all",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KomikLab Scans",
+        "lang": "en",
+        "id": "6887810673806908255",
+        "baseUrl": "https://scans.komiklab.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Komik Lab",
+        "lang": "id",
+        "id": "6528769273274445998",
+        "baseUrl": "https://komiklab.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LANraragi",
     "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
     "apk": "tachiyomi-all.lanraragi-v1.3.12.apk",
@@ -4606,10 +4635,10 @@
   {
     "name": "Tachiyomi: Meitua.top",
     "pkg": "eu.kanade.tachiyomi.extension.all.meituatop",
-    "apk": "tachiyomi-all.meituatop-v1.3.1.apk",
+    "apk": "tachiyomi-all.meituatop-v1.3.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5408,6 +5437,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Photos18",
+    "pkg": "eu.kanade.tachiyomi.extension.all.photos18",
+    "apk": "tachiyomi-all.photos18-v1.3.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Photos18",
+        "lang": "all",
+        "id": "225835804698740720",
+        "baseUrl": "https://www.photos18.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ravens Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.ravensscans",
     "apk": "tachiyomi-all.ravensscans-v1.3.6.apk",
@@ -5884,10 +5934,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.3.35.apk",
+    "apk": "tachiyomi-all.webtoons-v1.3.36.apk",
     "lang": "all",
-    "code": 35,
-    "version": "1.3.35",
+    "code": 36,
+    "version": "1.3.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17096,10 +17146,10 @@
   {
     "name": "Tachiyomi: Tapas",
     "pkg": "eu.kanade.tachiyomi.extension.en.tapastic",
-    "apk": "tachiyomi-en.tapastic-v1.3.16.apk",
+    "apk": "tachiyomi-en.tapastic-v1.3.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.3.16",
+    "code": 17,
+    "version": "1.3.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20897,27 +20947,6 @@
         "lang": "id",
         "id": "5131316567843388681",
         "baseUrl": "https://komikita.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Komik Lab",
-    "pkg": "eu.kanade.tachiyomi.extension.id.komiklab",
-    "apk": "tachiyomi-id.komiklab-v1.3.20.apk",
-    "lang": "id",
-    "code": 20,
-    "version": "1.3.20",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Komik Lab",
-        "lang": "id",
-        "id": "6528769273274445998",
-        "baseUrl": "https://komiklab.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25234,10 +25263,10 @@
   {
     "name": "Tachiyomi: NewManga(Newbie)",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.3.10.apk",
+    "apk": "tachiyomi-ru.newbie-v1.3.11.apk",
     "lang": "ru",
-    "code": 10,
-    "version": "1.3.10",
+    "code": 11,
+    "version": "1.3.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
