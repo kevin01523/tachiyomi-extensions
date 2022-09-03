@@ -23770,6 +23770,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kalango Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.kalangoscan",
+    "apk": "tachiyomi-pt.kalangoscan-v1.3.24.apk",
+    "lang": "pt-BR",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kalango Scan",
+        "lang": "pt-BR",
+        "id": "9020682384540845147",
+        "baseUrl": "https://kalangoscan.online",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Kami Sama Explorer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer",
     "apk": "tachiyomi-pt.kamisamaexplorer-v1.3.26.apk",
