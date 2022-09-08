@@ -2830,10 +2830,10 @@
   {
     "name": "Tachiyomi: Leviatan Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.leviatanscans",
-    "apk": "tachiyomi-all.leviatanscans-v1.3.35.apk",
+    "apk": "tachiyomi-all.leviatanscans-v1.3.36.apk",
     "lang": "all",
-    "code": 35,
-    "version": "1.3.35",
+    "code": 36,
+    "version": "1.3.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2842,7 +2842,7 @@
         "name": "Leviatan Scans",
         "lang": "en",
         "id": "4055499394183150749",
-        "baseUrl": "https://leviatanscans.com",
+        "baseUrl": "https://en.leviatanscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -9584,27 +9584,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Home Hero Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.homeheroscans",
-    "apk": "tachiyomi-en.homeheroscans-v1.3.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.3.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Home Hero Scans",
-        "lang": "en",
-        "id": "1365542769735450527",
-        "baseUrl": "https://hhs.vercel.app",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: HonkaiImpact3",
     "pkg": "eu.kanade.tachiyomi.extension.en.honkaiimpact",
     "apk": "tachiyomi-en.honkaiimpact-v1.3.2.apk",
@@ -11510,6 +11489,27 @@
         "lang": "en",
         "id": "4064202512772910965",
         "baseUrl": "https://mangafunny.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Galaxy",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangagalaxy",
+    "apk": "tachiyomi-en.mangagalaxy-v1.3.24.apk",
+    "lang": "en",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Galaxy",
+        "lang": "en",
+        "id": "1894849472827597499",
+        "baseUrl": "https://mangagalaxy.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
