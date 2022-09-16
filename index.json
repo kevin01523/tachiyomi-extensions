@@ -9310,10 +9310,10 @@
   {
     "name": "Tachiyomi: Hiveworks Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiveworks",
-    "apk": "tachiyomi-en.hiveworks-v1.3.6.apk",
+    "apk": "tachiyomi-en.hiveworks-v1.3.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13174,10 +13174,10 @@
   {
     "name": "Tachiyomi: Manhua Kiss",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuakiss",
-    "apk": "tachiyomi-en.manhuakiss-v1.3.24.apk",
+    "apk": "tachiyomi-en.manhuakiss-v1.3.25.apk",
     "lang": "en",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13186,7 +13186,7 @@
         "name": "Manhua Kiss",
         "lang": "en",
         "id": "7429604433598059488",
-        "baseUrl": "https://manhuakiss.me",
+        "baseUrl": "https://manhuakiss.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
