@@ -10053,10 +10053,10 @@
   {
     "name": "Tachiyomi: Lara Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.laramanga",
-    "apk": "tachiyomi-en.laramanga-v1.3.24.apk",
+    "apk": "tachiyomi-en.laramanga-v1.3.25.apk",
     "lang": "en",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10065,7 +10065,7 @@
         "name": "Lara Manga",
         "lang": "en",
         "id": "493173131380798334",
-        "baseUrl": "https://laramanga.com",
+        "baseUrl": "https://laramanga.love",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18157,6 +18157,69 @@
     ]
   },
   {
+    "name": "Tachiyomi: Atlantis scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.atlantisscan",
+    "apk": "tachiyomi-es.atlantisscan-v1.3.24.apk",
+    "lang": "es",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Atlantis scan",
+        "lang": "es",
+        "id": "2237642340381856331",
+        "baseUrl": "https://atlantisscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Cartel de Manhwas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.carteldemanhwas",
+    "apk": "tachiyomi-es.carteldemanhwas-v1.3.24.apk",
+    "lang": "es",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cartel de Manhwas",
+        "lang": "es",
+        "id": "3519938166500360109",
+        "baseUrl": "https://carteldemws.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Clayrer",
+    "pkg": "eu.kanade.tachiyomi.extension.es.clayrer",
+    "apk": "tachiyomi-es.clayrer-v1.3.21.apk",
+    "lang": "es",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Clayrer",
+        "lang": "es",
+        "id": "2186900121989501386",
+        "baseUrl": "https://clayrer.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CopyPasteScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.copypastescan",
     "apk": "tachiyomi-es.copypastescan-v1.3.25.apk",
@@ -18991,6 +19054,27 @@
         "lang": "es",
         "id": "2886862669347225416",
         "baseUrl": "https://miauscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MidnightManga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.midnightmanga",
+    "apk": "tachiyomi-es.midnightmanga-v1.3.24.apk",
+    "lang": "es",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MidnightManga",
+        "lang": "es",
+        "id": "8612248072209265243",
+        "baseUrl": "http://midnightmanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21548,19 +21632,19 @@
   {
     "name": "Tachiyomi: Walpurgi Scan",
     "pkg": "eu.kanade.tachiyomi.extension.it.walpurgisscan",
-    "apk": "tachiyomi-it.walpurgisscan-v1.3.26.apk",
+    "apk": "tachiyomi-it.walpurgisscan-v1.3.27.apk",
     "lang": "it",
-    "code": 26,
-    "version": "1.3.26",
+    "code": 27,
+    "version": "1.3.27",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Walpurgi Scan",
         "lang": "it",
         "id": "6566957355096372149",
-        "baseUrl": "https://walpurgiscan.altervista.org",
+        "baseUrl": "https://www.walpurgiscan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22278,11 +22362,11 @@
   {
     "name": "Tachiyomi: NewToki / ManaToki",
     "pkg": "eu.kanade.tachiyomi.extension.ko.newtoki",
-    "apk": "tachiyomi-ko.newtoki-v1.3.23.apk",
+    "apk": "tachiyomi-ko.newtoki-v1.3.24.apk",
     "lang": "ko",
-    "code": 23,
-    "version": "1.3.23",
-    "nsfw": 0,
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -22290,7 +22374,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki183.net",
+        "baseUrl": "https://manatoki153.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -22298,7 +22382,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki183.com",
+        "baseUrl": "https://newtoki153.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26024,12 +26108,12 @@
   {
     "name": "Tachiyomi: MangaWT",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangawt",
-    "apk": "tachiyomi-tr.mangawt-v1.3.25.apk",
+    "apk": "tachiyomi-tr.mangawt-v1.3.26.apk",
     "lang": "tr",
-    "code": 25,
-    "version": "1.3.25",
+    "code": 26,
+    "version": "1.3.26",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
@@ -26339,12 +26423,12 @@
   {
     "name": "Tachiyomi: Uzay Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
-    "apk": "tachiyomi-tr.uzaymanga-v1.3.24.apk",
+    "apk": "tachiyomi-tr.uzaymanga-v1.3.25.apk",
     "lang": "tr",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
