@@ -892,10 +892,10 @@
   {
     "name": "Tachiyomi: BILIBILI COMICS",
     "pkg": "eu.kanade.tachiyomi.extension.all.bilibilicomics",
-    "apk": "tachiyomi-all.bilibilicomics-v1.3.6.apk",
+    "apk": "tachiyomi-all.bilibilicomics-v1.3.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -1307,10 +1307,10 @@
   {
     "name": "Tachiyomi: Comico",
     "pkg": "eu.kanade.tachiyomi.extension.all.comico",
-    "apk": "tachiyomi-all.comico-v1.3.4.apk",
+    "apk": "tachiyomi-all.comico-v1.3.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4514,10 +4514,10 @@
   {
     "name": "Tachiyomi: Manga UP!",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaup",
-    "apk": "tachiyomi-all.mangaup-v1.3.2.apk",
+    "apk": "tachiyomi-all.mangaup-v1.3.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -5487,14 +5487,6 @@
         "id": "5177220001642863679",
         "baseUrl": "https://reaperscans.com",
         "versionId": 2,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Reaper Scans",
-        "lang": "pt-BR",
-        "id": "7767018058145795388",
-        "baseUrl": "https://reaperscans.com.br",
-        "versionId": 1,
         "hasCloudflare": 1
       },
       {
@@ -23103,12 +23095,33 @@
     ]
   },
   {
+    "name": "Tachiyomi: Glorious Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.gloriousscan",
+    "apk": "tachiyomi-pt.gloriousscan-v1.3.24.apk",
+    "lang": "pt-BR",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Glorious Scan",
+        "lang": "pt-BR",
+        "id": "459966270874012439",
+        "baseUrl": "https://gloriousscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Golden Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
-    "apk": "tachiyomi-pt.goldenmangas-v1.3.16.apk",
+    "apk": "tachiyomi-pt.goldenmangas-v1.3.17.apk",
     "lang": "pt-BR",
-    "code": 16,
-    "version": "1.3.16",
+    "code": 17,
+    "version": "1.3.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23117,7 +23130,7 @@
         "name": "Golden Mangás",
         "lang": "pt-BR",
         "id": "6858719406079923084",
-        "baseUrl": "https://goldenmanga.top",
+        "baseUrl": "https://goldenmangas.top",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23672,10 +23685,10 @@
   {
     "name": "Tachiyomi: MR Yaoi Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mryaoifansub",
-    "apk": "tachiyomi-pt.mryaoifansub-v1.3.24.apk",
+    "apk": "tachiyomi-pt.mryaoifansub-v1.3.25.apk",
     "lang": "pt-BR",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24043,6 +24056,27 @@
         "id": "8295593204533043008",
         "baseUrl": "https://randomscans.com",
         "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Reaper Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscans",
+    "apk": "tachiyomi-pt.reaperscans-v1.3.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.3.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reaper Scans",
+        "lang": "pt-BR",
+        "id": "8225529306937468421",
+        "baseUrl": "https://reaperscans.com.br",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
