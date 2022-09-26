@@ -5910,10 +5910,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.3.36.apk",
+    "apk": "tachiyomi-all.webtoons-v1.3.37.apk",
     "lang": "all",
-    "code": 36,
-    "version": "1.3.36",
+    "code": 37,
+    "version": "1.3.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5979,10 +5979,10 @@
   {
     "name": "Tachiyomi: Webtoons.com Translations",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoonstranslate",
-    "apk": "tachiyomi-all.webtoonstranslate-v1.3.5.apk",
+    "apk": "tachiyomi-all.webtoonstranslate-v1.3.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6708,27 +6708,6 @@
         "lang": "ar",
         "id": "9037309701835524387",
         "baseUrl": "https://mangaarbteam.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: مانجا فليكس",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaflix",
-    "apk": "tachiyomi-ar.mangaflix-v1.3.25.apk",
-    "lang": "ar",
-    "code": 25,
-    "version": "1.3.25",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "مانجا فليكس",
-        "lang": "ar",
-        "id": "4052830754921607383",
-        "baseUrl": "https://www.manga-flix.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -8115,6 +8094,27 @@
         "lang": "en",
         "id": "8305623360897841462",
         "baseUrl": "https://comickiba.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Constellar Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.constellarscans",
+    "apk": "tachiyomi-en.constellarscans-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Constellar Scans",
+        "lang": "en",
+        "id": "621381833080231711",
+        "baseUrl": "https://constellarscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -11950,27 +11950,6 @@
         "baseUrl": "https://mangamoli.com",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Mutiny",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangamutiny",
-    "apk": "tachiyomi-en.mangamutiny-v1.3.9.apk",
-    "lang": "en",
-    "code": 9,
-    "version": "1.3.9",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Mutiny",
-        "lang": "en",
-        "id": "6030591105377973908",
-        "baseUrl": "https://mangamutiny.org",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
@@ -25386,10 +25365,10 @@
   {
     "name": "Tachiyomi: Niceoppai",
     "pkg": "eu.kanade.tachiyomi.extension.th.niceoppai",
-    "apk": "tachiyomi-th.niceoppai-v1.3.26.apk",
+    "apk": "tachiyomi-th.niceoppai-v1.3.27.apk",
     "lang": "th",
-    "code": 26,
-    "version": "1.3.26",
+    "code": 27,
+    "version": "1.3.27",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27696,10 +27675,10 @@
   {
     "name": "Tachiyomi: 57Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wuqimanga",
-    "apk": "tachiyomi-zh.wuqimanga-v1.3.12.apk",
+    "apk": "tachiyomi-zh.wuqimanga-v1.3.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.3.12",
+    "code": 13,
+    "version": "1.3.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
