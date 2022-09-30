@@ -8094,10 +8094,10 @@
   {
     "name": "Tachiyomi: Constellar Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.constellarscans",
-    "apk": "tachiyomi-en.constellarscans-v1.3.21.apk",
+    "apk": "tachiyomi-en.constellarscans-v1.3.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.3.21",
+    "code": 22,
+    "version": "1.3.22",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22337,7 +22337,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki153.net",
+        "baseUrl": "https://manatoki154.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -22345,7 +22345,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki153.com",
+        "baseUrl": "https://newtoki154.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
