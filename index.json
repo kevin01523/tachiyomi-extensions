@@ -966,14 +966,22 @@
   {
     "name": "Tachiyomi: Comick.fun",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.3.13.apk",
+    "apk": "tachiyomi-all.comickfun-v1.3.14.apk",
     "lang": "all",
-    "code": 13,
-    "version": "1.3.13",
+    "code": 14,
+    "version": "1.3.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
+      {
+        "name": "Comick.fun",
+        "lang": "all",
+        "id": "982606170401027267",
+        "baseUrl": "https://comick.fun",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
       {
         "name": "Comick.fun",
         "lang": "en",
@@ -8184,6 +8192,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dark Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.darkscans",
+    "apk": "tachiyomi-en.darkscans-v1.3.24.apk",
+    "lang": "en",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dark Scans",
+        "lang": "en",
+        "id": "8273498201739375095",
+        "baseUrl": "https://darkscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Death Toll Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.deathtollscans",
     "apk": "tachiyomi-en.deathtollscans-v1.3.3.apk",
@@ -8972,6 +9001,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hanuman Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hanumanscan",
+    "apk": "tachiyomi-en.hanumanscan-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hanuman Scan",
+        "lang": "en",
+        "id": "7771447263946705813",
+        "baseUrl": "https://hanumanscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Harimanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.harimanga",
     "apk": "tachiyomi-en.harimanga-v1.3.26.apk",
@@ -9476,6 +9526,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: I Love Manhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.en.ilovemanhwa",
+    "apk": "tachiyomi-en.ilovemanhwa-v1.3.24.apk",
+    "lang": "en",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "I Love Manhwa",
+        "lang": "en",
+        "id": "8141704223617610915",
+        "baseUrl": "https://ilovemanhwa.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Immortal Updates",
     "pkg": "eu.kanade.tachiyomi.extension.en.immortalupdates",
     "apk": "tachiyomi-en.immortalupdates-v1.3.26.apk",
@@ -9940,10 +10011,10 @@
   {
     "name": "Tachiyomi: KSGroupScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ksgroupscans",
-    "apk": "tachiyomi-en.ksgroupscans-v1.3.8.apk",
+    "apk": "tachiyomi-en.ksgroupscans-v1.3.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10331,6 +10402,27 @@
         "lang": "en",
         "id": "8362190032444848573",
         "baseUrl": "https://luminescans.xyz/",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LuxManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.luxmanga",
+    "apk": "tachiyomi-en.luxmanga-v1.3.24.apk",
+    "lang": "en",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LuxManga",
+        "lang": "en",
+        "id": "3831997062665742721",
+        "baseUrl": "https://luxmanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -14474,6 +14566,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: NIGHT SCANS",
+    "pkg": "eu.kanade.tachiyomi.extension.en.nightscans",
+    "apk": "tachiyomi-en.nightscans-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NIGHT SCANS",
+        "lang": "en",
+        "id": "9064192854751334524",
+        "baseUrl": "https://nightscans.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NineAnime",
     "pkg": "eu.kanade.tachiyomi.extension.en.nineanime",
     "apk": "tachiyomi-en.nineanime-v1.3.3.apk",
@@ -14497,10 +14610,10 @@
   {
     "name": "Tachiyomi: NineHentai",
     "pkg": "eu.kanade.tachiyomi.extension.en.ninehentai",
-    "apk": "tachiyomi-en.ninehentai-v1.3.1.apk",
+    "apk": "tachiyomi-en.ninehentai-v1.3.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16469,27 +16582,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: SiXiang Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.sixiangscans",
-    "apk": "tachiyomi-en.sixiangscans-v1.3.25.apk",
-    "lang": "en",
-    "code": 25,
-    "version": "1.3.25",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "SiXiang Scans",
-        "lang": "en",
-        "id": "4658784548359975299",
-        "baseUrl": "http://www.sixiangscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Skull Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.skullscans",
     "apk": "tachiyomi-en.skullscans-v1.3.22.apk",
@@ -16765,13 +16857,13 @@
   {
     "name": "Tachiyomi: Tapas",
     "pkg": "eu.kanade.tachiyomi.extension.en.tapastic",
-    "apk": "tachiyomi-en.tapastic-v1.3.17.apk",
+    "apk": "tachiyomi-en.tapastic-v1.3.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.3.17",
-    "nsfw": 0,
+    "code": 18,
+    "version": "1.3.18",
+    "nsfw": 1,
     "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "Tapas",
