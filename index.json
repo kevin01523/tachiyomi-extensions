@@ -5481,10 +5481,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.reaperscans",
-    "apk": "tachiyomi-all.reaperscans-v1.3.32.apk",
+    "apk": "tachiyomi-all.reaperscans-v1.3.33.apk",
     "lang": "all",
-    "code": 32,
-    "version": "1.3.32",
+    "code": 33,
+    "version": "1.3.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7970,6 +7970,27 @@
         "baseUrl": "https://manga.clone-army.org/",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Coffee Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.coffeemanga",
+    "apk": "tachiyomi-en.coffeemanga-v1.3.24.apk",
+    "lang": "en",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Coffee Manga",
+        "lang": "en",
+        "id": "7570643086791062929",
+        "baseUrl": "https://coffeemanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -17479,12 +17500,12 @@
   {
     "name": "Tachiyomi: VIZ Shonen Jump",
     "pkg": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-    "apk": "tachiyomi-en.vizshonenjump-v1.3.14.apk",
+    "apk": "tachiyomi-en.vizshonenjump-v1.3.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.3.14",
+    "code": 15,
+    "version": "1.3.15",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
@@ -18479,6 +18500,27 @@
         "lang": "es",
         "id": "8873939992850545539",
         "baseUrl": "https://fusionscanlation.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gremory Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.gremorymangas",
+    "apk": "tachiyomi-es.gremorymangas-v1.3.21.apk",
+    "lang": "es",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Gremory Mangas",
+        "lang": "es",
+        "id": "6911130909796364094",
+        "baseUrl": "https://gremorymangas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20343,10 +20385,10 @@
   {
     "name": "Tachiyomi: DoujinDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujindesu",
-    "apk": "tachiyomi-id.doujindesu-v1.3.2.apk",
+    "apk": "tachiyomi-id.doujindesu-v1.3.3.apk",
     "lang": "id",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20587,6 +20629,27 @@
         "lang": "id",
         "id": "5384836574731339537",
         "baseUrl": "https://komikindo.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KomikIndo.info",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikindoinfo",
+    "apk": "tachiyomi-id.komikindoinfo-v1.3.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KomikIndo.info",
+        "lang": "id",
+        "id": "1545752948439513458",
+        "baseUrl": "http://komikindo.info",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22513,7 +22576,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki154.net",
+        "baseUrl": "https://manatoki155.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -22521,7 +22584,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki154.com",
+        "baseUrl": "https://newtoki155.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24355,18 +24418,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Sinensis",
+    "name": "Tachiyomi: Sinensis Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sinensis",
-    "apk": "tachiyomi-pt.sinensis-v1.3.27.apk",
+    "apk": "tachiyomi-pt.sinensis-v1.3.28.apk",
     "lang": "pt-BR",
-    "code": 27,
-    "version": "1.3.27",
+    "code": 28,
+    "version": "1.3.28",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Sinensis",
+        "name": "Sinensis Scan",
         "lang": "pt-BR",
         "id": "3891513807564817914",
         "baseUrl": "https://sinensisscans.com",
@@ -24903,10 +24966,10 @@
   {
     "name": "Tachiyomi: HenChan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.3.38.apk",
+    "apk": "tachiyomi-ru.henchan-v1.3.39.apk",
     "lang": "ru",
-    "code": 38,
-    "version": "1.3.38",
+    "code": 39,
+    "version": "1.3.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24915,7 +24978,7 @@
         "name": "HenChan",
         "lang": "ru",
         "id": "5504588601186153612",
-        "baseUrl": "https://hchan.live",
+        "baseUrl": "http://y.hchan.live",
         "versionId": 1,
         "hasCloudflare": 0
       }
