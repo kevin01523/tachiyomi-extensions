@@ -5481,22 +5481,14 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.reaperscans",
-    "apk": "tachiyomi-all.reaperscans-v1.3.34.apk",
+    "apk": "tachiyomi-all.reaperscans-v1.3.35.apk",
     "lang": "all",
-    "code": 34,
-    "version": "1.3.34",
+    "code": 35,
+    "version": "1.3.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
-      {
-        "name": "Reaper Scans",
-        "lang": "en",
-        "id": "5177220001642863679",
-        "baseUrl": "https://reaperscans.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
       {
         "name": "Reaper Scans",
         "lang": "tr",
@@ -16255,6 +16247,27 @@
         "baseUrl": "https://realmscans.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Reaper Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
+    "apk": "tachiyomi-en.reaperscans-v1.3.35.apk",
+    "lang": "en",
+    "code": 35,
+    "version": "1.3.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Reaper Scans",
+        "lang": "en",
+        "id": "5177220001642863679",
+        "baseUrl": "https://reaperscans.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
