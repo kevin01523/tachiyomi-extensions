@@ -5910,10 +5910,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.3.37.apk",
+    "apk": "tachiyomi-all.webtoons-v1.3.38.apk",
     "lang": "all",
-    "code": 37,
-    "version": "1.3.37",
+    "code": 38,
+    "version": "1.3.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10239,27 +10239,6 @@
         "lang": "en",
         "id": "2494765190465968206",
         "baseUrl": "https://levelerscans.xyz",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Leviatan Scans X",
-    "pkg": "eu.kanade.tachiyomi.extension.en.leviatanscansx",
-    "apk": "tachiyomi-en.leviatanscansx-v1.3.24.apk",
-    "lang": "en",
-    "code": 24,
-    "version": "1.3.24",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Leviatan Scans X",
-        "lang": "en",
-        "id": "4524332886295362072",
-        "baseUrl": "https://xxx.leviatanscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18309,6 +18288,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Chunchunmaru Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.es.chunchunmarutranslations",
+    "apk": "tachiyomi-es.chunchunmarutranslations-v1.3.24.apk",
+    "lang": "es",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Chunchunmaru Translations",
+        "lang": "es",
+        "id": "3174322954768438402",
+        "baseUrl": "https://chunchunmarutl.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Clayrer",
     "pkg": "eu.kanade.tachiyomi.extension.es.clayrer",
     "apk": "tachiyomi-es.clayrer-v1.3.21.apk",
@@ -20432,6 +20432,27 @@
         "lang": "id",
         "id": "8443035369568081627",
         "baseUrl": "https://gabutscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Inazu Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.id.inazumanga",
+    "apk": "tachiyomi-id.inazumanga-v1.3.24.apk",
+    "lang": "id",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Inazu Manga",
+        "lang": "id",
+        "id": "4092752168230839868",
+        "baseUrl": "https://inazumanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26441,27 +26462,6 @@
         "lang": "tr",
         "id": "9068262319581900273",
         "baseUrl": "https://mangawt.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Puzzmos",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.puzzmos",
-    "apk": "tachiyomi-tr.puzzmos-v1.3.6.apk",
-    "lang": "tr",
-    "code": 6,
-    "version": "1.3.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Puzzmos",
-        "lang": "tr",
-        "id": "5292321441703837867",
-        "baseUrl": "https://puzzmos.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
