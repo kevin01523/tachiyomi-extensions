@@ -26386,10 +26386,10 @@
   {
     "name": "Tachiyomi: Manga Ship",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangaship",
-    "apk": "tachiyomi-tr.mangaship-v1.3.2.apk",
+    "apk": "tachiyomi-tr.mangaship-v1.3.3.apk",
     "lang": "tr",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26398,7 +26398,7 @@
         "name": "Manga Ship",
         "lang": "tr",
         "id": "7110025728969951060",
-        "baseUrl": "https://www.mangaship.com",
+        "baseUrl": "https://www.mangaship.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
