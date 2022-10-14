@@ -16253,10 +16253,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.3.35.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.3.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.3.35",
+    "code": 36,
+    "version": "1.3.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16267,7 +16267,7 @@
         "id": "5177220001642863679",
         "baseUrl": "https://reaperscans.com",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
@@ -17444,6 +17444,27 @@
         "baseUrl": "https://twilightscans.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: UltraLight Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.ultralightscans",
+    "apk": "tachiyomi-en.ultralightscans-v1.3.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.3.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "UltraLight Scans",
+        "lang": "en",
+        "id": "3324431994888040758",
+        "baseUrl": "https://readlight.org/",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -20356,10 +20377,10 @@
   {
     "name": "Tachiyomi: Boosei",
     "pkg": "eu.kanade.tachiyomi.extension.id.boosei",
-    "apk": "tachiyomi-id.boosei-v1.3.22.apk",
+    "apk": "tachiyomi-id.boosei-v1.3.23.apk",
     "lang": "id",
-    "code": 22,
-    "version": "1.3.22",
+    "code": 23,
+    "version": "1.3.23",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -20368,7 +20389,7 @@
         "name": "Boosei",
         "lang": "id",
         "id": "1692273855027402309",
-        "baseUrl": "https://boosei.com",
+        "baseUrl": "https://boosei.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25126,10 +25147,10 @@
   {
     "name": "Tachiyomi: Mangahub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
-    "apk": "tachiyomi-ru.mangahub-v1.3.15.apk",
+    "apk": "tachiyomi-ru.mangahub-v1.3.16.apk",
     "lang": "ru",
-    "code": 15,
-    "version": "1.3.15",
+    "code": 16,
+    "version": "1.3.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25140,7 +25161,7 @@
         "id": "8601336865408732240",
         "baseUrl": "https://mangahub.ru",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
