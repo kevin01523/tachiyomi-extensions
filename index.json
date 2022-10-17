@@ -6790,27 +6790,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: مانجا نون",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
-    "apk": "tachiyomi-ar.manganoon-v1.3.21.apk",
-    "lang": "ar",
-    "code": 21,
-    "version": "1.3.21",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "مانجا نون",
-        "lang": "ar",
-        "id": "3244399826714600926",
-        "baseUrl": "https://manganoon.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Pro",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaproz",
     "apk": "tachiyomi-ar.mangaproz-v1.3.24.apk",
@@ -7519,27 +7498,6 @@
         "lang": "en",
         "id": "9109775888765972234",
         "baseUrl": "https://www.astrallibrary.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Astra Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.astrascans",
-    "apk": "tachiyomi-en.astrascans-v1.3.24.apk",
-    "lang": "en",
-    "code": 24,
-    "version": "1.3.24",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Astra Scans",
-        "lang": "en",
-        "id": "8151430323343538599",
-        "baseUrl": "https://astrascans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
