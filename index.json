@@ -11547,27 +11547,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaPark",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangapark",
-    "apk": "tachiyomi-en.mangapark-v1.3.23.apk",
-    "lang": "en",
-    "code": 23,
-    "version": "1.3.23",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaPark",
-        "lang": "en",
-        "id": "6259531251211001503",
-        "baseUrl": "https://v2.mangapark.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaPill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapill",
     "apk": "tachiyomi-en.mangapill-v1.3.7.apk",
@@ -15161,10 +15140,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.3.38.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.3.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.3.38",
+    "code": 39,
+    "version": "1.3.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
