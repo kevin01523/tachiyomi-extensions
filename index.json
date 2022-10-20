@@ -1402,10 +1402,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.3.14.apk",
+    "apk": "tachiyomi-all.cubari-v1.3.15.apk",
     "lang": "all",
-    "code": 14,
-    "version": "1.3.14",
+    "code": 15,
+    "version": "1.3.15",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -11541,6 +11541,27 @@
         "lang": "en",
         "id": "6944316533867706525",
         "baseUrl": "https://mangaonlineteam.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaPark",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangapark",
+    "apk": "tachiyomi-en.mangapark-v1.3.23.apk",
+    "lang": "en",
+    "code": 23,
+    "version": "1.3.23",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaPark",
+        "lang": "en",
+        "id": "6259531251211001503",
+        "baseUrl": "https://v2.mangapark.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
