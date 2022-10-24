@@ -9050,10 +9050,10 @@
   {
     "name": "Tachiyomi: HentaiRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentairead",
-    "apk": "tachiyomi-en.hentairead-v1.3.26.apk",
+    "apk": "tachiyomi-en.hentairead-v1.3.27.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.3.26",
+    "code": 27,
+    "version": "1.3.27",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9061,9 +9061,9 @@
       {
         "name": "HentaiRead",
         "lang": "en",
-        "id": "6543143190556940874",
+        "id": "2299981010822511979",
         "baseUrl": "https://hentairead.com",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -11780,10 +11780,10 @@
   {
     "name": "Tachiyomi: MangaRok",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarok",
-    "apk": "tachiyomi-en.mangarok-v1.3.1.apk",
+    "apk": "tachiyomi-en.mangarok-v1.3.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24685,10 +24685,10 @@
   {
     "name": "Tachiyomi: Esomanga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.esomanga",
-    "apk": "tachiyomi-tr.esomanga-v1.3.24.apk",
+    "apk": "tachiyomi-tr.esomanga-v1.3.25.apk",
     "lang": "tr",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24697,7 +24697,7 @@
         "name": "Esomanga",
         "lang": "tr",
         "id": "8532813525155212852",
-        "baseUrl": "http://esomanga.com",
+        "baseUrl": "https://esomanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
