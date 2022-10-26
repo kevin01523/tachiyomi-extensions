@@ -6572,6 +6572,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: ARESManga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.iimanga",
+    "apk": "tachiyomi-ar.iimanga-v1.3.23.apk",
+    "lang": "ar",
+    "code": 23,
+    "version": "1.3.23",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ARESManga",
+        "lang": "ar",
+        "id": "230017529540228175",
+        "baseUrl": "https://aresmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.magusmanga",
     "apk": "tachiyomi-ar.magusmanga-v1.3.21.apk",
@@ -19025,10 +19046,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.3.37.apk",
+    "apk": "tachiyomi-id.komikcast-v1.3.38.apk",
     "lang": "id",
-    "code": 37,
-    "version": "1.3.37",
+    "code": 38,
+    "version": "1.3.38",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19037,7 +19058,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.me",
+        "baseUrl": "https://komikcast.site",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21069,7 +21090,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki157.net",
+        "baseUrl": "https://manatoki158.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21077,7 +21098,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki157.com",
+        "baseUrl": "https://newtoki158.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
