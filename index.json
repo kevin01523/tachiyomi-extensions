@@ -6782,27 +6782,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Pro",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaproz",
-    "apk": "tachiyomi-ar.mangaproz-v1.3.28.apk",
-    "lang": "ar",
-    "code": 28,
-    "version": "1.3.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Pro",
-        "lang": "ar",
-        "id": "44770998927187826",
-        "baseUrl": "https://manga-pro.com",
-        "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaRabic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangarabic",
     "apk": "tachiyomi-ar.mangarabic-v1.3.25.apk",
@@ -21693,6 +21672,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Fire Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.firemangas",
+    "apk": "tachiyomi-pt.firemangas-v1.3.7.apk",
+    "lang": "pt-BR",
+    "code": 7,
+    "version": "1.3.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fire Mangás",
+        "lang": "pt-BR",
+        "id": "4512861071868695798",
+        "baseUrl": "https://firemangas.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Fleur Blanche",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
     "apk": "tachiyomi-pt.fleurblanche-v1.3.26.apk",
@@ -22065,6 +22065,27 @@
         "lang": "pt-BR",
         "id": "3354605852773095004",
         "baseUrl": "https://imaginescan.com.br",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Sagrado Império da Britannia",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
+    "apk": "tachiyomi-pt.imperiodabritannia-v1.3.24.apk",
+    "lang": "pt-BR",
+    "code": 24,
+    "version": "1.3.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sagrado Império da Britannia",
+        "lang": "pt-BR",
+        "id": "7355004027880350247",
+        "baseUrl": "https://imperiodabritannia.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
