@@ -18876,6 +18876,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: DuniaKomik.id",
+    "pkg": "eu.kanade.tachiyomi.extension.id.duniakomikid",
+    "apk": "tachiyomi-id.duniakomikid-v1.3.21.apk",
+    "lang": "id",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DuniaKomik.id",
+        "lang": "id",
+        "id": "5116016453099684810",
+        "baseUrl": "https://duniakomik.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Gabut Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.gabutscans",
     "apk": "tachiyomi-id.gabutscans-v1.3.22.apk",
