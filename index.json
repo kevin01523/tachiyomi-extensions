@@ -9189,10 +9189,10 @@
   {
     "name": "Tachiyomi: Hscans",
     "pkg": "eu.kanade.tachiyomi.extension.en.hscans",
-    "apk": "tachiyomi-en.hscans-v1.3.26.apk",
+    "apk": "tachiyomi-en.hscans-v1.3.27.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.3.26",
+    "code": 27,
+    "version": "1.3.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
