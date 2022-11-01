@@ -9334,27 +9334,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: INKR",
-    "pkg": "eu.kanade.tachiyomi.extension.en.inkr",
-    "apk": "tachiyomi-en.inkr-v1.3.4.apk",
-    "lang": "en",
-    "code": 4,
-    "version": "1.3.4",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "INKR",
-        "lang": "en",
-        "id": "6949560025265725268",
-        "baseUrl": "https://inkr.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: InstaManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.instamanhwa",
     "apk": "tachiyomi-en.instamanhwa-v1.3.25.apk",
@@ -26525,10 +26504,10 @@
   {
     "name": "Tachiyomi: WNACG",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
-    "apk": "tachiyomi-zh.wnacg-v1.3.8.apk",
+    "apk": "tachiyomi-zh.wnacg-v1.3.9.apk",
     "lang": "zh",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
