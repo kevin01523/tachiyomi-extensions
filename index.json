@@ -19592,10 +19592,10 @@
   {
     "name": "Tachiyomi: ManhwaDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwadesu",
-    "apk": "tachiyomi-id.manhwadesu-v1.3.22.apk",
+    "apk": "tachiyomi-id.manhwadesu-v1.3.23.apk",
     "lang": "id",
-    "code": 22,
-    "version": "1.3.22",
+    "code": 23,
+    "version": "1.3.23",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19604,7 +19604,7 @@
         "name": "ManhwaDesu",
         "lang": "id",
         "id": "8258394658125354785",
-        "baseUrl": "https://manhwadesu.me",
+        "baseUrl": "https://manhwadesu.co",
         "versionId": 1,
         "hasCloudflare": 1
       }
