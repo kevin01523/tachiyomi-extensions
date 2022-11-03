@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.3.37.apk",
+    "apk": "tachiyomi-all.asurascans-v1.3.38.apk",
     "lang": "all",
-    "code": 37,
-    "version": "1.3.37",
+    "code": 38,
+    "version": "1.3.38",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -14,7 +14,7 @@
         "name": "Asura Scans",
         "lang": "en",
         "id": "6247824327199706550",
-        "baseUrl": "https://www.asurascans.com",
+        "baseUrl": "https://asura.gg",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -22,7 +22,7 @@
         "name": "Asura Scans",
         "lang": "tr",
         "id": "7963074674054946733",
-        "baseUrl": "https://tr.asurascans.com",
+        "baseUrl": "https://asurascanstr.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23837,10 +23837,10 @@
   {
     "name": "Tachiyomi: Nude-Moon",
     "pkg": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-    "apk": "tachiyomi-ru.nudemoon-v1.3.12.apk",
+    "apk": "tachiyomi-ru.nudemoon-v1.3.13.apk",
     "lang": "ru",
-    "code": 12,
-    "version": "1.3.12",
+    "code": 13,
+    "version": "1.3.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23849,7 +23849,7 @@
         "name": "Nude-Moon",
         "lang": "ru",
         "id": "6384784374922886076",
-        "baseUrl": "https://nude-moon.me",
+        "baseUrl": "https://nude-moon.org",
         "versionId": 1,
         "hasCloudflare": 0
       }
