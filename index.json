@@ -19781,10 +19781,10 @@
   {
     "name": "Tachiyomi: Ngomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.ngomik",
-    "apk": "tachiyomi-id.ngomik-v1.3.22.apk",
+    "apk": "tachiyomi-id.ngomik-v1.3.23.apk",
     "lang": "id",
-    "code": 22,
-    "version": "1.3.22",
+    "code": 23,
+    "version": "1.3.23",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
