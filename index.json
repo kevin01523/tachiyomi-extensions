@@ -19802,10 +19802,10 @@
   {
     "name": "Tachiyomi: Pi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.piscans",
-    "apk": "tachiyomi-id.piscans-v1.3.21.apk",
+    "apk": "tachiyomi-id.piscans-v1.3.22.apk",
     "lang": "id",
-    "code": 21,
-    "version": "1.3.21",
+    "code": 22,
+    "version": "1.3.22",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19814,7 +19814,7 @@
         "name": "Pi Scans",
         "lang": "id",
         "id": "1319822103345632810",
-        "baseUrl": "https://piscans.com",
+        "baseUrl": "https://piscans.in",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23816,10 +23816,10 @@
   {
     "name": "Tachiyomi: NewManga(Newbie)",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.3.15.apk",
+    "apk": "tachiyomi-ru.newbie-v1.3.16.apk",
     "lang": "ru",
-    "code": 15,
-    "version": "1.3.15",
+    "code": 16,
+    "version": "1.3.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23830,7 +23830,7 @@
         "id": "8033757373676218584",
         "baseUrl": "https://newmanga.org",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
