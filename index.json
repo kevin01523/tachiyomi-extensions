@@ -892,10 +892,10 @@
   {
     "name": "Tachiyomi: BILIBILI COMICS",
     "pkg": "eu.kanade.tachiyomi.extension.all.bilibilicomics",
-    "apk": "tachiyomi-all.bilibilicomics-v1.3.10.apk",
+    "apk": "tachiyomi-all.bilibilicomics-v1.3.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.3.10",
+    "code": 11,
+    "version": "1.3.11",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -11730,10 +11730,10 @@
   {
     "name": "Tachiyomi: MangaSco",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasco",
-    "apk": "tachiyomi-en.mangasco-v1.3.25.apk",
+    "apk": "tachiyomi-en.mangasco-v1.3.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "1.3.25",
+    "code": 26,
+    "version": "1.3.26",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11742,7 +11742,7 @@
         "name": "MangaSco",
         "lang": "en",
         "id": "2832458433399665913",
-        "baseUrl": "https://mangasco.com",
+        "baseUrl": "https://manhwasco.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17526,10 +17526,10 @@
   {
     "name": "Tachiyomi: MangasTK",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangastk",
-    "apk": "tachiyomi-es.mangastk-v1.3.24.apk",
+    "apk": "tachiyomi-es.mangastk-v1.3.25.apk",
     "lang": "es",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17538,7 +17538,7 @@
         "name": "MangasTK",
         "lang": "es",
         "id": "3172894373634175439",
-        "baseUrl": "https://mangastk.com",
+        "baseUrl": "https://mangastk.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25895,10 +25895,10 @@
   {
     "name": "Tachiyomi: BILIBILI MANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bilibilimanga",
-    "apk": "tachiyomi-zh.bilibilimanga-v1.3.9.apk",
+    "apk": "tachiyomi-zh.bilibilimanga-v1.3.10.apk",
     "lang": "zh-Hans",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
