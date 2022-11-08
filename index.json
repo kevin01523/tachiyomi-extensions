@@ -5648,10 +5648,10 @@
   {
     "name": "Tachiyomi: Tachidesk",
     "pkg": "eu.kanade.tachiyomi.extension.all.tachidesk",
-    "apk": "tachiyomi-all.tachidesk-v1.3.6.apk",
+    "apk": "tachiyomi-all.tachidesk-v1.3.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15340,6 +15340,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Familiar by Soushiyo",
+    "pkg": "eu.kanade.tachiyomi.extension.en.soushiyofamiliar",
+    "apk": "tachiyomi-en.soushiyofamiliar-v1.3.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Soushiyo: Familiar",
+        "lang": "en",
+        "id": "3774199975251699510",
+        "baseUrl": "https://familiar.soushiyo.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sugar Babies",
     "pkg": "eu.kanade.tachiyomi.extension.en.sugarbabies",
     "apk": "tachiyomi-en.sugarbabies-v1.3.26.apk",
@@ -23816,10 +23837,10 @@
   {
     "name": "Tachiyomi: NewManga(Newbie)",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.3.16.apk",
+    "apk": "tachiyomi-ru.newbie-v1.3.17.apk",
     "lang": "ru",
-    "code": 16,
-    "version": "1.3.16",
+    "code": 17,
+    "version": "1.3.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
