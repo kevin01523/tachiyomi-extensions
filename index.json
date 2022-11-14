@@ -25853,10 +25853,10 @@
   {
     "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.3.13.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.3.14.apk",
     "lang": "zh",
-    "code": 13,
-    "version": "1.3.13",
+    "code": 14,
+    "version": "1.3.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
