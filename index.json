@@ -7265,27 +7265,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Alpha Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.alphascans",
-    "apk": "tachiyomi-en.alphascans-v1.3.22.apk",
-    "lang": "en",
-    "code": 22,
-    "version": "1.3.22",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Alpha Scans",
-        "lang": "en",
-        "id": "4142958065526725213",
-        "baseUrl": "https://alpha-scans.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Anata no Motokare",
     "pkg": "eu.kanade.tachiyomi.extension.en.anatanomotokare",
     "apk": "tachiyomi-en.anatanomotokare-v1.3.3.apk",
@@ -19613,10 +19592,10 @@
   {
     "name": "Tachiyomi: MangKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangkomik",
-    "apk": "tachiyomi-id.mangkomik-v1.3.21.apk",
+    "apk": "tachiyomi-id.mangkomik-v1.3.22.apk",
     "lang": "id",
-    "code": 21,
-    "version": "1.3.21",
+    "code": 22,
+    "version": "1.3.22",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19625,7 +19604,7 @@
         "name": "MangKomik",
         "lang": "id",
         "id": "8457447675410081142",
-        "baseUrl": "https://mangkomik.com",
+        "baseUrl": "https://mangkomik.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
