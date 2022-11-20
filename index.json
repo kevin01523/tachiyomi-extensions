@@ -1748,10 +1748,10 @@
   {
     "name": "Tachiyomi: E-Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "tachiyomi-all.ehentai-v1.3.17.apk",
+    "apk": "tachiyomi-all.ehentai-v1.3.18.apk",
     "lang": "all",
-    "code": 17,
-    "version": "1.3.17",
+    "code": 18,
+    "version": "1.3.18",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18857,10 +18857,10 @@
   {
     "name": "Tachiyomi: Comic Fx",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicfx",
-    "apk": "tachiyomi-id.comicfx-v1.3.3.apk",
+    "apk": "tachiyomi-id.comicfx-v1.3.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 4,
+    "version": "1.3.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20978,10 +20978,10 @@
   {
     "name": "Tachiyomi: Web Comic Gamma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgamma",
-    "apk": "tachiyomi-ja.webcomicgamma-v1.3.5.apk",
+    "apk": "tachiyomi-ja.webcomicgamma-v1.3.6.apk",
     "lang": "ja",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20999,10 +20999,10 @@
   {
     "name": "Tachiyomi: Web Comic Gamma Plus",
     "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgammaplus",
-    "apk": "tachiyomi-ja.webcomicgammaplus-v1.3.3.apk",
+    "apk": "tachiyomi-ja.webcomicgammaplus-v1.3.6.apk",
     "lang": "ja",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25853,10 +25853,10 @@
   {
     "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.3.14.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.3.15.apk",
     "lang": "zh",
-    "code": 14,
-    "version": "1.3.14",
+    "code": 15,
+    "version": "1.3.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -25867,7 +25867,7 @@
         "id": "5724751873601868259",
         "baseUrl": "https://cn.baozimh.com",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
