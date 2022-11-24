@@ -14943,10 +14943,10 @@
   {
     "name": "Tachiyomi: Realm Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.realmscans",
-    "apk": "tachiyomi-en.realmscans-v1.3.24.apk",
+    "apk": "tachiyomi-en.realmscans-v1.3.25.apk",
     "lang": "en",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -15397,6 +15397,27 @@
         "lang": "en",
         "id": "270735877209005638",
         "baseUrl": "https://sunshinebutterflyscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Surya Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
+    "apk": "tachiyomi-en.suryascans-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Surya Scans",
+        "lang": "en",
+        "id": "2909429739457928148",
+        "baseUrl": "https://suryascans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -16140,10 +16161,10 @@
   {
     "name": "Tachiyomi: Webnovel.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.webnovel",
-    "apk": "tachiyomi-en.webnovel-v1.3.5.apk",
+    "apk": "tachiyomi-en.webnovel-v1.3.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19487,10 +19508,10 @@
   {
     "name": "Tachiyomi: Mangakyo",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangakyo",
-    "apk": "tachiyomi-id.mangakyo-v1.3.21.apk",
+    "apk": "tachiyomi-id.mangakyo-v1.3.22.apk",
     "lang": "id",
-    "code": 21,
-    "version": "1.3.21",
+    "code": 22,
+    "version": "1.3.22",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19499,7 +19520,7 @@
         "name": "Mangakyo",
         "lang": "id",
         "id": "8432236000137725211",
-        "baseUrl": "https://www.mangakyo.me",
+        "baseUrl": "https://mangakyo.id",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21153,7 +21174,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki160.net",
+        "baseUrl": "https://manatoki161.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21161,7 +21182,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki160.com",
+        "baseUrl": "https://newtoki161.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23606,10 +23627,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.3.19.apk",
+    "apk": "tachiyomi-ru.desu-v1.3.20.apk",
     "lang": "ru",
-    "code": 19,
-    "version": "1.3.19",
+    "code": 20,
+    "version": "1.3.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25622,10 +25643,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.3.12.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.3.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.3.12",
+    "code": 13,
+    "version": "1.3.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25634,7 +25655,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenin.com",
+        "baseUrl": "https://www.nettruyenon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25664,10 +25685,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.3.10.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.3.11.apk",
     "lang": "vi",
-    "code": 10,
-    "version": "1.3.10",
+    "code": 11,
+    "version": "1.3.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25676,7 +25697,7 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
-        "baseUrl": "https://nhattruyenin.com",
+        "baseUrl": "https://nhattruyenon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
