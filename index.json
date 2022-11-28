@@ -7328,6 +7328,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: A Pair of 2+",
+    "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
+    "apk": "tachiyomi-en.apairof2-v1.3.26.apk",
+    "lang": "en",
+    "code": 26,
+    "version": "1.3.26",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "A Pair of 2+",
+        "lang": "en",
+        "id": "6293046913252281087",
+        "baseUrl": "https://po2scans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
     "apk": "tachiyomi-en.aquamanga-v1.3.27.apk",
@@ -9378,10 +9399,10 @@
   {
     "name": "Tachiyomi: IsekaiScan.eu (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.isekaiscaneu",
-    "apk": "tachiyomi-en.isekaiscaneu-v1.3.26.apk",
+    "apk": "tachiyomi-en.isekaiscaneu-v1.3.27.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.3.26",
+    "code": 27,
+    "version": "1.3.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
