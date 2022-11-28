@@ -1918,10 +1918,10 @@
   {
     "name": "Tachiyomi: Flame Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.flamescans",
-    "apk": "tachiyomi-all.flamescans-v1.3.23.apk",
+    "apk": "tachiyomi-all.flamescans-v1.3.24.apk",
     "lang": "all",
-    "code": 23,
-    "version": "1.3.23",
+    "code": 24,
+    "version": "1.3.24",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
