@@ -25559,10 +25559,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.3.14.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.3.15.apk",
     "lang": "vi",
-    "code": 14,
-    "version": "1.3.14",
+    "code": 15,
+    "version": "1.3.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25571,7 +25571,7 @@
         "name": "HentaiVN",
         "lang": "vi",
         "id": "6560768551969686205",
-        "baseUrl": "https://hentaivn.la",
+        "baseUrl": "https://hentaivn.in",
         "versionId": 1,
         "hasCloudflare": 1
       }
