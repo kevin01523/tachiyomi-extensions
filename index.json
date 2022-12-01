@@ -25538,10 +25538,10 @@
   {
     "name": "Tachiyomi: Hentai CB",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.3.27.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.3.28.apk",
     "lang": "vi",
-    "code": 27,
-    "version": "1.3.27",
+    "code": 28,
+    "version": "1.3.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25550,7 +25550,7 @@
         "name": "Hentai CB",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hentaicb.top",
+        "baseUrl": "https://hentaicb.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25601,10 +25601,10 @@
   {
     "name": "Tachiyomi: LKDTT",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lkdtt",
-    "apk": "tachiyomi-vi.lkdtt-v1.3.2.apk",
+    "apk": "tachiyomi-vi.lkdtt-v1.3.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.3.2",
+    "code": 3,
+    "version": "1.3.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25613,7 +25613,7 @@
         "name": "LKDTT",
         "lang": "vi",
         "id": "6755797126867425617",
-        "baseUrl": "https://lkdtt.net",
+        "baseUrl": "https://lkdttne.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
