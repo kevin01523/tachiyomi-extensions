@@ -8853,10 +8853,10 @@
   {
     "name": "Tachiyomi: Hentai20",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai20",
-    "apk": "tachiyomi-en.hentai20-v1.3.28.apk",
+    "apk": "tachiyomi-en.hentai20-v1.3.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.3.28",
+    "code": 29,
+    "version": "1.3.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8865,7 +8865,7 @@
         "name": "Hentai20",
         "lang": "en",
         "id": "7114409483685920616",
-        "baseUrl": "https://hentai20s.com",
+        "baseUrl": "https://hentai20.io",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -8895,10 +8895,10 @@
   {
     "name": "Tachiyomi: Hentaidexy",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaidexy",
-    "apk": "tachiyomi-en.hentaidexy-v1.3.28.apk",
+    "apk": "tachiyomi-en.hentaidexy-v1.3.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.3.28",
+    "code": 29,
+    "version": "1.3.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8907,7 +8907,7 @@
         "name": "Hentaidexy",
         "lang": "en",
         "id": "3938137175304243668",
-        "baseUrl": "https://hentaidexy.com",
+        "baseUrl": "https://hentaidexy.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -14019,10 +14019,10 @@
   {
     "name": "Tachiyomi: Raw-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.rawmanga",
-    "apk": "tachiyomi-en.rawmanga-v1.3.1.apk",
+    "apk": "tachiyomi-en.rawmanga-v1.3.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15195,12 +15195,12 @@
   {
     "name": "Tachiyomi: Shooting Star Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.shootingstarscans",
-    "apk": "tachiyomi-en.shootingstarscans-v1.3.24.apk",
+    "apk": "tachiyomi-en.shootingstarscans-v1.3.26.apk",
     "lang": "en",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 26,
+    "version": "1.3.26",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -21237,7 +21237,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki162.net",
+        "baseUrl": "https://manatoki163.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21245,7 +21245,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki162.com",
+        "baseUrl": "https://newtoki163.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21666,27 +21666,6 @@
         "lang": "pt-BR",
         "id": "8629915907358523454",
         "baseUrl": "https://cerisescan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Coven Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.covenscan",
-    "apk": "tachiyomi-pt.covenscan-v1.3.26.apk",
-    "lang": "pt-BR",
-    "code": 26,
-    "version": "1.3.26",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Coven Scan",
-        "lang": "pt-BR",
-        "id": "5558728935088189480",
-        "baseUrl": "https://covenscan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25601,10 +25580,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.3.15.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.3.16.apk",
     "lang": "vi",
-    "code": 15,
-    "version": "1.3.15",
+    "code": 16,
+    "version": "1.3.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25613,7 +25592,7 @@
         "name": "HentaiVN",
         "lang": "vi",
         "id": "6560768551969686205",
-        "baseUrl": "https://hentaivn.in",
+        "baseUrl": "https://hentaivn.life",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25706,10 +25685,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.3.14.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.3.15.apk",
     "lang": "vi",
-    "code": 14,
-    "version": "1.3.14",
+    "code": 15,
+    "version": "1.3.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25718,7 +25697,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyentv.com",
+        "baseUrl": "https://www.nettruyenmin.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25748,10 +25727,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.3.12.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.3.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.3.12",
+    "code": 13,
+    "version": "1.3.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25760,7 +25739,7 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
-        "baseUrl": "https://nhattruyentv.com",
+        "baseUrl": "https://nhattruyenmin.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26021,10 +26000,10 @@
   {
     "name": "Tachiyomi: BoyLove",
     "pkg": "eu.kanade.tachiyomi.extension.zh.boylove",
-    "apk": "tachiyomi-zh.boylove-v1.3.5.apk",
+    "apk": "tachiyomi-zh.boylove-v1.3.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
