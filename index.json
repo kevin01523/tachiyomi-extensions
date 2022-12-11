@@ -8664,10 +8664,10 @@
   {
     "name": "Tachiyomi: GalaxyDegenScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
-    "apk": "tachiyomi-en.galaxydegenscans-v1.3.29.apk",
+    "apk": "tachiyomi-en.galaxydegenscans-v1.3.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.3.29",
+    "code": 30,
+    "version": "1.3.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8676,7 +8676,7 @@
         "name": "GalaxyDegenScans",
         "lang": "en",
         "id": "4598626990187882152",
-        "baseUrl": "https://gdstmp.site",
+        "baseUrl": "https://gdscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -16369,48 +16369,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: White Cloud Pavilion",
-    "pkg": "eu.kanade.tachiyomi.extension.en.whitecloudpavilion",
-    "apk": "tachiyomi-en.whitecloudpavilion-v1.3.5.apk",
-    "lang": "en",
-    "code": 5,
-    "version": "1.3.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "White Cloud Pavilion",
-        "lang": "en",
-        "id": "4707876338832716606",
-        "baseUrl": "https://whitecloudpavilion.com/manga/patreon",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: White Cloud Pavilion (New)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.whitecloudpavilionnew",
-    "apk": "tachiyomi-en.whitecloudpavilionnew-v1.3.21.apk",
-    "lang": "en",
-    "code": 21,
-    "version": "1.3.21",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "White Cloud Pavilion (New)",
-        "lang": "en",
-        "id": "3086937479899925659",
-        "baseUrl": "https://www.whitecloudpavilion.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: WoopRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.woopread",
     "apk": "tachiyomi-en.woopread-v1.3.27.apk",
@@ -16932,6 +16890,27 @@
         "baseUrl": "https://daprob.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DatGarScanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
+    "apk": "tachiyomi-es.datgarscanlation-v1.3.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DatGarScanlation",
+        "lang": "es",
+        "id": "597614591067448309",
+        "baseUrl": "https://datgarscanlation.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -26000,10 +25979,10 @@
   {
     "name": "Tachiyomi: BoyLove",
     "pkg": "eu.kanade.tachiyomi.extension.zh.boylove",
-    "apk": "tachiyomi-zh.boylove-v1.3.6.apk",
+    "apk": "tachiyomi-zh.boylove-v1.3.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26012,7 +25991,7 @@
         "name": "香香腐宅",
         "lang": "zh",
         "id": "1471112097704477289",
-        "baseUrl": "https://boylove.live",
+        "baseUrl": "https://boylov.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
