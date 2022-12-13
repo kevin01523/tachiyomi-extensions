@@ -6656,6 +6656,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Ai Land",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaailand",
+    "apk": "tachiyomi-ar.mangaailand-v1.3.2.apk",
+    "lang": "ar",
+    "code": 2,
+    "version": "1.3.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Ai Land",
+        "lang": "ar",
+        "id": "7109397520501699498",
+        "baseUrl": "https://manga-ai-land.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: مانجا عرب تيم Manga Arab Team",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaarabteam",
     "apk": "tachiyomi-ar.mangaarabteam-v1.3.27.apk",
@@ -16896,10 +16917,10 @@
   {
     "name": "Tachiyomi: DatGarScanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
-    "apk": "tachiyomi-es.datgarscanlation-v1.3.1.apk",
+    "apk": "tachiyomi-es.datgarscanlation-v1.3.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19857,6 +19878,27 @@
         "lang": "id",
         "id": "1171153519563232563",
         "baseUrl": "https://nekomik.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Neumanga",
+    "pkg": "eu.kanade.tachiyomi.extension.id.neumanga",
+    "apk": "tachiyomi-id.neumanga-v1.3.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Neumanga",
+        "lang": "id",
+        "id": "4922018832509682712",
+        "baseUrl": "https://neumanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25664,10 +25706,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.3.15.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.3.16.apk",
     "lang": "vi",
-    "code": 15,
-    "version": "1.3.15",
+    "code": 16,
+    "version": "1.3.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25676,7 +25718,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenmin.com",
+        "baseUrl": "https://www.nettruyenking.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25916,10 +25958,10 @@
   {
     "name": "Tachiyomi: Baozimh.org",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
-    "apk": "tachiyomi-zh.baozimhorg-v1.3.27.apk",
+    "apk": "tachiyomi-zh.baozimhorg-v1.3.28.apk",
     "lang": "zh",
-    "code": 27,
-    "version": "1.3.27",
+    "code": 28,
+    "version": "1.3.28",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25979,10 +26021,10 @@
   {
     "name": "Tachiyomi: BoyLove",
     "pkg": "eu.kanade.tachiyomi.extension.zh.boylove",
-    "apk": "tachiyomi-zh.boylove-v1.3.7.apk",
+    "apk": "tachiyomi-zh.boylove-v1.3.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.3.7",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26210,10 +26252,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.3.31.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.3.32.apk",
     "lang": "zh",
-    "code": 31,
-    "version": "1.3.31",
+    "code": 32,
+    "version": "1.3.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26439,21 +26481,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: QiXiManhua",
+    "name": "Tachiyomi: QiXiManhua (Deprecated)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.qiximh",
-    "apk": "tachiyomi-zh.qiximh-v1.3.5.apk",
+    "apk": "tachiyomi-zh.qiximh-v1.3.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "七夕漫画",
+        "name": "七夕漫画 (废弃,请使用6漫画)",
         "lang": "zh",
         "id": "418374491144859437",
-        "baseUrl": "http://qiximh1.com",
+        "baseUrl": "",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26481,12 +26523,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: 6Manhua",
+    "name": "Tachiyomi: 6Manhua / Qixi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.sixmh",
-    "apk": "tachiyomi-zh.sixmh-v1.3.4.apk",
+    "apk": "tachiyomi-zh.sixmh-v1.3.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26495,7 +26537,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://www.sixmh7.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26609,10 +26651,10 @@
   {
     "name": "Tachiyomi: Zerobyw",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
-    "apk": "tachiyomi-zh.zerobyw-v1.3.12.apk",
+    "apk": "tachiyomi-zh.zerobyw-v1.3.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.3.12",
+    "code": 13,
+    "version": "1.3.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
