@@ -20789,10 +20789,10 @@
   {
     "name": "Tachiyomi: MangaRaw",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga9co",
-    "apk": "tachiyomi-ja.manga9co-v1.3.4.apk",
+    "apk": "tachiyomi-ja.manga9co-v1.3.5.apk",
     "lang": "ja",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20801,7 +20801,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://manga9.co",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26693,10 +26693,10 @@
   {
     "name": "Tachiyomi: 6Manhua / Qixi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.sixmh",
-    "apk": "tachiyomi-zh.sixmh-v1.3.5.apk",
+    "apk": "tachiyomi-zh.sixmh-v1.3.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26705,7 +26705,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
