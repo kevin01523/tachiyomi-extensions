@@ -2417,10 +2417,10 @@
   {
     "name": "Tachiyomi: IMHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.imhentai",
-    "apk": "tachiyomi-all.imhentai-v1.3.8.apk",
+    "apk": "tachiyomi-all.imhentai-v1.3.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19298,10 +19298,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.3.7.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.3.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "1.3.7",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19542,6 +19542,27 @@
         "lang": "id",
         "id": "2294192864319418820",
         "baseUrl": "https://mangaid.click",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Indo.me",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangaindome",
+    "apk": "tachiyomi-id.mangaindome-v1.3.21.apk",
+    "lang": "id",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Indo.me",
+        "lang": "id",
+        "id": "5417402846403527719",
+        "baseUrl": "https://mangaindo.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20151,6 +20172,27 @@
         "lang": "id",
         "id": "8883916630998758688",
         "baseUrl": "https://westmanga.info",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: WorldManhwas",
+    "pkg": "eu.kanade.tachiyomi.extension.id.worldmanhwas",
+    "apk": "tachiyomi-id.worldmanhwas-v1.3.26.apk",
+    "lang": "id",
+    "code": 26,
+    "version": "1.3.26",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "WorldManhwas",
+        "lang": "id",
+        "id": "7019605194114894730",
+        "baseUrl": "https://worldmanhwas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20801,7 +20843,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -21279,7 +21321,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki163.net",
+        "baseUrl": "https://manatoki164.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21287,7 +21329,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki163.com",
+        "baseUrl": "https://newtoki164.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25958,10 +26000,10 @@
   {
     "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.3.15.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.3.16.apk",
     "lang": "zh",
-    "code": 15,
-    "version": "1.3.15",
+    "code": 16,
+    "version": "1.3.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -26705,7 +26747,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26811,6 +26853,27 @@
         "lang": "zh",
         "id": "6973908146706613748",
         "baseUrl": "http://www.wuqimh.net",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yidan Girl",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.yidan",
+    "apk": "tachiyomi-zh.yidan-v1.3.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "一耽女孩",
+        "lang": "zh",
+        "id": "2417676426413230210",
+        "baseUrl": "https://ydan.cc",
         "versionId": 1,
         "hasCloudflare": 0
       }
