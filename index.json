@@ -20535,27 +20535,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ShinobiScans",
-    "pkg": "eu.kanade.tachiyomi.extension.it.shinobiscans",
-    "apk": "tachiyomi-it.shinobiscans-v1.3.26.apk",
-    "lang": "it",
-    "code": 26,
-    "version": "1.3.26",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ShinobiScans",
-        "lang": "it",
-        "id": "2432984070272586093",
-        "baseUrl": "https://shinobiscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: TuttoAnimeManga",
     "pkg": "eu.kanade.tachiyomi.extension.it.tuttoanimemanga",
     "apk": "tachiyomi-it.tuttoanimemanga-v1.3.6.apk",
@@ -20843,7 +20822,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26747,7 +26726,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
