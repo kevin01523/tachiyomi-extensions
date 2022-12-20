@@ -20864,7 +20864,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -22491,6 +22491,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangásUp",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangasup",
+    "apk": "tachiyomi-pt.mangasup-v1.3.7.apk",
+    "lang": "pt-BR",
+    "code": 7,
+    "version": "1.3.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangásUp",
+        "lang": "pt-BR",
+        "id": "4579381321483087561",
+        "baseUrl": "https://mangasup.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaVibe",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangavibe",
     "apk": "tachiyomi-pt.mangavibe-v1.3.2.apk",
@@ -22527,48 +22548,6 @@
         "lang": "pt-BR",
         "id": "2261479970554286738",
         "baseUrl": "https://mangazim.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mark Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.markscans",
-    "apk": "tachiyomi-pt.markscans-v1.3.29.apk",
-    "lang": "pt-BR",
-    "code": 29,
-    "version": "1.3.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mark Scans",
-        "lang": "pt-BR",
-        "id": "1625075103965897034",
-        "baseUrl": "https://markscans.online",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Meus Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.meusmangas",
-    "apk": "tachiyomi-pt.meusmangas-v1.3.9.apk",
-    "lang": "pt-BR",
-    "code": 9,
-    "version": "1.3.9",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Meus Mangás",
-        "lang": "pt-BR",
-        "id": "5703232912641695558",
-        "baseUrl": "https://meusmangas.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22787,21 +22766,21 @@
   {
     "name": "Tachiyomi: Mundo Mangá-Kun",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
-    "apk": "tachiyomi-pt.mundomangakun-v1.3.9.apk",
+    "apk": "tachiyomi-pt.mundomangakun-v1.3.21.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 21,
+    "version": "1.3.21",
     "nsfw": 1,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Mundo Mangá-Kun",
         "lang": "pt-BR",
-        "id": "6615057899864522767",
+        "id": "39298162968728051",
         "baseUrl": "https://mundomangakun.com.br",
-        "versionId": 1,
-        "hasCloudflare": 0
+        "versionId": 2,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -23157,6 +23136,27 @@
         "lang": "pt-BR",
         "id": "273341846992513187",
         "baseUrl": "https://saikaiscan.com.br",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Seemangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.seemangas",
+    "apk": "tachiyomi-pt.seemangas-v1.3.7.apk",
+    "lang": "pt-BR",
+    "code": 7,
+    "version": "1.3.7",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Seemangas",
+        "lang": "pt-BR",
+        "id": "351204414249584096",
+        "baseUrl": "https://seemangas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25685,10 +25685,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.3.17.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.3.18.apk",
     "lang": "vi",
-    "code": 17,
-    "version": "1.3.17",
+    "code": 18,
+    "version": "1.3.18",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26747,7 +26747,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
