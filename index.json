@@ -3034,10 +3034,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.3.175.apk",
+    "apk": "tachiyomi-all.mangadex-v1.3.176.apk",
     "lang": "all",
-    "code": 175,
-    "version": "1.3.175",
+    "code": 176,
+    "version": "1.3.176",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -16182,10 +16182,10 @@
   {
     "name": "Tachiyomi: VyvyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.vyvymanga",
-    "apk": "tachiyomi-en.vyvymanga-v1.3.3.apk",
+    "apk": "tachiyomi-en.vyvymanga-v1.3.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 4,
+    "version": "1.3.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -16194,7 +16194,7 @@
         "name": "VyvyManga",
         "lang": "en",
         "id": "6958928548959982041",
-        "baseUrl": "https://vyvymanga.com",
+        "baseUrl": "https://vyvymanga.net",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -19170,27 +19170,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: KlanKomik",
-    "pkg": "eu.kanade.tachiyomi.extension.id.klankomik",
-    "apk": "tachiyomi-id.klankomik-v1.3.22.apk",
-    "lang": "id",
-    "code": 22,
-    "version": "1.3.22",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "KlanKomik",
-        "lang": "id",
-        "id": "3322970876037682800",
-        "baseUrl": "https://klankomik.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: KlikManga",
     "pkg": "eu.kanade.tachiyomi.extension.id.klikmanga",
     "apk": "tachiyomi-id.klikmanga-v1.3.28.apk",
@@ -20012,10 +19991,10 @@
   {
     "name": "Tachiyomi: Pojok Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.pojokmanga",
-    "apk": "tachiyomi-id.pojokmanga-v1.3.29.apk",
+    "apk": "tachiyomi-id.pojokmanga-v1.3.30.apk",
     "lang": "id",
-    "code": 29,
-    "version": "1.3.29",
+    "code": 30,
+    "version": "1.3.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20024,7 +20003,7 @@
         "name": "Pojok Manga",
         "lang": "id",
         "id": "5486262618423256587",
-        "baseUrl": "https://pojokmanga.com",
+        "baseUrl": "https://pojokmanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20934,6 +20913,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaRawRU",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangarawru",
+    "apk": "tachiyomi-ja.mangarawru-v1.3.4.apk",
+    "lang": "ja",
+    "code": 4,
+    "version": "1.3.4",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaRawRU",
+        "lang": "ja",
+        "id": "4141244548126370547",
+        "baseUrl": "https://mangaraw.ru",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nicovideo Seiga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.nicovideoseiga",
     "apk": "tachiyomi-ja.nicovideoseiga-v1.3.2.apk",
@@ -21203,6 +21203,27 @@
         "baseUrl": "https://gammaplus.takeshobo.co.jp",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: WeLoveMangaOne",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.welovemangaone",
+    "apk": "tachiyomi-ja.welovemangaone-v1.3.7.apk",
+    "lang": "ja",
+    "code": 7,
+    "version": "1.3.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "WeLoveMangaOne",
+        "lang": "ja",
+        "id": "1647179844716143786",
+        "baseUrl": "https://welovemanga.one",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -26747,7 +26768,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
