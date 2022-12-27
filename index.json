@@ -10867,6 +10867,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaHub",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
+    "apk": "tachiyomi-en.mangahubio-v1.3.21.apk",
+    "lang": "en",
+    "code": 21,
+    "version": "1.3.21",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaHub",
+        "lang": "en",
+        "id": "4758858684982406533",
+        "baseUrl": "https://mangahub.io",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaHZ",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahz",
     "apk": "tachiyomi-en.mangahz-v1.3.28.apk",
@@ -11371,6 +11392,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaPanda.onl",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
+    "apk": "tachiyomi-en.mangapandaonl-v1.3.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.3.11",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaPanda.onl",
+        "lang": "en",
+        "id": "7661417715431651982",
+        "baseUrl": "https://mangapanda.onl",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaPark",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapark",
     "apk": "tachiyomi-en.mangapark-v1.3.23.apk",
@@ -11535,6 +11577,27 @@
         "baseUrl": "http://mangareader.cc/",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaReader.site",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
+    "apk": "tachiyomi-en.mangareadersite-v1.3.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.3.11",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaReader.site",
+        "lang": "en",
+        "id": "2527199067559866087",
+        "baseUrl": "https://mangareader.site",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -20570,7 +20633,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -21090,7 +21153,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki164.net",
+        "baseUrl": "https://manatoki165.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21098,7 +21161,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki164.com",
+        "baseUrl": "https://newtoki165.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26453,7 +26516,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
