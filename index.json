@@ -6574,10 +6574,10 @@
   {
     "name": "Tachiyomi: ARESManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.iimanga",
-    "apk": "tachiyomi-ar.iimanga-v1.3.23.apk",
+    "apk": "tachiyomi-ar.iimanga-v1.3.24.apk",
     "lang": "ar",
-    "code": 23,
-    "version": "1.3.23",
+    "code": 24,
+    "version": "1.3.24",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -6586,7 +6586,7 @@
         "name": "ARESManga",
         "lang": "ar",
         "id": "230017529540228175",
-        "baseUrl": "https://aresmanga.com",
+        "baseUrl": "https://aresmanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20633,7 +20633,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
