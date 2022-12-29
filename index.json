@@ -21273,6 +21273,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Aleatória Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.aleatoriascan",
+    "apk": "tachiyomi-pt.aleatoriascan-v1.3.26.apk",
+    "lang": "pt-BR",
+    "code": 26,
+    "version": "1.3.26",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Aleatória Scan",
+        "lang": "pt-BR",
+        "id": "3960374200186035778",
+        "baseUrl": "https://aleatoriascan.xyz",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ama Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.amascans",
     "apk": "tachiyomi-pt.amascans-v1.3.7.apk",
@@ -21611,20 +21632,20 @@
   {
     "name": "Tachiyomi: Diskus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
-    "apk": "tachiyomi-pt.diskusscan-v1.3.27.apk",
+    "apk": "tachiyomi-pt.diskusscan-v1.3.28.apk",
     "lang": "pt-BR",
-    "code": 27,
-    "version": "1.3.27",
+    "code": 28,
+    "version": "1.3.28",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Diskus Scan",
         "lang": "pt-BR",
-        "id": "2061255209421057242",
+        "id": "5356614925537900346",
         "baseUrl": "https://diskusscan.com",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -23438,10 +23459,10 @@
   {
     "name": "Tachiyomi: YugenMangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.3.26.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.3.27.apk",
     "lang": "pt-BR",
-    "code": 26,
-    "version": "1.3.26",
+    "code": 27,
+    "version": "1.3.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
