@@ -11751,10 +11751,10 @@
   {
     "name": "Tachiyomi: MangaSee",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasee",
-    "apk": "tachiyomi-en.mangasee-v1.3.34.apk",
+    "apk": "tachiyomi-en.mangasee-v1.3.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.3.34",
+    "code": 35,
+    "version": "1.3.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17356,21 +17356,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaMx",
+    "name": "Tachiyomi: MangaOni",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangamx",
-    "apk": "tachiyomi-es.mangamx-v1.3.13.apk",
+    "apk": "tachiyomi-es.mangamx-v1.3.14.apk",
     "lang": "es",
-    "code": 13,
-    "version": "1.3.13",
+    "code": 14,
+    "version": "1.3.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaMx",
+        "name": "MangaOni",
         "lang": "es",
         "id": "2202687009511923782",
-        "baseUrl": "https://manga-mx.com",
+        "baseUrl": "https://manga-oni.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26558,7 +26558,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
