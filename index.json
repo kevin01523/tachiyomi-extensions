@@ -7034,6 +7034,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Team X",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
+    "apk": "tachiyomi-ar.teamx-v1.2.10.apk",
+    "lang": "ar",
+    "code": 10,
+    "version": "1.2.10",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Team X",
+        "lang": "ar",
+        "id": "4110737012647435874",
+        "baseUrl": "https://team1x1.fun",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: YonaBar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.yonabar",
     "apk": "tachiyomi-ar.yonabar-v1.3.28.apk",
@@ -17421,10 +17442,10 @@
   {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
-    "apk": "tachiyomi-es.manhwalatino-v1.3.20.apk",
+    "apk": "tachiyomi-es.manhwalatino-v1.3.21.apk",
     "lang": "es",
-    "code": 20,
-    "version": "1.3.20",
+    "code": 21,
+    "version": "1.3.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18855,6 +18876,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hensekai",
+    "pkg": "eu.kanade.tachiyomi.extension.id.hensekai",
+    "apk": "tachiyomi-id.hensekai-v1.3.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hensekai",
+        "lang": "id",
+        "id": "3171389656304621675",
+        "baseUrl": "https://hensekai.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Heroxia",
     "pkg": "eu.kanade.tachiyomi.extension.id.heroxia",
     "apk": "tachiyomi-id.heroxia-v1.3.22.apk",
@@ -19676,10 +19718,10 @@
   {
     "name": "Tachiyomi: ManhwaList",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwalist",
-    "apk": "tachiyomi-id.manhwalist-v1.3.23.apk",
+    "apk": "tachiyomi-id.manhwalist-v1.3.24.apk",
     "lang": "id",
-    "code": 23,
-    "version": "1.3.23",
+    "code": 24,
+    "version": "1.3.24",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19688,7 +19730,7 @@
         "name": "ManhwaList",
         "lang": "id",
         "id": "4039555433611432280",
-        "baseUrl": "https://manhwalist.com",
+        "baseUrl": "https://manhwalist.in",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19928,10 +19970,10 @@
   {
     "name": "Tachiyomi: Sekte Doujin",
     "pkg": "eu.kanade.tachiyomi.extension.id.sektedoujin",
-    "apk": "tachiyomi-id.sektedoujin-v1.3.25.apk",
+    "apk": "tachiyomi-id.sektedoujin-v1.3.26.apk",
     "lang": "id",
-    "code": 25,
-    "version": "1.3.25",
+    "code": 26,
+    "version": "1.3.26",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19940,7 +19982,7 @@
         "name": "Sekte Doujin",
         "lang": "id",
         "id": "7949854430526190429",
-        "baseUrl": "https://sektedoujin.club",
+        "baseUrl": "https://sektedoujin.lol",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25532,6 +25574,27 @@
         "baseUrl": "https://blogtruyen.vn",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Cứu Truyện",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
+    "apk": "tachiyomi-vi.cuutruyen-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cứu Truyện",
+        "lang": "vi",
+        "id": "4989357807406366033",
+        "baseUrl": "https://cuutruyen.net",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
