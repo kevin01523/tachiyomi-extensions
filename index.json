@@ -20054,10 +20054,10 @@
   {
     "name": "Tachiyomi: TukangKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.tukangkomik",
-    "apk": "tachiyomi-id.tukangkomik-v1.3.22.apk",
+    "apk": "tachiyomi-id.tukangkomik-v1.3.23.apk",
     "lang": "id",
-    "code": 22,
-    "version": "1.3.22",
+    "code": 23,
+    "version": "1.3.23",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -20066,7 +20066,7 @@
         "name": "TukangKomik",
         "lang": "id",
         "id": "5808419379780108473",
-        "baseUrl": "https://tukangkomik.com",
+        "baseUrl": "https://tukangkomik.id",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25643,10 +25643,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.3.19.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.3.20.apk",
     "lang": "vi",
-    "code": 19,
-    "version": "1.3.19",
+    "code": 20,
+    "version": "1.3.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25656,27 +25656,6 @@
         "lang": "vi",
         "id": "6560768551969686205",
         "baseUrl": "https://hentaivn.tv",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: IuTruyenTranh",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.iutruyentranh",
-    "apk": "tachiyomi-vi.iutruyentranh-v1.3.5.apk",
-    "lang": "vi",
-    "code": 5,
-    "version": "1.3.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "IuTruyenTranh",
-        "lang": "vi",
-        "id": "1839601948111051165",
-        "baseUrl": "http://iutruyentranh.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25698,6 +25677,27 @@
         "lang": "vi",
         "id": "6755797126867425617",
         "baseUrl": "https://lkdttzz.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LXHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
+    "apk": "tachiyomi-vi.lxhentai-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LXHentai",
+        "lang": "vi",
+        "id": "6495630445796108150",
+        "baseUrl": "https://lxmanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25874,10 +25874,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.3.8.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.3.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25886,7 +25886,7 @@
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "http://truyenqqvip.com",
+        "baseUrl": "http://truyenqqhot.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26747,7 +26747,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
