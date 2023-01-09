@@ -18139,10 +18139,10 @@
   {
     "name": "Tachiyomi: YugenMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.3.6.apk",
+    "apk": "tachiyomi-es.yugenmangas-v1.3.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.3.6",
+    "code": 7,
+    "version": "1.3.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20902,7 +20902,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -23161,10 +23161,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscans",
-    "apk": "tachiyomi-pt.reaperscans-v1.3.41.apk",
+    "apk": "tachiyomi-pt.reaperscans-v1.3.42.apk",
     "lang": "pt-BR",
-    "code": 41,
-    "version": "1.3.41",
+    "code": 42,
+    "version": "1.3.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26890,7 +26890,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
