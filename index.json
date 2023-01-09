@@ -4564,10 +4564,10 @@
   {
     "name": "Tachiyomi: Manhwa18.net",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhwa18net",
-    "apk": "tachiyomi-all.manhwa18net-v1.3.7.apk",
+    "apk": "tachiyomi-all.manhwa18net-v1.3.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.3.7",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4823,6 +4823,67 @@
         "lang": "vi",
         "id": "4129272632455883902",
         "baseUrl": "https://myreadingmanga.info",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MyRockManga",
+    "pkg": "eu.kanade.tachiyomi.extension.all.myrockmanga",
+    "apk": "tachiyomi-all.myrockmanga-v1.3.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MyRockManga",
+        "lang": "all",
+        "id": "2567821685631954922",
+        "baseUrl": "https://myrockmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "MyRockManga",
+        "lang": "vi",
+        "id": "5784177790110368971",
+        "baseUrl": "https://myrockmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "MyRockManga",
+        "lang": "en",
+        "id": "1418603078499719225",
+        "baseUrl": "https://myrockmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "MyRockManga",
+        "lang": "it",
+        "id": "6477540941998092952",
+        "baseUrl": "https://myrockmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "MyRockManga",
+        "lang": "fr",
+        "id": "4116603087869995828",
+        "baseUrl": "https://myrockmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "MyRockManga",
+        "lang": "es",
+        "id": "5976824042590895570",
+        "baseUrl": "https://myrockmanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -5373,6 +5434,67 @@
         "lang": "es",
         "id": "4384315126107049412",
         "baseUrl": "https://olympusscanlation.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Otaku Sanctuary",
+    "pkg": "eu.kanade.tachiyomi.extension.all.otakusanctuary",
+    "apk": "tachiyomi-all.otakusanctuary-v1.3.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Otaku Sanctuary",
+        "lang": "all",
+        "id": "6202136521654555507",
+        "baseUrl": "https://otakusan.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Otaku Sanctuary",
+        "lang": "vi",
+        "id": "535683348681357931",
+        "baseUrl": "https://otakusan.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Otaku Sanctuary",
+        "lang": "en",
+        "id": "5984016495600750670",
+        "baseUrl": "https://otakusan.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Otaku Sanctuary",
+        "lang": "it",
+        "id": "2831689775722886708",
+        "baseUrl": "https://otakusan.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Otaku Sanctuary",
+        "lang": "fr",
+        "id": "8524319665390149182",
+        "baseUrl": "https://otakusan.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "Otaku Sanctuary",
+        "lang": "es",
+        "id": "6403460862880262722",
+        "baseUrl": "https://otakusan.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -9651,10 +9773,10 @@
   {
     "name": "Tachiyomi: KSGroupScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ksgroupscans",
-    "apk": "tachiyomi-en.ksgroupscans-v1.3.9.apk",
+    "apk": "tachiyomi-en.ksgroupscans-v1.3.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12444,10 +12566,10 @@
   {
     "name": "Tachiyomi: Manhwa18",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwa18",
-    "apk": "tachiyomi-en.manhwa18-v1.3.9.apk",
+    "apk": "tachiyomi-en.manhwa18-v1.3.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20663,10 +20785,10 @@
   {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
-    "apk": "tachiyomi-ja.kisslove-v1.3.9.apk",
+    "apk": "tachiyomi-ja.kisslove-v1.3.10.apk",
     "lang": "ja",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20747,10 +20869,10 @@
   {
     "name": "Tachiyomi: Manga1000",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga1000",
-    "apk": "tachiyomi-ja.manga1000-v1.3.7.apk",
+    "apk": "tachiyomi-ja.manga1000-v1.3.8.apk",
     "lang": "ja",
-    "code": 7,
-    "version": "1.3.7",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20768,10 +20890,10 @@
   {
     "name": "Tachiyomi: MangaRaw",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga9co",
-    "apk": "tachiyomi-ja.manga9co-v1.3.5.apk",
+    "apk": "tachiyomi-ja.manga9co-v1.3.6.apk",
     "lang": "ja",
-    "code": 5,
-    "version": "1.3.5",
+    "code": 6,
+    "version": "1.3.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20780,7 +20902,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -20957,10 +21079,10 @@
   {
     "name": "Tachiyomi: WeLoveManga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawlh",
-    "apk": "tachiyomi-ja.rawlh-v1.3.11.apk",
+    "apk": "tachiyomi-ja.rawlh-v1.3.12.apk",
     "lang": "ja",
-    "code": 11,
-    "version": "1.3.11",
+    "code": 12,
+    "version": "1.3.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21146,10 +21268,10 @@
   {
     "name": "Tachiyomi: WeLoveMangaOne",
     "pkg": "eu.kanade.tachiyomi.extension.ja.welovemangaone",
-    "apk": "tachiyomi-ja.welovemangaone-v1.3.7.apk",
+    "apk": "tachiyomi-ja.welovemangaone-v1.3.8.apk",
     "lang": "ja",
-    "code": 7,
-    "version": "1.3.7",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24677,10 +24799,10 @@
   {
     "name": "Tachiyomi: Epik Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.epikmanga",
-    "apk": "tachiyomi-tr.epikmanga-v1.3.7.apk",
+    "apk": "tachiyomi-tr.epikmanga-v1.3.8.apk",
     "lang": "tr",
-    "code": 7,
-    "version": "1.3.7",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25181,10 +25303,10 @@
   {
     "name": "Tachiyomi: Manga-TR",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangatr",
-    "apk": "tachiyomi-tr.mangatr-v1.3.8.apk",
+    "apk": "tachiyomi-tr.mangatr-v1.3.9.apk",
     "lang": "tr",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25706,10 +25828,10 @@
   {
     "name": "Tachiyomi: ManhuaRock",
     "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
-    "apk": "tachiyomi-vi.manhuarock-v1.3.8.apk",
+    "apk": "tachiyomi-vi.manhuarock-v1.3.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25832,10 +25954,10 @@
   {
     "name": "Tachiyomi: Say Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
-    "apk": "tachiyomi-vi.saytruyen-v1.3.10.apk",
+    "apk": "tachiyomi-vi.saytruyen-v1.3.11.apk",
     "lang": "vi",
-    "code": 10,
-    "version": "1.3.10",
+    "code": 11,
+    "version": "1.3.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26768,7 +26890,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
