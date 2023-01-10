@@ -8376,10 +8376,10 @@
   {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
-    "apk": "tachiyomi-en.dynasty-v1.3.20.apk",
+    "apk": "tachiyomi-en.dynasty-v1.3.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.3.20",
+    "code": 21,
+    "version": "1.3.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13196,10 +13196,10 @@
   {
     "name": "Tachiyomi: Muctau",
     "pkg": "eu.kanade.tachiyomi.extension.en.muctau",
-    "apk": "tachiyomi-en.muctau-v1.3.30.apk",
+    "apk": "tachiyomi-en.muctau-v1.3.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.3.30",
+    "code": 31,
+    "version": "1.3.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13208,7 +13208,7 @@
         "name": "Muctau",
         "lang": "en",
         "id": "7823085456375483030",
-        "baseUrl": "https://www.bibimanga.com",
+        "baseUrl": "https://bibimanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19777,10 +19777,10 @@
   {
     "name": "Tachiyomi: ManhwaDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwadesu",
-    "apk": "tachiyomi-id.manhwadesu-v1.3.24.apk",
+    "apk": "tachiyomi-id.manhwadesu-v1.3.25.apk",
     "lang": "id",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19789,7 +19789,7 @@
         "name": "ManhwaDesu",
         "lang": "id",
         "id": "8258394658125354785",
-        "baseUrl": "https://manhwadesu.co",
+        "baseUrl": "https://manhwadesu.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20902,7 +20902,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -25679,6 +25679,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: A3 Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.a3manga",
+    "apk": "tachiyomi-vi.a3manga-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "A3 Manga",
+        "lang": "vi",
+        "id": "7038613508327290426",
+        "baseUrl": "https://www.a3mnga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
     "apk": "tachiyomi-vi.blogtruyen-v1.3.11.apk",
@@ -25702,10 +25723,10 @@
   {
     "name": "Tachiyomi: Cứu Truyện",
     "pkg": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
-    "apk": "tachiyomi-vi.cuutruyen-v1.3.1.apk",
+    "apk": "tachiyomi-vi.cuutruyen-v1.3.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25891,19 +25912,19 @@
   {
     "name": "Tachiyomi: Ngon Phong",
     "pkg": "eu.kanade.tachiyomi.extension.vi.ngonphong",
-    "apk": "tachiyomi-vi.ngonphong-v1.3.1.apk",
+    "apk": "tachiyomi-vi.ngonphong-v1.3.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.3.1",
+    "code": 2,
+    "version": "1.3.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Ngon Phong",
+        "name": "Ngôn Phong",
         "lang": "vi",
         "id": "7268977637085631557",
-        "baseUrl": "https://ngonphongcomics.com",
+        "baseUrl": "https://www.ngonphong.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25925,6 +25946,27 @@
         "lang": "vi",
         "id": "6861496002170366525",
         "baseUrl": "https://nhattruyenmin.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: O Cu Meo",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.ocumeo",
+    "apk": "tachiyomi-vi.ocumeo-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ổ Cú Mèo",
+        "lang": "vi",
+        "id": "8330490015365279279",
+        "baseUrl": "https://www.ocumeo.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25967,6 +26009,27 @@
         "lang": "vi",
         "id": "427405262130276885",
         "baseUrl": "https://saytruyenvip.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Team Lanh Lung",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Team Lạnh Lùng",
+        "lang": "vi",
+        "id": "1832370231745386795",
+        "baseUrl": "https://teamlanhlung.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
