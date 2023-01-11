@@ -18139,10 +18139,10 @@
   {
     "name": "Tachiyomi: YugenMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.3.8.apk",
+    "apk": "tachiyomi-es.yugenmangas-v1.3.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23161,10 +23161,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscans",
-    "apk": "tachiyomi-pt.reaperscans-v1.3.43.apk",
+    "apk": "tachiyomi-pt.reaperscans-v1.3.44.apk",
     "lang": "pt-BR",
-    "code": 43,
-    "version": "1.3.43",
+    "code": 44,
+    "version": "1.3.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25679,6 +25679,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaXY",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.MangaXY",
+    "apk": "tachiyomi-vi.MangaXY-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaXY",
+        "lang": "vi",
+        "id": "5989000556267681236",
+        "baseUrl": "https://mangaxy.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: A3 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.a3manga",
     "apk": "tachiyomi-vi.a3manga-v1.3.1.apk",
@@ -25988,6 +26009,27 @@
         "lang": "vi",
         "id": "841842111356923980",
         "baseUrl": "https://phemanga.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: QManga",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.qmanga",
+    "apk": "tachiyomi-vi.qmanga-v1.3.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "QManga",
+        "lang": "vi",
+        "id": "8733477289147335410",
+        "baseUrl": "https://qmanga5.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
