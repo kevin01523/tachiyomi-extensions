@@ -9416,10 +9416,10 @@
   {
     "name": "Tachiyomi: Immortal Updates",
     "pkg": "eu.kanade.tachiyomi.extension.en.immortalupdates",
-    "apk": "tachiyomi-en.immortalupdates-v1.3.29.apk",
+    "apk": "tachiyomi-en.immortalupdates-v1.3.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.3.29",
+    "code": 30,
+    "version": "1.3.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20113,10 +20113,10 @@
   {
     "name": "Tachiyomi: Sekaikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.sekaikomik",
-    "apk": "tachiyomi-id.sekaikomik-v1.3.30.apk",
+    "apk": "tachiyomi-id.sekaikomik-v1.3.32.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.3.30",
+    "code": 32,
+    "version": "1.3.32",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -20125,7 +20125,7 @@
         "name": "Sekaikomik",
         "lang": "id",
         "id": "4017490974617506790",
-        "baseUrl": "https://www.sekaikomik.live",
+        "baseUrl": "https://www.sekaikomik.pro",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20944,7 +20944,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -27037,7 +27037,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
