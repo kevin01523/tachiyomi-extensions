@@ -7305,10 +7305,10 @@
   {
     "name": "Tachiyomi: Adult Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.adultwebtoon",
-    "apk": "tachiyomi-en.adultwebtoon-v1.3.27.apk",
+    "apk": "tachiyomi-en.adultwebtoon-v1.3.28.apk",
     "lang": "en",
-    "code": 27,
-    "version": "1.3.27",
+    "code": 28,
+    "version": "1.3.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7317,7 +7317,7 @@
         "name": "Adult Webtoon",
         "lang": "en",
         "id": "3136868295051070813",
-        "baseUrl": "https://adultwebtoon.com/",
+        "baseUrl": "https://adultwebtoon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20902,7 +20902,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
