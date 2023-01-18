@@ -1918,22 +1918,14 @@
   {
     "name": "Tachiyomi: Flame Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.flamescans",
-    "apk": "tachiyomi-all.flamescans-v1.3.25.apk",
+    "apk": "tachiyomi-all.flamescans-v1.3.26.apk",
     "lang": "all",
-    "code": 25,
-    "version": "1.3.25",
+    "code": 26,
+    "version": "1.3.26",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
-      {
-        "name": "Flame Scans",
-        "lang": "ar",
-        "id": "6053688312544266540",
-        "baseUrl": "https://ar.flamescans.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
       {
         "name": "Flame Scans",
         "lang": "en",
@@ -1960,91 +1952,6 @@
         "lang": "other",
         "id": "6351052922295965587",
         "baseUrl": "https://127.0.0.1",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Genkan.io",
-    "pkg": "eu.kanade.tachiyomi.extension.all.genkanio",
-    "apk": "tachiyomi-all.genkanio-v1.3.5.apk",
-    "lang": "all",
-    "code": 5,
-    "version": "1.3.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Genkan.io",
-        "lang": "all",
-        "id": "8489093995473763661",
-        "baseUrl": "https://genkan.io",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Genkan.io",
-        "lang": "ar",
-        "id": "4742227436581396837",
-        "baseUrl": "https://genkan.io",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Genkan.io",
-        "lang": "en",
-        "id": "5196956977808015230",
-        "baseUrl": "https://genkan.io",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Genkan.io",
-        "lang": "fr",
-        "id": "736163939699849169",
-        "baseUrl": "https://genkan.io",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Genkan.io",
-        "lang": "pl",
-        "id": "7282261471150995718",
-        "baseUrl": "https://genkan.io",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Genkan.io",
-        "lang": "pt-BR",
-        "id": "3529387625018470746",
-        "baseUrl": "https://genkan.io",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Genkan.io",
-        "lang": "ru",
-        "id": "1386452981538627059",
-        "baseUrl": "https://genkan.io",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Genkan.io",
-        "lang": "es",
-        "id": "3332240131882614135",
-        "baseUrl": "https://genkan.io",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Genkan.io",
-        "lang": "tr",
-        "id": "4764122775398725861",
-        "baseUrl": "https://genkan.io",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -6631,27 +6538,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Gemanga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.gemanga",
-    "apk": "tachiyomi-ar.gemanga-v1.3.29.apk",
-    "lang": "ar",
-    "code": 29,
-    "version": "1.3.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Gemanga",
-        "lang": "ar",
-        "id": "1532822110657469769",
-        "baseUrl": "https://gemanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: GMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.ar.gmanga",
     "apk": "tachiyomi-ar.gmanga-v1.3.12.apk",
@@ -7360,27 +7246,6 @@
         "lang": "en",
         "id": "8547397037512613554",
         "baseUrl": "https://allporncomic.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: AllTopManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.alltopmanga",
-    "apk": "tachiyomi-en.alltopmanga-v1.3.27.apk",
-    "lang": "en",
-    "code": 27,
-    "version": "1.3.27",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AllTopManga",
-        "lang": "en",
-        "id": "4421649345028177620",
-        "baseUrl": "https://alltopmanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18977,27 +18842,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Gabut Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.id.gabutscans",
-    "apk": "tachiyomi-id.gabutscans-v1.3.23.apk",
-    "lang": "id",
-    "code": 23,
-    "version": "1.3.23",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Gabut Scans",
-        "lang": "id",
-        "id": "8443035369568081627",
-        "baseUrl": "https://gabutscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Hensekai",
     "pkg": "eu.kanade.tachiyomi.extension.id.hensekai",
     "apk": "tachiyomi-id.hensekai-v1.3.1.apk",
@@ -19748,27 +19592,6 @@
         "lang": "id",
         "id": "8457447675410081142",
         "baseUrl": "https://mangkomik.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ManhuaID",
-    "pkg": "eu.kanade.tachiyomi.extension.id.manhuaid",
-    "apk": "tachiyomi-id.manhuaid-v1.3.8.apk",
-    "lang": "id",
-    "code": 8,
-    "version": "1.3.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhuaID",
-        "lang": "id",
-        "id": "5867323867982990369",
-        "baseUrl": "https://manhuaid.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20902,7 +20725,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
