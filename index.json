@@ -6853,6 +6853,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaSwat",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
+    "apk": "tachiyomi-ar.mangaswat-v1.3.29.apk",
+    "lang": "ar",
+    "code": 29,
+    "version": "1.3.29",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaSwat",
+        "lang": "ar",
+        "id": "264168699090292138",
+        "baseUrl": "https://swatmanga.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhatic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manhatic",
     "apk": "tachiyomi-ar.manhatic-v1.3.27.apk",
@@ -10751,10 +10772,10 @@
   {
     "name": "Tachiyomi: Mangago",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangago",
-    "apk": "tachiyomi-en.mangago-v1.3.9.apk",
+    "apk": "tachiyomi-en.mangago-v1.3.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.3.9",
+    "code": 10,
+    "version": "1.3.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20725,7 +20746,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26839,7 +26860,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
