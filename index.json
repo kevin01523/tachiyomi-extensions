@@ -20725,7 +20725,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -25525,10 +25525,10 @@
   {
     "name": "Tachiyomi: BlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
-    "apk": "tachiyomi-vi.blogtruyen-v1.3.13.apk",
+    "apk": "tachiyomi-vi.blogtruyen-v1.3.14.apk",
     "lang": "vi",
-    "code": 13,
-    "version": "1.3.13",
+    "code": 14,
+    "version": "1.3.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
