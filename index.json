@@ -7380,10 +7380,10 @@
   {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
-    "apk": "tachiyomi-en.aquamanga-v1.3.30.apk",
+    "apk": "tachiyomi-en.aquamanga-v1.3.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.3.30",
+    "code": 31,
+    "version": "1.3.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20725,7 +20725,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -25609,10 +25609,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.3.21.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.3.22.apk",
     "lang": "vi",
-    "code": 21,
-    "version": "1.3.21",
+    "code": 22,
+    "version": "1.3.22",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26797,7 +26797,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
