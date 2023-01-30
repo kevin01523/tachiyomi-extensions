@@ -5545,35 +5545,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Seven King Scanlation",
-    "pkg": "eu.kanade.tachiyomi.extension.all.sevenkingscanlation",
-    "apk": "tachiyomi-all.sevenkingscanlation-v1.3.28.apk",
-    "lang": "all",
-    "code": 28,
-    "version": "1.3.28",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Seven King Scanlation",
-        "lang": "en",
-        "id": "3526804664891360612",
-        "baseUrl": "https://sksubs.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Seven King Scanlation",
-        "lang": "es",
-        "id": "6065261196208412051",
-        "baseUrl": "https://sksubs.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Simply Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.simplyhentai",
     "apk": "tachiyomi-all.simplyhentai-v1.3.6.apk",
@@ -10877,10 +10848,10 @@
   {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
-    "apk": "tachiyomi-en.mangahubio-v1.3.22.apk",
+    "apk": "tachiyomi-en.mangahubio-v1.3.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.3.22",
+    "code": 23,
+    "version": "1.3.23",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11402,10 +11373,10 @@
   {
     "name": "Tachiyomi: MangaPanda.onl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
-    "apk": "tachiyomi-en.mangapandaonl-v1.3.12.apk",
+    "apk": "tachiyomi-en.mangapandaonl-v1.3.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.3.12",
+    "code": 13,
+    "version": "1.3.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11591,10 +11562,10 @@
   {
     "name": "Tachiyomi: MangaReader.site",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
-    "apk": "tachiyomi-en.mangareadersite-v1.3.12.apk",
+    "apk": "tachiyomi-en.mangareadersite-v1.3.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.3.12",
+    "code": 13,
+    "version": "1.3.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15537,27 +15508,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: TimelessLeaf",
-    "pkg": "eu.kanade.tachiyomi.extension.en.timelessleaf",
-    "apk": "tachiyomi-en.timelessleaf-v1.3.4.apk",
-    "lang": "en",
-    "code": 4,
-    "version": "1.3.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "TimelessLeaf",
-        "lang": "en",
-        "id": "484380590638322236",
-        "baseUrl": "https://timelessleaf.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Todaymic",
     "pkg": "eu.kanade.tachiyomi.extension.en.todaymic",
     "apk": "tachiyomi-en.todaymic-v1.3.29.apk",
@@ -15825,27 +15775,6 @@
         "lang": "en",
         "id": "6707338697138388238",
         "baseUrl": "https://www.tsumino.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Twilight Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.twilightscans",
-    "apk": "tachiyomi-en.twilightscans-v1.3.29.apk",
-    "lang": "en",
-    "code": 29,
-    "version": "1.3.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Twilight Scans",
-        "lang": "en",
-        "id": "4144095310583587831",
-        "baseUrl": "https://twilightscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -16751,27 +16680,6 @@
         "baseUrl": "https://doujinhentai.net",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Doujin-Yang",
-    "pkg": "eu.kanade.tachiyomi.extension.es.doujinyang",
-    "apk": "tachiyomi-es.doujinyang-v1.3.3.apk",
-    "lang": "es",
-    "code": 3,
-    "version": "1.3.3",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Doujin-Yang",
-        "lang": "es",
-        "id": "582783445186478757",
-        "baseUrl": "https://doujin-es.com",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
@@ -17864,27 +17772,6 @@
         "baseUrl": "https://tmohentai.com",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: TuManga.net",
-    "pkg": "eu.kanade.tachiyomi.extension.es.tumanganet",
-    "apk": "tachiyomi-es.tumanganet-v1.3.28.apk",
-    "lang": "es",
-    "code": 28,
-    "version": "1.3.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "TuManga.net",
-        "lang": "es",
-        "id": "2099822931478502734",
-        "baseUrl": "https://tumanga.net",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -20704,7 +20591,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26776,7 +26663,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
