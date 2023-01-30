@@ -7918,10 +7918,10 @@
   {
     "name": "Tachiyomi: Constellar Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.constellarscans",
-    "apk": "tachiyomi-en.constellarscans-v1.3.37.apk",
+    "apk": "tachiyomi-en.constellarscans-v1.3.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.3.37",
+    "code": 38,
+    "version": "1.3.38",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -20591,7 +20591,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
