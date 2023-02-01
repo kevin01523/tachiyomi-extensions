@@ -10848,10 +10848,10 @@
   {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
-    "apk": "tachiyomi-en.mangahubio-v1.3.24.apk",
+    "apk": "tachiyomi-en.mangahubio-v1.3.25.apk",
     "lang": "en",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11373,10 +11373,10 @@
   {
     "name": "Tachiyomi: MangaPanda.onl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
-    "apk": "tachiyomi-en.mangapandaonl-v1.3.14.apk",
+    "apk": "tachiyomi-en.mangapandaonl-v1.3.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.3.14",
+    "code": 15,
+    "version": "1.3.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11562,10 +11562,10 @@
   {
     "name": "Tachiyomi: MangaReader.site",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
-    "apk": "tachiyomi-en.mangareadersite-v1.3.14.apk",
+    "apk": "tachiyomi-en.mangareadersite-v1.3.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.3.14",
+    "code": 15,
+    "version": "1.3.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20591,7 +20591,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -21090,7 +21090,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki168.net",
+        "baseUrl": "https://manatoki169.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21098,7 +21098,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki168.com",
+        "baseUrl": "https://newtoki169.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26663,7 +26663,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
