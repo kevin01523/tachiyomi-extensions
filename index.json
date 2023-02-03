@@ -20591,7 +20591,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -22632,6 +22632,27 @@
         "lang": "pt-BR",
         "id": "4392067503694697213",
         "baseUrl": "https://ninjascan.xyz",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nix Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nixmangas",
+    "apk": "tachiyomi-pt.nixmangas-v1.3.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.3.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nix Mangás",
+        "lang": "pt-BR",
+        "id": "7158227645830523421",
+        "baseUrl": "https://nixmangas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26663,7 +26684,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
