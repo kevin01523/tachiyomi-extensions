@@ -5881,10 +5881,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.3.38.apk",
+    "apk": "tachiyomi-all.webtoons-v1.3.39.apk",
     "lang": "all",
-    "code": 38,
-    "version": "1.3.38",
+    "code": 39,
+    "version": "1.3.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20591,7 +20591,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -22239,21 +22239,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangás Overall",
+    "name": "Tachiyomi: ROG Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangasoverall",
-    "apk": "tachiyomi-pt.mangasoverall-v1.3.28.apk",
+    "apk": "tachiyomi-pt.mangasoverall-v1.3.29.apk",
     "lang": "pt-BR",
-    "code": 28,
-    "version": "1.3.28",
+    "code": 29,
+    "version": "1.3.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Mangás Overall",
+        "name": "ROG Mangás",
         "lang": "pt-BR",
         "id": "7865569692125193686",
-        "baseUrl": "https://mangasoverall.com",
+        "baseUrl": "https://rogmangas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26684,7 +26684,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
