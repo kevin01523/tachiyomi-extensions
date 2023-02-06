@@ -8170,10 +8170,10 @@
   {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
-    "apk": "tachiyomi-en.drakescans-v1.3.29.apk",
+    "apk": "tachiyomi-en.drakescans-v1.3.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.3.29",
+    "code": 30,
+    "version": "1.3.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13305,10 +13305,10 @@
   {
     "name": "Tachiyomi: NIGHT SCANS",
     "pkg": "eu.kanade.tachiyomi.extension.en.nightscans",
-    "apk": "tachiyomi-en.nightscans-v1.3.24.apk",
+    "apk": "tachiyomi-en.nightscans-v1.3.25.apk",
     "lang": "en",
-    "code": 24,
-    "version": "1.3.24",
+    "code": 25,
+    "version": "1.3.25",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -20612,7 +20612,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26705,7 +26705,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
