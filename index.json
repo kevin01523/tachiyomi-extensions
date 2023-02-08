@@ -17127,10 +17127,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.3.25.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.3.26.apk",
     "lang": "es",
-    "code": 25,
-    "version": "1.3.25",
+    "code": 26,
+    "version": "1.3.26",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17820,10 +17820,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-    "apk": "tachiyomi-es.tumangaonline-v1.3.40.apk",
+    "apk": "tachiyomi-es.tumangaonline-v1.3.41.apk",
     "lang": "es",
-    "code": 40,
-    "version": "1.3.40",
+    "code": 41,
+    "version": "1.3.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20633,7 +20633,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
