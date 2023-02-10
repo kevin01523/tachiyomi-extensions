@@ -24110,10 +24110,10 @@
   {
     "name": "Tachiyomi: YaoiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoilib",
-    "apk": "tachiyomi-ru.yaoilib-v1.3.15.apk",
+    "apk": "tachiyomi-ru.yaoilib-v1.3.16.apk",
     "lang": "ru",
-    "code": 15,
-    "version": "1.3.15",
+    "code": 16,
+    "version": "1.3.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24122,7 +24122,7 @@
         "name": "YaoiLib",
         "lang": "ru",
         "id": "2730544188738947015",
-        "baseUrl": "https://yaoilib.me",
+        "baseUrl": "https://v1.yaoilib.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
