@@ -20633,7 +20633,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -23648,10 +23648,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.hentailib",
-    "apk": "tachiyomi-ru.hentailib-v1.4.33.apk",
+    "apk": "tachiyomi-ru.hentailib-v1.4.34.apk",
     "lang": "ru",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23753,10 +23753,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
-    "apk": "tachiyomi-ru.mangalib-v1.4.88.apk",
+    "apk": "tachiyomi-ru.mangalib-v1.4.89.apk",
     "lang": "ru",
-    "code": 88,
-    "version": "1.4.88",
+    "code": 89,
+    "version": "1.4.89",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24110,10 +24110,10 @@
   {
     "name": "Tachiyomi: YaoiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoilib",
-    "apk": "tachiyomi-ru.yaoilib-v1.4.16.apk",
+    "apk": "tachiyomi-ru.yaoilib-v1.4.17.apk",
     "lang": "ru",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26726,7 +26726,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
