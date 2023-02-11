@@ -8475,10 +8475,10 @@
   {
     "name": "Tachiyomi: 1st Kiss",
     "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmanga",
-    "apk": "tachiyomi-en.firstkissmanga-v1.4.36.apk",
+    "apk": "tachiyomi-en.firstkissmanga-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8487,7 +8487,7 @@
         "name": "1st Kiss",
         "lang": "en",
         "id": "3470433521851976761",
-        "baseUrl": "https://1stkissmanga.io",
+        "baseUrl": "https://1stkissmanga.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20633,7 +20633,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26726,7 +26726,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
