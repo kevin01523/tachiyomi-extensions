@@ -6637,10 +6637,10 @@
   {
     "name": "Tachiyomi: Manga Ai Land",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaailand",
-    "apk": "tachiyomi-ar.mangaailand-v1.4.3.apk",
+    "apk": "tachiyomi-ar.mangaailand-v1.4.4.apk",
     "lang": "ar",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16665,10 +16665,10 @@
   {
     "name": "Tachiyomi: DatGarScanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
-    "apk": "tachiyomi-es.datgarscanlation-v1.4.3.apk",
+    "apk": "tachiyomi-es.datgarscanlation-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18122,10 +18122,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.38.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.39.apk",
     "lang": "fr",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18134,7 +18134,7 @@
         "name": "Japscan",
         "lang": "fr",
         "id": "11",
-        "baseUrl": "https://www.japscan.me",
+        "baseUrl": "https://www.japscan.lol",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20633,7 +20633,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
