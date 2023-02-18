@@ -2393,10 +2393,10 @@
   {
     "name": "Tachiyomi: izneo (webtoons)",
     "pkg": "eu.kanade.tachiyomi.extension.all.izneo",
-    "apk": "tachiyomi-all.izneo-v1.4.4.apk",
+    "apk": "tachiyomi-all.izneo-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2404,17 +2404,17 @@
       {
         "name": "izneo",
         "lang": "en",
-        "id": "538401814782653655",
-        "baseUrl": "https://izneo.com/en/webtoon",
-        "versionId": 1,
+        "id": "7160867804476891075",
+        "baseUrl": "https://www.izneo.com/en/webtoon",
+        "versionId": 2,
         "hasCloudflare": 0
       },
       {
         "name": "izneo",
         "lang": "fr",
-        "id": "8731426556710150917",
-        "baseUrl": "https://izneo.com/fr/webtoon",
-        "versionId": 1,
+        "id": "1002111777562806129",
+        "baseUrl": "https://www.izneo.com/fr/webtoon",
+        "versionId": 2,
         "hasCloudflare": 0
       }
     ]
@@ -2904,10 +2904,10 @@
   {
     "name": "Tachiyomi: Magical Translators",
     "pkg": "eu.kanade.tachiyomi.extension.all.magicaltranslators",
-    "apk": "tachiyomi-all.magicaltranslators-v1.4.5.apk",
+    "apk": "tachiyomi-all.magicaltranslators-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5452,10 +5452,10 @@
   {
     "name": "Tachiyomi: Ravens Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.ravensscans",
-    "apk": "tachiyomi-all.ravensscans-v1.4.7.apk",
+    "apk": "tachiyomi-all.ravensscans-v1.4.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7981,10 +7981,10 @@
   {
     "name": "Tachiyomi: Danke fürs Lesen",
     "pkg": "eu.kanade.tachiyomi.extension.en.dankefurslesen",
-    "apk": "tachiyomi-en.dankefurslesen-v1.4.4.apk",
+    "apk": "tachiyomi-en.dankefurslesen-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8727,10 +8727,10 @@
   {
     "name": "Tachiyomi: Guya",
     "pkg": "eu.kanade.tachiyomi.extension.en.guya",
-    "apk": "tachiyomi-en.guya-v1.4.22.apk",
+    "apk": "tachiyomi-en.guya-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8739,7 +8739,7 @@
         "name": "Guya",
         "lang": "en",
         "id": "4637971935551651734",
-        "baseUrl": "https://guya.moe",
+        "baseUrl": "https://guya.cubari.moe",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -8769,10 +8769,10 @@
   {
     "name": "Tachiyomi: Hachirumi",
     "pkg": "eu.kanade.tachiyomi.extension.en.hachirumi",
-    "apk": "tachiyomi-en.hachirumi-v1.4.4.apk",
+    "apk": "tachiyomi-en.hachirumi-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9609,10 +9609,10 @@
   {
     "name": "Tachiyomi: Kouhai Work",
     "pkg": "eu.kanade.tachiyomi.extension.en.kouhaiwork",
-    "apk": "tachiyomi-en.kouhaiwork-v1.4.7.apk",
+    "apk": "tachiyomi-en.kouhaiwork-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15006,10 +15006,10 @@
   {
     "name": "Tachiyomi: Scylla Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.scyllascans",
-    "apk": "tachiyomi-en.scyllascans-v1.4.8.apk",
+    "apk": "tachiyomi-en.scyllascans-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16560,19 +16560,19 @@
   {
     "name": "Tachiyomi: Cartel de Manhwas",
     "pkg": "eu.kanade.tachiyomi.extension.es.carteldemanhwas",
-    "apk": "tachiyomi-es.carteldemanhwas-v1.4.28.apk",
+    "apk": "tachiyomi-es.carteldemanhwas-v1.4.29.apk",
     "lang": "es",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Cartel de Manhwas",
         "lang": "es",
         "id": "3519938166500360109",
-        "baseUrl": "https://carteldemws.com",
+        "baseUrl": "https://carteldemanhwas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18099,21 +18099,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Japanread",
+    "name": "Tachiyomi: Bento Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japanread",
-    "apk": "tachiyomi-fr.japanread-v1.4.10.apk",
+    "apk": "tachiyomi-fr.japanread-v1.4.11.apk",
     "lang": "fr",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Japanread",
+        "name": "Bento Manga",
         "lang": "fr",
         "id": "4697148576707003393",
-        "baseUrl": "https://www.japanread.cc",
+        "baseUrl": "https://www.bentomanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20633,7 +20633,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26726,7 +26726,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
