@@ -1402,10 +1402,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.4.16.apk",
+    "apk": "tachiyomi-all.cubari-v1.4.17.apk",
     "lang": "all",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -5450,6 +5450,59 @@
     ]
   },
   {
+    "name": "Tachiyomi: Pixiv",
+    "pkg": "eu.kanade.tachiyomi.extension.all.pixiv",
+    "apk": "tachiyomi-all.pixiv-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pixiv",
+        "lang": "all",
+        "id": "1540319425449652195",
+        "baseUrl": "https://www.pixiv.net",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Pixiv",
+        "lang": "ja",
+        "id": "2134233417037741790",
+        "baseUrl": "https://www.pixiv.net",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Pixiv",
+        "lang": "en",
+        "id": "4964829535501435742",
+        "baseUrl": "https://www.pixiv.net",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Pixiv",
+        "lang": "ko",
+        "id": "5123765142540943901",
+        "baseUrl": "https://www.pixiv.net",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Pixiv",
+        "lang": "zh",
+        "id": "6934645150441404855",
+        "baseUrl": "https://www.pixiv.net",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ravens Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.ravensscans",
     "apk": "tachiyomi-all.ravensscans-v1.4.8.apk",
@@ -9250,27 +9303,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Hardworking Translations",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hwtmanga",
-    "apk": "tachiyomi-en.hwtmanga-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hardworking Translations",
-        "lang": "en",
-        "id": "196264639394534554",
-        "baseUrl": "https://www.hwtmanga.com/hwt/",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: I Love Manhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.ilovemanhwa",
     "apk": "tachiyomi-en.ilovemanhwa-v1.4.28.apk",
@@ -10890,10 +10922,10 @@
   {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
-    "apk": "tachiyomi-en.mangahubio-v1.4.26.apk",
+    "apk": "tachiyomi-en.mangahubio-v1.4.27.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11415,10 +11447,10 @@
   {
     "name": "Tachiyomi: MangaPanda.onl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
-    "apk": "tachiyomi-en.mangapandaonl-v1.4.16.apk",
+    "apk": "tachiyomi-en.mangapandaonl-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11604,10 +11636,10 @@
   {
     "name": "Tachiyomi: MangaReader.site",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
-    "apk": "tachiyomi-en.mangareadersite-v1.4.16.apk",
+    "apk": "tachiyomi-en.mangareadersite-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20633,7 +20665,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26726,7 +26758,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
