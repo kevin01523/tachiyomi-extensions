@@ -1402,10 +1402,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.4.17.apk",
+    "apk": "tachiyomi-all.cubari-v1.4.18.apk",
     "lang": "all",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -1433,6 +1433,27 @@
         "baseUrl": "https://cubari.moe",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Danbooru",
+    "pkg": "eu.kanade.tachiyomi.extension.all.danbooru",
+    "apk": "tachiyomi-all.danbooru-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Danbooru",
+        "lang": "all",
+        "id": "7602260701584916302",
+        "baseUrl": "https://danbooru.donmai.us",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
