@@ -5473,10 +5473,10 @@
   {
     "name": "Tachiyomi: Pixiv",
     "pkg": "eu.kanade.tachiyomi.extension.all.pixiv",
-    "apk": "tachiyomi-all.pixiv-v1.4.1.apk",
+    "apk": "tachiyomi-all.pixiv-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6604,6 +6604,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hijala",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.hijala",
+    "apk": "tachiyomi-ar.hijala-v1.4.5.apk",
+    "lang": "ar",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hijala",
+        "lang": "ar",
+        "id": "4536808529544021974",
+        "baseUrl": "https://hijala.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hizomanga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hizomanga",
     "apk": "tachiyomi-ar.hizomanga-v1.4.29.apk",
@@ -6711,10 +6732,10 @@
   {
     "name": "Tachiyomi: Manga Ai Land",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaailand",
-    "apk": "tachiyomi-ar.mangaailand-v1.4.4.apk",
+    "apk": "tachiyomi-ar.mangaailand-v1.4.5.apk",
     "lang": "ar",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16718,10 +16739,10 @@
   {
     "name": "Tachiyomi: DatGarScanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
-    "apk": "tachiyomi-es.datgarscanlation-v1.4.4.apk",
+    "apk": "tachiyomi-es.datgarscanlation-v1.4.5.apk",
     "lang": "es",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17552,6 +17573,27 @@
         "baseUrl": "https://monarcamanga.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Muslos No Sekai",
+    "pkg": "eu.kanade.tachiyomi.extension.es.muslosnosekai",
+    "apk": "tachiyomi-es.muslosnosekai-v1.4.5.apk",
+    "lang": "es",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Muslos No Sekai",
+        "lang": "es",
+        "id": "1551781811745753797",
+        "baseUrl": "https://muslosnosekai.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -18677,6 +18719,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Asupan Komik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.asupankomik",
+    "apk": "tachiyomi-id.asupankomik-v1.4.5.apk",
+    "lang": "id",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Asupan Komik",
+        "lang": "id",
+        "id": "2773504896410251445",
+        "baseUrl": "https://www.asupankomik.my.id",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BacaKomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
     "apk": "tachiyomi-id.bacakomik-v1.4.4.apk",
@@ -18925,6 +18988,27 @@
         "baseUrl": "https://klikmanga.id",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KLManhua",
+    "pkg": "eu.kanade.tachiyomi.extension.id.klmanhua",
+    "apk": "tachiyomi-id.klmanhua-v1.4.5.apk",
+    "lang": "id",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KLManhua",
+        "lang": "id",
+        "id": "8867951597466474936",
+        "baseUrl": "https://klmanhua.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -19790,6 +19874,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Noromax",
+    "pkg": "eu.kanade.tachiyomi.extension.id.noromax",
+    "apk": "tachiyomi-id.noromax-v1.4.5.apk",
+    "lang": "id",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Noromax",
+        "lang": "id",
+        "id": "6269625436775125884",
+        "baseUrl": "https://www.noromax.xyz",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Pi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.piscans",
     "apk": "tachiyomi-id.piscans-v1.4.25.apk",
@@ -19937,6 +20042,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: ShiyuraSub",
+    "pkg": "eu.kanade.tachiyomi.extension.id.shiyurasub",
+    "apk": "tachiyomi-id.shiyurasub-v1.4.5.apk",
+    "lang": "id",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ShiyuraSub",
+        "lang": "id",
+        "id": "7106013231844823613",
+        "baseUrl": "https://shiyurasub.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SISI GELAP",
     "pkg": "eu.kanade.tachiyomi.extension.id.sisigelap",
     "apk": "tachiyomi-id.sisigelap-v1.4.32.apk",
@@ -19954,6 +20080,27 @@
         "baseUrl": "https://sigel.asia",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Tooncubus",
+    "pkg": "eu.kanade.tachiyomi.extension.id.tooncubus",
+    "apk": "tachiyomi-id.tooncubus-v1.4.5.apk",
+    "lang": "id",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tooncubus",
+        "lang": "id",
+        "id": "8493327683322555504",
+        "baseUrl": "https://www.tooncubus.site",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -26779,7 +26926,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
