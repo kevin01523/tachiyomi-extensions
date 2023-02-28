@@ -17432,10 +17432,10 @@
   {
     "name": "Tachiyomi: Manhwa-Latino",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwalatino",
-    "apk": "tachiyomi-es.manhwalatino-v1.4.23.apk",
+    "apk": "tachiyomi-es.manhwalatino-v1.4.28.apk",
     "lang": "es",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17446,7 +17446,7 @@
         "id": "3548601371328353875",
         "baseUrl": "https://manhwa-latino.com",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
@@ -20833,7 +20833,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
