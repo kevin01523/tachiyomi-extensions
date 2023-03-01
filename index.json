@@ -7780,27 +7780,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Brewing Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.brewingscans",
-    "apk": "tachiyomi-en.brewingscans-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Brewing Scans",
-        "lang": "en",
-        "id": "2563953597816473359",
-        "baseUrl": "https://www.brewingscans.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Bulu Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.bulumanga",
     "apk": "tachiyomi-en.bulumanga-v1.4.7.apk",
@@ -20833,7 +20812,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26926,7 +26905,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
