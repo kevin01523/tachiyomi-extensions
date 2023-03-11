@@ -7,6 +7,9 @@ on:
     paths-ignore:
       - '**.md'
       - '.github/workflows/issue_moderator.yml'
+  # Manual trigger
+  workflow_dispatch:
+
 
 concurrency:
   group: ${{ github.workflow }}
