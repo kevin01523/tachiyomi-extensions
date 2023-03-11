@@ -127,7 +127,7 @@ jobs:
     strategy:
       matrix: ${{ fromJSON(needs.prepare.outputs.individualMatrix) }}
     steps:
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
 
       - name: Set up JDK
@@ -181,15 +181,15 @@ jobs:
           java-version: 11
           distribution: adopt
 
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: master
-          path: master
+          ref: main
+          path: main
 
       - name: Create repo artifacts
         run: |
-          cd master
+          cd main
           ./.github/scripts/move-apks.sh
           INSPECTOR_LINK="$(curl -s "https://api.github.com/repos/tachiyomiorg/tachiyomi-extensions-inspector/releases/latest" | jq -r '.assets[0].browser_download_url')"
           curl -L "$INSPECTOR_LINK" -o ./Inspector.jar
@@ -205,4 +205,4 @@ jobs:
       - name: Deploy repo
         run: |
           cd repo
-          ../master/.github/scripts/commit-repo.sh
+          ../main/.github/scripts/commit-repo.sh
