@@ -78,7 +78,7 @@ jobs:
     strategy:
       matrix: ${{ fromJSON(needs.prepare.outputs.multisrcMatrix) }}
     steps:
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
 
       - name: Set up JDK
