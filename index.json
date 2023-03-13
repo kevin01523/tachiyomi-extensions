@@ -10670,11 +10670,11 @@
   {
     "name": "Tachiyomi: MangaFox",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafox",
-    "apk": "tachiyomi-en.mangafox-v1.4.6.apk",
+    "apk": "tachiyomi-en.mangafox-v1.4.5.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 1,
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -20770,7 +20770,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangarawjp.io",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26842,7 +26842,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
