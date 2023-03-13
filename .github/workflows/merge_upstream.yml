@@ -23,7 +23,7 @@ jobs:
       
       - name: Merge changes from main
         run: |
-          git pull https://github.com/tachiyomiorg/tachiyomi-extensions master --no-edit
+          git pull https://github.com/tachiyomiorg/tachiyomi-extensions master --no-edit -X theirs
         
       - name: Compare changes
         id: compare
