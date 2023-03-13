@@ -6,12 +6,7 @@ ext {
     extName = 'MangaFox'
     pkgNameSuffix = 'en.mangafox'
     extClass = '.MangaFox'
-    extVersionCode = 6
-    isNsfw = true
-}
-
-dependencies {
-    implementation(project(":lib-unpacker"))
+    extVersionCode = 5
 }
 
 apply from: "$rootDir/common.gradle"
