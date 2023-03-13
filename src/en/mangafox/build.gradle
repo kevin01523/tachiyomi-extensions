@@ -10,8 +10,5 @@ ext {
     isNsfw = true
 }
 
-//dependencies {
-//    implementation(project(":lib-unpacker"))
-//}
 
 apply from: "$rootDir/common.gradle"
