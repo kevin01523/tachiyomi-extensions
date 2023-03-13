@@ -42,7 +42,7 @@ class MangaFox : ParsedHttpSource() {
 
     override val client: OkHttpClient = network.cloudflareClient.newBuilder()
         .rateLimit(1, 1)
-                // Force readway=2 cookie to get all page URLs at once
+    // Force readway=2 cookie to get all page URLs at once
         .cookieJar(
             object : CookieJar {
                 private val cookieManager by lazy { CookieManager.getInstance() }
@@ -271,7 +271,7 @@ class MangaFox : ParsedHttpSource() {
             Pair("is", "eq"),
             Pair("less than", "lt"),
             Pair("more than", "gt"),
-        )
+        ),
     )
 
     private class RatingValueFilter : UriPartFilter(
