@@ -4913,10 +4913,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.36.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.37.apk",
     "lang": "all",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25709,10 +25709,10 @@
   {
     "name": "Tachiyomi: Hentai CB",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.31.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.32.apk",
     "lang": "vi",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25721,7 +25721,7 @@
         "name": "Hentai CB",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hentaicb.xyz",
+        "baseUrl": "https://hencb.top",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25835,10 +25835,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.17.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.18.apk",
     "lang": "vi",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25847,7 +25847,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenup.com",
+        "baseUrl": "https://www.nettruyenvi.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26024,10 +26024,10 @@
   {
     "name": "Tachiyomi: TruyenGiHot",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengihot",
-    "apk": "tachiyomi-vi.truyengihot-v1.4.2.apk",
+    "apk": "tachiyomi-vi.truyengihot-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26036,7 +26036,7 @@
         "name": "TruyenGiHot",
         "lang": "vi",
         "id": "5660308466992750861",
-        "baseUrl": "https://truyengihay.net",
+        "baseUrl": "https://truyengihotne.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
