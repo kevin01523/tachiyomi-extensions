@@ -7396,10 +7396,10 @@
   {
     "name": "Tachiyomi: A Pair of 2+",
     "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
-    "apk": "tachiyomi-en.apairof2-v1.4.28.apk",
+    "apk": "tachiyomi-en.apairof2-v1.4.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7407,9 +7407,9 @@
       {
         "name": "A Pair of 2+",
         "lang": "en",
-        "id": "6293046913252281087",
+        "id": "2806238791467888054",
         "baseUrl": "https://po2scans.com",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -8730,10 +8730,10 @@
   {
     "name": "Tachiyomi: Grrl Power Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.grrlpower",
-    "apk": "tachiyomi-en.grrlpower-v1.4.1.apk",
+    "apk": "tachiyomi-en.grrlpower-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9421,21 +9421,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: IsekaiScan.eu (unoriginal)",
+    "name": "Tachiyomi: IsekaiScan.to (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.isekaiscaneu",
-    "apk": "tachiyomi-en.isekaiscaneu-v1.4.29.apk",
+    "apk": "tachiyomi-en.isekaiscaneu-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "IsekaiScan.eu (unoriginal)",
+        "name": "IsekaiScan.to (unoriginal)",
         "lang": "en",
         "id": "8608305834807261892",
-        "baseUrl": "https://isekaiscan.eu",
+        "baseUrl": "https://isekaiscan.to",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -15259,6 +15259,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Solar and Sundry",
+    "pkg": "eu.kanade.tachiyomi.extension.en.solarandsundry",
+    "apk": "tachiyomi-en.solarandsundry-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Solar and Sundry",
+        "lang": "en",
+        "id": "7250486205199627024",
+        "baseUrl": "https://solar-and-sundry-worker.giraugh.workers.dev",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Solo Leveling",
     "pkg": "eu.kanade.tachiyomi.extension.en.sololeveling",
     "apk": "tachiyomi-en.sololeveling-v1.4.28.apk",
@@ -18060,6 +18081,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Astral-Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.astralmanga",
+    "apk": "tachiyomi-fr.astralmanga-v1.4.28.apk",
+    "lang": "fr",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AstralManga",
+        "lang": "fr",
+        "id": "7510012514263457159",
+        "baseUrl": "https://astral-manga.fr",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FlameScans.fr",
     "pkg": "eu.kanade.tachiyomi.extension.fr.flamescansfr",
     "apk": "tachiyomi-fr.flamescansfr-v1.4.25.apk",
@@ -19923,6 +19965,27 @@
         "lang": "id",
         "id": "5486262618423256587",
         "baseUrl": "https://pojokmanga.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pornhwa18",
+    "pkg": "eu.kanade.tachiyomi.extension.id.pornhwa18",
+    "apk": "tachiyomi-id.pornhwa18-v1.4.28.apk",
+    "lang": "id",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pornhwa18",
+        "lang": "id",
+        "id": "8483137484881504884",
+        "baseUrl": "https://pornhwa18.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23861,10 +23924,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.hentailib",
-    "apk": "tachiyomi-ru.hentailib-v1.4.36.apk",
+    "apk": "tachiyomi-ru.hentailib-v1.4.37.apk",
     "lang": "ru",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23966,10 +24029,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
-    "apk": "tachiyomi-ru.mangalib-v1.4.91.apk",
+    "apk": "tachiyomi-ru.mangalib-v1.4.92.apk",
     "lang": "ru",
-    "code": 91,
-    "version": "1.4.91",
+    "code": 92,
+    "version": "1.4.92",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24113,10 +24176,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.64.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.65.apk",
     "lang": "ru",
-    "code": 64,
-    "version": "1.4.64",
+    "code": 65,
+    "version": "1.4.65",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24302,10 +24365,10 @@
   {
     "name": "Tachiyomi: YaoiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoilib",
-    "apk": "tachiyomi-ru.yaoilib-v1.4.19.apk",
+    "apk": "tachiyomi-ru.yaoilib-v1.4.20.apk",
     "lang": "ru",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25751,10 +25814,10 @@
   {
     "name": "Tachiyomi: LKDTT",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lkdtt",
-    "apk": "tachiyomi-vi.lkdtt-v1.4.4.apk",
+    "apk": "tachiyomi-vi.lkdtt-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25763,7 +25826,7 @@
         "name": "LKDTT",
         "lang": "vi",
         "id": "6755797126867425617",
-        "baseUrl": "https://lkdttzz.com",
+        "baseUrl": "https://lkdttee.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26918,7 +26981,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
