@@ -966,10 +966,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.22.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.23.apk",
     "lang": "all",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8144,27 +8144,6 @@
         "lang": "en",
         "id": "1057298314437889941",
         "baseUrl": "https://digitalcomicmuseum.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Dilbert",
-    "pkg": "eu.kanade.tachiyomi.extension.en.dilbert",
-    "apk": "tachiyomi-en.dilbert-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Dilbert",
-        "lang": "en",
-        "id": "1523875236630157514",
-        "baseUrl": "https://dilbert.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -15637,6 +15616,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: ToonChill",
+    "pkg": "eu.kanade.tachiyomi.extension.en.toonchill",
+    "apk": "tachiyomi-en.toonchill-v1.4.29.apk",
+    "lang": "en",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ToonChill",
+        "lang": "en",
+        "id": "232118325347849348",
+        "baseUrl": "https://toonchill.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ToonGod",
     "pkg": "eu.kanade.tachiyomi.extension.en.toongod",
     "apk": "tachiyomi-en.toongod-v1.4.32.apk",
@@ -20909,7 +20909,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -24302,10 +24302,10 @@
   {
     "name": "Tachiyomi: Web of Comics",
     "pkg": "eu.kanade.tachiyomi.extension.ru.webofcomics",
-    "apk": "tachiyomi-ru.webofcomics-v1.4.4.apk",
+    "apk": "tachiyomi-ru.webofcomics-v1.4.5.apk",
     "lang": "ru",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26981,7 +26981,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
