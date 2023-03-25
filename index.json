@@ -1402,10 +1402,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.4.18.apk",
+    "apk": "tachiyomi-all.cubari-v1.4.19.apk",
     "lang": "all",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -8919,10 +8919,10 @@
   {
     "name": "Tachiyomi: Hentaidexy",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaidexy",
-    "apk": "tachiyomi-en.hentaidexy-v1.4.31.apk",
+    "apk": "tachiyomi-en.hentaidexy-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8930,10 +8930,10 @@
       {
         "name": "Hentaidexy",
         "lang": "en",
-        "id": "3938137175304243668",
+        "id": "3234990606508661587",
         "baseUrl": "https://hentaidexy.net",
-        "versionId": 1,
-        "hasCloudflare": 1
+        "versionId": 2,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -15660,10 +15660,10 @@
   {
     "name": "Tachiyomi: Toonily",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonily",
-    "apk": "tachiyomi-en.toonily-v1.4.36.apk",
+    "apk": "tachiyomi-en.toonily-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17046,12 +17046,12 @@
   {
     "name": "Tachiyomi: InariManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.25.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.28.apk",
     "lang": "es",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -18984,6 +18984,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: KataKomik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.katakomik",
+    "apk": "tachiyomi-id.katakomik-v1.4.25.apk",
+    "lang": "id",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KataKomik",
+        "lang": "id",
+        "id": "3319286981528917745",
+        "baseUrl": "https://katakomik.online",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
     "apk": "tachiyomi-id.kiryuu-v1.4.31.apk",
@@ -19335,6 +19356,48 @@
         "lang": "id",
         "id": "5544745045605155772",
         "baseUrl": "https://komikra.me",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: KomikSan",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komiksan",
+    "apk": "tachiyomi-id.komiksan-v1.4.26.apk",
+    "lang": "id",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KomikSan",
+        "lang": "id",
+        "id": "8615108000651602810",
+        "baseUrl": "https://komiksan.ml",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komik Seru",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikseru",
+    "apk": "tachiyomi-id.komikseru-v1.4.25.apk",
+    "lang": "id",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komik Seru",
+        "lang": "id",
+        "id": "1932923460278894942",
+        "baseUrl": "https://komikseru.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23903,10 +23966,10 @@
   {
     "name": "Tachiyomi: HenChan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.4.39.apk",
+    "apk": "tachiyomi-ru.henchan-v1.4.40.apk",
     "lang": "ru",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23966,10 +24029,10 @@
   {
     "name": "Tachiyomi: MangaChan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangachan",
-    "apk": "tachiyomi-ru.mangachan-v1.4.16.apk",
+    "apk": "tachiyomi-ru.mangachan-v1.4.17.apk",
     "lang": "ru",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24176,10 +24239,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.65.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.67.apk",
     "lang": "ru",
-    "code": 65,
-    "version": "1.4.65",
+    "code": 67,
+    "version": "1.4.67",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24344,10 +24407,10 @@
   {
     "name": "Tachiyomi: YaoiChan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yaoichan",
-    "apk": "tachiyomi-ru.yaoichan-v1.4.6.apk",
+    "apk": "tachiyomi-ru.yaoichan-v1.4.7.apk",
     "lang": "ru",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26981,7 +27044,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
