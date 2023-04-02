@@ -91,6 +91,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Esomanga", "https://esomanga.com", "tr", overrideVersionCode = 1),
         SingleLang("Estufa de Cristal", "https://scanestufadecristal.site", "pt-BR", className = "EstufaDeCristal"),
         SingleLang("EvaScans", "https://evascans.com", "tr"),
+        SingleLang("FreeMangaTop", "https://freemangatop.com", "en", overrideVersionCode = 1),
         SingleLang("FaeStorm", "https://faestormmanga.com", "tr"),
         SingleLang("FastManhwa", "https://fastmanhwa.net", "en", isNsfw = true, overrideVersionCode = 2),
         SingleLang("Fay Scans", "https://fayscans.com.br", "pt-BR", overrideVersionCode = 1),
@@ -115,6 +116,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Glory Scans", "https://gloryscans.com", "tr", isNsfw = true),
         SingleLang("Goof Fansub", "https://gooffansub.com", "pt-BR", isNsfw = true),
         SingleLang("GuncelManga", "https://guncelmanga.com", "tr", overrideVersionCode = 1),
+        SingleLang("Hreads", "https://hreads.net", "en", isNsfw = true, overrideVersionCode = 1),
         SingleLang("Hades no Fansub Hentai", "https://h.mangareaderpro.com", "es", isNsfw = true),
         SingleLang("Hades no Fansub", "https://mangareaderpro.com", "es", overrideVersionCode = 1),
         SingleLang("Harimanga", "https://harimanga.com", "en", overrideVersionCode = 2),
@@ -366,7 +368,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Sagrado Império da Britannia", "https://imperiodabritannia.com", "pt-BR", className = "ImperioDaBritannia"),
         SingleLang("SamuraiScan", "https://samuraiscan.com", "es", overrideVersionCode = 1),
         SingleLang("Sawamics", "https://sawamics.com", "en"),
-        SingleLang("ScamberTraslator", "https://scambertraslator.com", "es"),
+        SingleLang("ScamberTraslator", "https://scambertraslator.com", "es", overrideVersionCode = 1),
         SingleLang("Scans Raw", "https://scansraw.com", "en", overrideVersionCode = 1),
         SingleLang("Sdl scans", "https://sdlscans.com", "es", className = "SdlScans"),
         SingleLang("Sensaina Yuri", "https://sensainayuri.dropescan.com", "pt-BR", isNsfw = true, overrideVersionCode = 2),
@@ -415,7 +417,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Tudo Quadrinhos", "https://tudoquadrinhos.com.br", "pt-BR"),
         SingleLang("Tumangaonline.site", "https://tumangaonline.site", "es", isNsfw = true, className = "TumangaonlineSite", pkgName = "tumangaonlinesite"),
         SingleLang("Türkçe Manga", "https://turkcemanga.com", "tr", className = "TurkceManga", overrideVersionCode = 2),
-        SingleLang("Ver Manhwas", "https://vermanhwa.com", "es", isNsfw = true),
+        SingleLang("Ver Manhwas", "https://vermanhwa.es", "es", isNsfw = true, overrideVersionCode = 1),
         SingleLang("VinManga", "https://vinload.com", "en", isNsfw = true),
         SingleLang("Visbellum", "https://visbellum.com", "pt-BR", overrideVersionCode = 2),
         SingleLang("Wakamics", "https://wakamics.net", "en"),
@@ -458,6 +460,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("مانجا ليك", "https://mangalek.com", "ar", className = "Mangalek", overrideVersionCode = 2),
         SingleLang("مانجا لينك", "https://mangalink.io", "ar", className = "MangaLinkio", overrideVersionCode = 3),
         SingleLang("Chunchunmaru Translations", "https://chunchunmarutl.com", "es", className = "ChunchunmaruTranslations"),
+        SingleLang("巴卡漫画", "https://bakamh.com", "zh", isNsfw = true, className = "Bakamh"),
     )
 
     companion object {
