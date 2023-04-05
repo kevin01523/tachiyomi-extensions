@@ -3,10 +3,10 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlinx-serialization'
 
 ext {
-    extName = 'Com-X'
-    pkgNameSuffix = 'ru.comx'
-    extClass = '.ComX'
-    extVersionCode = 25
+    extName = 'LynxScans'
+    pkgNameSuffix = 'en.lynxscans'
+    extClass = '.LynxScans'
+    extVersionCode = 7
 }
 
 apply from: "$rootDir/common.gradle"
