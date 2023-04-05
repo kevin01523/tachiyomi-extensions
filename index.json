@@ -7262,10 +7262,10 @@
   {
     "name": "Tachiyomi: AllAnime",
     "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
-    "apk": "tachiyomi-en.allanime-v1.4.1.apk",
+    "apk": "tachiyomi-en.allanime-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9976,6 +9976,27 @@
         "baseUrl": "https://luxmanga.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LynxScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lynxscans",
+    "apk": "tachiyomi-en.lynxscans-v1.4.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.4.7",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LynxScans",
+        "lang": "en",
+        "id": "4611641697493597220",
+        "baseUrl": "https://lynxscans.com",
+        "versionId": 2,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -13573,20 +13594,20 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.25.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Omega Scans",
         "lang": "en",
-        "id": "1437071111760677496",
+        "id": "1534451209269193504",
         "baseUrl": "https://omegascans.org",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -17267,12 +17288,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: LeerCapitulo",
+    "name": "Tachiyomi: LeerCapitulo / OlympusScan.top",
     "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
-    "apk": "tachiyomi-es.leercapitulo-v1.4.1.apk",
+    "apk": "tachiyomi-es.leercapitulo-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17281,7 +17302,7 @@
         "name": "LeerCapitulo",
         "lang": "es",
         "id": "5621901596522308538",
-        "baseUrl": "https://www.leercapitulo.com",
+        "baseUrl": "https://www.leercapitulo.com#, https://olympusscan.top",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -17687,27 +17708,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: OlympusScan.top",
-    "pkg": "eu.kanade.tachiyomi.extension.es.olympusscantop",
-    "apk": "tachiyomi-es.olympusscantop-v1.4.28.apk",
-    "lang": "es",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "OlympusScan.top",
-        "lang": "es",
-        "id": "8759557874199244026",
-        "baseUrl": "https://olympusscan.top",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Phoenix Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.phoenixfansub",
     "apk": "tachiyomi-es.phoenixfansub-v1.4.27.apk",
@@ -17962,10 +17962,10 @@
   {
     "name": "Tachiyomi: Tecno Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tecnoscan",
-    "apk": "tachiyomi-es.tecnoscan-v1.4.26.apk",
+    "apk": "tachiyomi-es.tecnoscan-v1.4.27.apk",
     "lang": "es",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -17974,7 +17974,7 @@
         "name": "Tecno Scan",
         "lang": "es",
         "id": "8817389303230743686",
-        "baseUrl": "https://tecnoscann",
+        "baseUrl": "https://tecnoscann.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24063,10 +24063,10 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.24.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.25.apk",
     "lang": "ru",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26436,10 +26436,10 @@
   {
     "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.4.18.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.4.19.apk",
     "lang": "zh",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -26646,10 +26646,10 @@
   {
     "name": "Tachiyomi: Gufeng Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-    "apk": "tachiyomi-zh.gufengmh-v1.4.14.apk",
+    "apk": "tachiyomi-zh.gufengmh-v1.4.15.apk",
     "lang": "zh",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26658,7 +26658,7 @@
         "name": "古风漫画网",
         "lang": "zh",
         "id": "4341893737383682159",
-        "baseUrl": "https://www.123gf.com",
+        "baseUrl": "https://www.gufengmh.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26751,10 +26751,10 @@
   {
     "name": "Tachiyomi: Imitui Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.imitui",
-    "apk": "tachiyomi-zh.imitui-v1.4.11.apk",
+    "apk": "tachiyomi-zh.imitui-v1.4.12.apk",
     "lang": "zh",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26898,10 +26898,10 @@
   {
     "name": "Tachiyomi: YKMH",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuadui",
-    "apk": "tachiyomi-zh.manhuadui-v1.4.25.apk",
+    "apk": "tachiyomi-zh.manhuadui-v1.4.26.apk",
     "lang": "zh",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27045,10 +27045,10 @@
   {
     "name": "Tachiyomi: Qinqin Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.qinqin",
-    "apk": "tachiyomi-zh.qinqin-v1.4.9.apk",
+    "apk": "tachiyomi-zh.qinqin-v1.4.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27066,10 +27066,10 @@
   {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
-    "apk": "tachiyomi-zh.roumanwu-v1.4.3.apk",
+    "apk": "tachiyomi-zh.roumanwu-v1.4.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27087,10 +27087,10 @@
   {
     "name": "Tachiyomi: 6Manhua / Qixi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.sixmh",
-    "apk": "tachiyomi-zh.sixmh-v1.4.7.apk",
+    "apk": "tachiyomi-zh.sixmh-v1.4.8.apk",
     "lang": "zh",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27099,7 +27099,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh67.com",
+        "baseUrl": "http://www.6mh67.com#6漫画, http://www.qiximh3.com#七夕漫画",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -27129,10 +27129,10 @@
   {
     "name": "Tachiyomi: Terra Historicus",
     "pkg": "eu.kanade.tachiyomi.extension.zh.terrahistoricus",
-    "apk": "tachiyomi-zh.terrahistoricus-v1.4.2.apk",
+    "apk": "tachiyomi-zh.terrahistoricus-v1.4.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27192,10 +27192,10 @@
   {
     "name": "Tachiyomi: 57Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wuqimanga",
-    "apk": "tachiyomi-zh.wuqimanga-v1.4.13.apk",
+    "apk": "tachiyomi-zh.wuqimanga-v1.4.14.apk",
     "lang": "zh",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
