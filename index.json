@@ -7680,27 +7680,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: BeeManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.beemanga",
-    "apk": "tachiyomi-en.beemanga-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "BeeManga",
-        "lang": "en",
-        "id": "6177262968674109922",
-        "baseUrl": "https://ww1.beemanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: BestManhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.bestmanhua",
     "apk": "tachiyomi-en.bestmanhua-v1.4.30.apk",
@@ -7758,27 +7737,6 @@
         "lang": "en",
         "id": "8068520237045196996",
         "baseUrl": "https://boyslove.me",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Bulu Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.bulumanga",
-    "apk": "tachiyomi-en.bulumanga-v1.4.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Bulu Manga",
-        "lang": "en",
-        "id": "6510192726488246111",
-        "baseUrl": "https://ww8.bulumanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -9497,27 +9455,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: JaiminisBox.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.jaiminisboxnet",
-    "apk": "tachiyomi-en.jaiminisboxnet-v1.4.28.apk",
-    "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "JaiminisBox.net",
-        "lang": "en",
-        "id": "5698800810922098895",
-        "baseUrl": "https://jaiminisbox.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: KawaScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kawascans",
     "apk": "tachiyomi-en.kawascans-v1.4.29.apk",
@@ -9617,27 +9554,6 @@
         "lang": "en",
         "id": "3112384885023225761",
         "baseUrl": "https://kissmanga.in",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Koo Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.koomanga",
-    "apk": "tachiyomi-en.koomanga-v1.4.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Koo Manga",
-        "lang": "en",
-        "id": "4174321665354064253",
-        "baseUrl": "https://ww9.koomanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -14957,27 +14873,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Realm Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.realmscans",
-    "apk": "tachiyomi-en.realmscans-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Realm Scans",
-        "lang": "en",
-        "id": "8548620058491492757",
-        "baseUrl": "https://realmscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
     "apk": "tachiyomi-en.reaperscans-v1.4.43.apk",
@@ -18661,27 +18556,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Scantrad",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.scantrad",
-    "apk": "tachiyomi-fr.scantrad-v1.4.18.apk",
-    "lang": "fr",
-    "code": 18,
-    "version": "1.4.18",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Scantrad",
-        "lang": "fr",
-        "id": "5583592074091713901",
-        "baseUrl": "https://scantrad.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Scantrad Union",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scantradunion",
     "apk": "tachiyomi-fr.scantradunion-v1.4.2.apk",
@@ -20973,10 +20847,10 @@
   {
     "name": "Tachiyomi: Hatachi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.hatachimanga",
-    "apk": "tachiyomi-ja.hatachimanga-v1.4.29.apk",
+    "apk": "tachiyomi-ja.hatachimanga-v1.4.30.apk",
     "lang": "ja",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20985,7 +20859,7 @@
         "name": "Hatachi Manga",
         "lang": "ja",
         "id": "3408556632085724030",
-        "baseUrl": "https://hachimanga.com",
+        "baseUrl": "https://hachiraw.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21111,7 +20985,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangaraw.to",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -25132,27 +25006,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Glory Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.gloryscans",
-    "apk": "tachiyomi-tr.gloryscans-v1.4.28.apk",
-    "lang": "tr",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Glory Scans",
-        "lang": "tr",
-        "id": "1177239398481702144",
-        "baseUrl": "https://gloryscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: GuncelManga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.guncelmanga",
     "apk": "tachiyomi-tr.guncelmanga-v1.4.29.apk",
@@ -25233,48 +25086,6 @@
         "baseUrl": "https://jiangzaitoon.biz",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: LovableSubs",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.lovablesubs",
-    "apk": "tachiyomi-tr.lovablesubs-v1.4.29.apk",
-    "lang": "tr",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "LovableSubs",
-        "lang": "tr",
-        "id": "3216869778677948037",
-        "baseUrl": "https://lovablesubs.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mabushimajo",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mabushimajo",
-    "apk": "tachiyomi-tr.mabushimajo-v1.4.3.apk",
-    "lang": "tr",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mabushimajo",
-        "lang": "tr",
-        "id": "3262973772184794609",
-        "baseUrl": "http://mabushimajo.com",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
@@ -25363,48 +25174,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Hane",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangahane",
-    "apk": "tachiyomi-tr.mangahane-v1.4.28.apk",
-    "lang": "tr",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Hane",
-        "lang": "tr",
-        "id": "2156095983434956440",
-        "baseUrl": "https://manga-hane.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaHanta",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangahanta",
-    "apk": "tachiyomi-tr.mangahanta-v1.4.6.apk",
-    "lang": "tr",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaHanta",
-        "lang": "tr",
-        "id": "9070098188425137894",
-        "baseUrl": "http://mangahanta.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Keyfi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangakeyfi",
     "apk": "tachiyomi-tr.mangakeyfi-v1.4.28.apk",
@@ -25447,27 +25216,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Sepeti",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangasepeti",
-    "apk": "tachiyomi-tr.mangasepeti-v1.4.29.apk",
-    "lang": "tr",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Sepeti",
-        "lang": "tr",
-        "id": "8705474943699968918",
-        "baseUrl": "https://www.mangasepeti.xyz",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Ship",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangaship",
     "apk": "tachiyomi-tr.mangaship-v1.4.3.apk",
@@ -25504,27 +25252,6 @@
         "lang": "tr",
         "id": "4990678311970770946",
         "baseUrl": "https://manga-tr.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaVadisi",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangavadisi",
-    "apk": "tachiyomi-tr.mangavadisi-v1.4.6.apk",
-    "lang": "tr",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaVadisi",
-        "lang": "tr",
-        "id": "1779305268140322836",
-        "baseUrl": "http://manga-v2.mangavadisi.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25819,27 +25546,6 @@
         "lang": "tr",
         "id": "2325858799672782297",
         "baseUrl": "https://webtoon-tr.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Yetişkin Rüya Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.yetiskinruyamanga",
-    "apk": "tachiyomi-tr.yetiskinruyamanga-v1.4.28.apk",
-    "lang": "tr",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Yetişkin Rüya Manga",
-        "lang": "tr",
-        "id": "7083845009873813929",
-        "baseUrl": "https://yetiskin.ruyamanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
