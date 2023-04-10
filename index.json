@@ -9940,10 +9940,10 @@
   {
     "name": "Tachiyomi: Madokami",
     "pkg": "eu.kanade.tachiyomi.extension.en.madokami",
-    "apk": "tachiyomi-en.madokami-v1.4.6.apk",
+    "apk": "tachiyomi-en.madokami-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10297,10 +10297,10 @@
   {
     "name": "Tachiyomi: Manga Chill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangachill",
-    "apk": "tachiyomi-en.mangachill-v1.4.34.apk",
+    "apk": "tachiyomi-en.mangachill-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10309,7 +10309,7 @@
         "name": "Manga Chill",
         "lang": "en",
         "id": "1646428256207102930",
-        "baseUrl": "https://mangachill.io",
+        "baseUrl": "https://toonchill.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17374,10 +17374,10 @@
   {
     "name": "Tachiyomi: MangasTK",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangastk",
-    "apk": "tachiyomi-es.mangastk-v1.4.30.apk",
+    "apk": "tachiyomi-es.mangastk-v1.4.31.apk",
     "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17387,6 +17387,48 @@
         "lang": "es",
         "id": "3172894373634175439",
         "baseUrl": "https://mangastk.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangasTK18",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangastk18",
+    "apk": "tachiyomi-es.mangastk18-v1.4.28.apk",
+    "lang": "es",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangasTK18",
+        "lang": "es",
+        "id": "4090703646507881579",
+        "baseUrl": "https://mangastk18.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangasTK.xyz",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangastkxyz",
+    "apk": "tachiyomi-es.mangastkxyz-v1.4.28.apk",
+    "lang": "es",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangasTK.xyz",
+        "lang": "es",
+        "id": "6582167065817782306",
+        "baseUrl": "https://mangastk.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17584,10 +17626,10 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.2.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.3.apk",
     "lang": "es",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20985,7 +21027,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://manga1001.in#, https://mangaraw.to#, https://mangaraw.io#, https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -23937,10 +23979,10 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.25.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.26.apk",
     "lang": "ru",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
