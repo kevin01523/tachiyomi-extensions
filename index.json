@@ -2625,10 +2625,10 @@
   {
     "name": "Tachiyomi: League of Legends",
     "pkg": "eu.kanade.tachiyomi.extension.all.leagueoflegends",
-    "apk": "tachiyomi-all.leagueoflegends-v1.4.1.apk",
+    "apk": "tachiyomi-all.leagueoflegends-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
