@@ -6863,10 +6863,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.31.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -6875,7 +6875,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://swatmanga.net",
+        "baseUrl": "https://swatmanga.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -7892,10 +7892,10 @@
   {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
-    "apk": "tachiyomi-en.comicextra-v1.4.12.apk",
+    "apk": "tachiyomi-en.comicextra-v1.4.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7904,7 +7904,7 @@
         "name": "ComicExtra",
         "lang": "en",
         "id": "4316139130808778432",
-        "baseUrl": "https://ww1.comicextra.com",
+        "baseUrl": "https://comicextra.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21526,7 +21526,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki223.net",
+        "baseUrl": "https://manatoki224.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21534,7 +21534,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki223.com",
+        "baseUrl": "https://newtoki224.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21702,7 +21702,7 @@
         "name": "Amuy",
         "lang": "pt-BR",
         "id": "5257426184455231951",
-        "baseUrl": "https://amuyscans.com",
+        "baseUrl": "https://apenasmaisumyaoi.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21828,7 +21828,7 @@
         "name": "Banana Cítrica",
         "lang": "pt-BR",
         "id": "4770070980248873010",
-        "baseUrl": "https://dinastiacilly.com",
+        "baseUrl": "https://bananacitrica.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22236,10 +22236,10 @@
   {
     "name": "Tachiyomi: Gekkou Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouhentai",
-    "apk": "tachiyomi-pt.gekkouhentai-v1.4.5.apk",
+    "apk": "tachiyomi-pt.gekkouhentai-v1.4.28.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22247,9 +22247,9 @@
       {
         "name": "Gekkou Hentai",
         "lang": "pt-BR",
-        "id": "7934152678761040443",
+        "id": "3463585693082078397",
         "baseUrl": "https://hentai.gekkouscans.com.br",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -22257,10 +22257,10 @@
   {
     "name": "Tachiyomi: Gekkou Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouscan",
-    "apk": "tachiyomi-pt.gekkouscan-v1.4.17.apk",
+    "apk": "tachiyomi-pt.gekkouscan-v1.4.28.apk",
     "lang": "pt-BR",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22268,9 +22268,9 @@
       {
         "name": "Gekkou Scans",
         "lang": "pt-BR",
-        "id": "283011527490839966",
+        "id": "38569701795132984",
         "baseUrl": "https://gekkou.com.br",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -22899,7 +22899,7 @@
         "name": "MR Yaoi Fansub",
         "lang": "pt-BR",
         "id": "5391282948608391639",
-        "baseUrl": "https://mrtenzus.com",
+        "baseUrl": "https://mrbenne.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
