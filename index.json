@@ -2464,10 +2464,10 @@
   {
     "name": "Tachiyomi: Kavita",
     "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
-    "apk": "tachiyomi-all.kavita-v1.4.9.apk",
+    "apk": "tachiyomi-all.kavita-v1.4.10.apk",
     "lang": "all",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -8617,10 +8617,10 @@
   {
     "name": "Tachiyomi: FreeMangaTop",
     "pkg": "eu.kanade.tachiyomi.extension.en.freemangatop",
-    "apk": "tachiyomi-en.freemangatop-v1.4.29.apk",
+    "apk": "tachiyomi-en.freemangatop-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12166,10 +12166,10 @@
   {
     "name": "Tachiyomi: ManhuaFast",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuafast",
-    "apk": "tachiyomi-en.manhuafast-v1.4.29.apk",
+    "apk": "tachiyomi-en.manhuafast-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15736,10 +15736,10 @@
   {
     "name": "Tachiyomi: Top Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.topmanhua",
-    "apk": "tachiyomi-en.topmanhua-v1.4.29.apk",
+    "apk": "tachiyomi-en.topmanhua-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15925,10 +15925,10 @@
   {
     "name": "Tachiyomi: VIZ Shonen Jump",
     "pkg": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-    "apk": "tachiyomi-en.vizshonenjump-v1.4.15.apk",
+    "apk": "tachiyomi-en.vizshonenjump-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -21982,6 +21982,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: CookieToon",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.cookietoon",
+    "apk": "tachiyomi-pt.cookietoon-v1.4.28.apk",
+    "lang": "pt-BR",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CookieToon",
+        "lang": "pt-BR",
+        "id": "112137012584240478",
+        "baseUrl": "https://cookietoon.online",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cronos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cronosscan",
     "apk": "tachiyomi-pt.cronosscan-v1.4.29.apk",
@@ -22123,27 +22144,6 @@
         "lang": "pt-BR",
         "id": "6168945536463997067",
         "baseUrl": "https://finalscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Fire Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.firemangas",
-    "apk": "tachiyomi-pt.firemangas-v1.4.7.apk",
-    "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Fire Mangás",
-        "lang": "pt-BR",
-        "id": "4512861071868695798",
-        "baseUrl": "https://firemangas.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22885,6 +22885,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Moon Witch In Love",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.moonwitchinlove",
+    "apk": "tachiyomi-pt.moonwitchinlove-v1.4.28.apk",
+    "lang": "pt-BR",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Moon Witch In Love",
+        "lang": "pt-BR",
+        "id": "3135090895340447301",
+        "baseUrl": "https://moonwitchinlovescan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MR Yaoi Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mryaoifansub",
     "apk": "tachiyomi-pt.mryaoifansub-v1.4.29.apk",
@@ -22950,10 +22971,10 @@
   {
     "name": "Tachiyomi: Mundo Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundohentai",
-    "apk": "tachiyomi-pt.mundohentai-v1.4.5.apk",
+    "apk": "tachiyomi-pt.mundohentai-v1.4.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23132,6 +23153,27 @@
         "id": "4038055363600290082",
         "baseUrl": "https://origami-orpheans.com.br",
         "versionId": 2,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Peach Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.peachscan",
+    "apk": "tachiyomi-pt.peachscan-v1.4.28.apk",
+    "lang": "pt-BR",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Peach Scan",
+        "lang": "pt-BR",
+        "id": "3971755668019534798",
+        "baseUrl": "https://www.peachscan.com",
+        "versionId": 1,
         "hasCloudflare": 1
       }
     ]
@@ -24252,10 +24294,10 @@
   {
     "name": "Tachiyomi: Nude-Moon",
     "pkg": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-    "apk": "tachiyomi-ru.nudemoon-v1.4.14.apk",
+    "apk": "tachiyomi-ru.nudemoon-v1.4.15.apk",
     "lang": "ru",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25590,6 +25632,27 @@
         "baseUrl": "https://webtoon-tr.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HoneyManga",
+    "pkg": "eu.kanade.tachiyomi.extension.uk.honeymanga",
+    "apk": "tachiyomi-uk.honeymanga-v1.4.1.apk",
+    "lang": "uk",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HoneyManga",
+        "lang": "uk",
+        "id": "4712783922379490416",
+        "baseUrl": "https://honey-manga.com.ua",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
