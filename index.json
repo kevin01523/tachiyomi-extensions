@@ -21526,7 +21526,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki285.net",
+        "baseUrl": "https://manatoki286.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21534,7 +21534,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki285.com",
+        "baseUrl": "https://newtoki286.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26415,10 +26415,10 @@
   {
     "name": "Tachiyomi: DMZJ",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.4.37.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.4.38.apk",
     "lang": "zh",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26427,7 +26427,7 @@
         "name": "动漫之家",
         "lang": "zh",
         "id": "2884190037559093788",
-        "baseUrl": "https://m.idmzj.com",
+        "baseUrl": "https://m.dmzj.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -27045,10 +27045,10 @@
   {
     "name": "Tachiyomi: Zerobyw",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
-    "apk": "tachiyomi-zh.zerobyw-v1.4.14.apk",
+    "apk": "tachiyomi-zh.zerobyw-v1.4.15.apk",
     "lang": "zh",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
