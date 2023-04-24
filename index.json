@@ -966,10 +966,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.24.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.25.apk",
     "lang": "all",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3333,6 +3333,75 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaFire",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
+    "apk": "tachiyomi-all.mangafire-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaFire",
+        "lang": "en",
+        "id": "6084907896154116083",
+        "baseUrl": "https://mangafire.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaFire",
+        "lang": "es",
+        "id": "8098539940032331958",
+        "baseUrl": "https://mangafire.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaFire",
+        "lang": "es-419",
+        "id": "3849324770075062403",
+        "baseUrl": "https://mangafire.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaFire",
+        "lang": "fr",
+        "id": "6228021941803932286",
+        "baseUrl": "https://mangafire.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaFire",
+        "lang": "ja",
+        "id": "524110931382140732",
+        "baseUrl": "https://mangafire.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaFire",
+        "lang": "pt",
+        "id": "758400875161895515",
+        "baseUrl": "https://mangafire.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaFire",
+        "lang": "pt-BR",
+        "id": "7842137233968841729",
+        "baseUrl": "https://mangafire.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaForFree.net",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaforfree",
     "apk": "tachiyomi-all.mangaforfree-v1.4.29.apk",
@@ -4273,12 +4342,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaReader.to",
+    "name": "Tachiyomi: MangaReader",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangareaderto",
-    "apk": "tachiyomi-all.mangareaderto-v1.4.3.apk",
+    "apk": "tachiyomi-all.mangareaderto-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -6569,10 +6638,10 @@
   {
     "name": "Tachiyomi: Hijala",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hijala",
-    "apk": "tachiyomi-ar.hijala-v1.4.5.apk",
+    "apk": "tachiyomi-ar.hijala-v1.4.6.apk",
     "lang": "ar",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6674,10 +6743,10 @@
   {
     "name": "Tachiyomi: Manga Ai Land",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaailand",
-    "apk": "tachiyomi-ar.mangaailand-v1.4.5.apk",
+    "apk": "tachiyomi-ar.mangaailand-v1.4.6.apk",
     "lang": "ar",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16702,10 +16771,10 @@
   {
     "name": "Tachiyomi: DatGarScanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
-    "apk": "tachiyomi-es.datgarscanlation-v1.4.5.apk",
+    "apk": "tachiyomi-es.datgarscanlation-v1.4.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17584,10 +17653,10 @@
   {
     "name": "Tachiyomi: Muslos No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.muslosnosekai",
-    "apk": "tachiyomi-es.muslosnosekai-v1.4.5.apk",
+    "apk": "tachiyomi-es.muslosnosekai-v1.4.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18768,10 +18837,10 @@
   {
     "name": "Tachiyomi: Asupan Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.asupankomik",
-    "apk": "tachiyomi-id.asupankomik-v1.4.6.apk",
+    "apk": "tachiyomi-id.asupankomik-v1.4.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19083,10 +19152,10 @@
   {
     "name": "Tachiyomi: KLManhua",
     "pkg": "eu.kanade.tachiyomi.extension.id.klmanhua",
-    "apk": "tachiyomi-id.klmanhua-v1.4.5.apk",
+    "apk": "tachiyomi-id.klmanhua-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20007,10 +20076,10 @@
   {
     "name": "Tachiyomi: Noromax",
     "pkg": "eu.kanade.tachiyomi.extension.id.noromax",
-    "apk": "tachiyomi-id.noromax-v1.4.5.apk",
+    "apk": "tachiyomi-id.noromax-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20238,10 +20307,10 @@
   {
     "name": "Tachiyomi: ShiyuraSub",
     "pkg": "eu.kanade.tachiyomi.extension.id.shiyurasub",
-    "apk": "tachiyomi-id.shiyurasub-v1.4.5.apk",
+    "apk": "tachiyomi-id.shiyurasub-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20280,10 +20349,10 @@
   {
     "name": "Tachiyomi: Tooncubus",
     "pkg": "eu.kanade.tachiyomi.extension.id.tooncubus",
-    "apk": "tachiyomi-id.tooncubus-v1.4.5.apk",
+    "apk": "tachiyomi-id.tooncubus-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20292,7 +20361,7 @@
         "name": "Tooncubus",
         "lang": "id",
         "id": "8493327683322555504",
-        "baseUrl": "https://www.tooncubus.site",
+        "baseUrl": "https://www.tooncubus.top",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -24775,6 +24844,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: สดใสเมะ",
+    "pkg": "eu.kanade.tachiyomi.extension.th.sodsaime",
+    "apk": "tachiyomi-th.sodsaime-v1.4.25.apk",
+    "lang": "th",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "สดใสเมะ",
+        "lang": "th",
+        "id": "8174267898467838103",
+        "baseUrl": "https://www.xn--l3c0azab5a2gta.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Adonis Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.adonisfansub",
     "apk": "tachiyomi-tr.adonisfansub-v1.4.29.apk",
@@ -26518,27 +26608,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Haoman8",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.haoman8",
-    "apk": "tachiyomi-zh.haoman8-v1.4.6.apk",
-    "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "好漫8",
-        "lang": "zh",
-        "id": "8428908309737098696",
-        "baseUrl": "https://www.haoman8.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
     "apk": "tachiyomi-zh.happymh-v1.4.4.apk",
@@ -27057,7 +27126,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobyw4090.com",
+        "baseUrl": "http://www.zerobyw3.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
