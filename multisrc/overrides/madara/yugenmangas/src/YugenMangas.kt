@@ -26,12 +26,9 @@ class YugenMangas : Madara(
         .add("Origin", baseUrl)
         .add("Referer", "$baseUrl/")
 
-    override val formHeaders: Headers = headersBuilder()
-        .add("X-Requested-With", "XMLHttpRequest")
-        .set("Referer", "$baseUrl/todas-las-series/")
-        .build()
-
     override val useNewChapterEndpoint: Boolean = true
+
+    override val mangaSubString = "series"
 
     override fun chapterFromElement(element: Element): SChapter = SChapter.create().apply {
         name = element.selectFirst("p.chapter-manhwa-title")!!.text()

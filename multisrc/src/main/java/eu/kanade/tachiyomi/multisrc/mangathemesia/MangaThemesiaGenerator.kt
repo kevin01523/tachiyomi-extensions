@@ -74,7 +74,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("Manhwa Freak", "https://manhwafreak.com", "en", overrideVersionCode = 1),
         SingleLang("ManhwaDesu", "https://manhwadesu.org", "id", isNsfw = true, overrideVersionCode = 3),
         SingleLang("ManhwaIndo", "https://manhwaindo.id", "id", isNsfw = true, overrideVersionCode = 2),
-        SingleLang("ManhwaLand.mom", "https://manhwaland.guru", "id", isNsfw = true, className = "ManhwaLandMom", overrideVersionCode = 3),
+        SingleLang("ManhwaLand.mom", "https://manhwaland.us", "id", isNsfw = true, className = "ManhwaLandMom", overrideVersionCode = 4),
         SingleLang("ManhwaList", "https://manhwalist.in", "id", overrideVersionCode = 2),
         SingleLang("Manhwax", "https://manhwax.com", "en", isNsfw = true),
         SingleLang("Mareceh", "https://mareceh.com", "id", isNsfw = true, pkgName = "mangceh", overrideVersionCode = 10),
@@ -122,7 +122,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("West Manga", "https://westmanga.info", "id", overrideVersionCode = 1),
         SingleLang("World Romance Translation", "https://wrt.my.id", "id", overrideVersionCode = 10),
         SingleLang("xCaliBR Scans", "https://xcalibrscans.com", "en", overrideVersionCode = 4),
-        SingleLang("สดใสเมะ", "https://www.xn--l3c0azab5a2gta.com", "th", isNsfw = true, className = "Sodsaime"),
+        SingleLang("สดใสเมะ", "https://www.xn--l3c0azab5a2gta.com", "th", isNsfw = true, className = "Sodsaime", overrideVersionCode = 1),
     )
 
     companion object {
