@@ -2551,10 +2551,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.46.apk",
+    "apk": "tachiyomi-all.komga-v1.4.47.apk",
     "lang": "all",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -7549,10 +7549,10 @@
   {
     "name": "Tachiyomi: Arena Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arenascans",
-    "apk": "tachiyomi-en.arenascans-v1.4.25.apk",
+    "apk": "tachiyomi-en.arenascans-v1.4.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -10941,10 +10941,10 @@
   {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
-    "apk": "tachiyomi-en.mangahubio-v1.4.27.apk",
+    "apk": "tachiyomi-en.mangahubio-v1.4.28.apk",
     "lang": "en",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11466,10 +11466,10 @@
   {
     "name": "Tachiyomi: MangaPanda.onl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
-    "apk": "tachiyomi-en.mangapandaonl-v1.4.17.apk",
+    "apk": "tachiyomi-en.mangapandaonl-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11481,27 +11481,6 @@
         "baseUrl": "https://mangapanda.onl",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaPark",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangapark",
-    "apk": "tachiyomi-en.mangapark-v1.4.23.apk",
-    "lang": "en",
-    "code": 23,
-    "version": "1.4.23",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaPark",
-        "lang": "en",
-        "id": "6259531251211001503",
-        "baseUrl": "https://v2.mangapark.net",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -11655,10 +11634,10 @@
   {
     "name": "Tachiyomi: MangaReader.site",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
-    "apk": "tachiyomi-en.mangareadersite-v1.4.17.apk",
+    "apk": "tachiyomi-en.mangareadersite-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16693,6 +16672,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: BokugenTranslation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.bokugentranslation",
+    "apk": "tachiyomi-es.bokugentranslation-v1.4.29.apk",
+    "lang": "es",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BokugenTranslation",
+        "lang": "es",
+        "id": "1598762687295904337",
+        "baseUrl": "https://bokugents.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cartel de Manhwas",
     "pkg": "eu.kanade.tachiyomi.extension.es.carteldemanhwas",
     "apk": "tachiyomi-es.carteldemanhwas-v1.4.30.apk",
@@ -16863,12 +16863,12 @@
   {
     "name": "Tachiyomi: DragonTranslation",
     "pkg": "eu.kanade.tachiyomi.extension.es.dragontranslation",
-    "apk": "tachiyomi-es.dragontranslation-v1.4.33.apk",
+    "apk": "tachiyomi-es.dragontranslation-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
@@ -16876,6 +16876,27 @@
         "lang": "es",
         "id": "150061309030227779",
         "baseUrl": "https://dragontranslation.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: DragonTranslation.net",
+    "pkg": "eu.kanade.tachiyomi.extension.es.dragontranslationnet",
+    "apk": "tachiyomi-es.dragontranslationnet-v1.4.29.apk",
+    "lang": "es",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DragonTranslation.net",
+        "lang": "es",
+        "id": "7541593615312027809",
+        "baseUrl": "https://dragontranslation.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17283,10 +17304,10 @@
   {
     "name": "Tachiyomi: LeerCapitulo / OlympusScan.top",
     "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
-    "apk": "tachiyomi-es.leercapitulo-v1.4.3.apk",
+    "apk": "tachiyomi-es.leercapitulo-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17850,10 +17871,10 @@
   {
     "name": "Tachiyomi: ScamberTraslator",
     "pkg": "eu.kanade.tachiyomi.extension.es.scambertraslator",
-    "apk": "tachiyomi-es.scambertraslator-v1.4.30.apk",
+    "apk": "tachiyomi-es.scambertraslator-v1.4.31.apk",
     "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20021,10 +20042,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.4.32.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.4.33.apk",
     "lang": "id",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21645,7 +21666,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki286.net",
+        "baseUrl": "https://manatoki287.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21653,7 +21674,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki286.com",
+        "baseUrl": "https://newtoki287.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24455,10 +24476,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.71.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.72.apk",
     "lang": "ru",
-    "code": 71,
-    "version": "1.4.71",
+    "code": 72,
+    "version": "1.4.72",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25946,10 +25967,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.22.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.23.apk",
     "lang": "vi",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26051,10 +26072,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.18.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.19.apk",
     "lang": "vi",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26063,7 +26084,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenvi.com",
+        "baseUrl": "https://www.nettruyenplus.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
