@@ -9219,10 +9219,10 @@
   {
     "name": "Tachiyomi: Hiveworks Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiveworks",
-    "apk": "tachiyomi-en.hiveworks-v1.4.7.apk",
+    "apk": "tachiyomi-en.hiveworks-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16149,10 +16149,10 @@
   {
     "name": "Tachiyomi: Webnovel.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.webnovel",
-    "apk": "tachiyomi-en.webnovel-v1.4.7.apk",
+    "apk": "tachiyomi-en.webnovel-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17296,27 +17296,6 @@
         "lang": "es",
         "id": "7925520943983324764",
         "baseUrl": "https://lectormanga.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: LeerCapitulo / OlympusScan.top",
-    "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
-    "apk": "tachiyomi-es.leercapitulo-v1.4.4.apk",
-    "lang": "es",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "LeerCapitulo",
-        "lang": "es",
-        "id": "5621901596522308538",
-        "baseUrl": "https://www.leercapitulo.com#, https://olympusscan.top",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -24476,10 +24455,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.72.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.73.apk",
     "lang": "ru",
-    "code": 72,
-    "version": "1.4.72",
+    "code": 73,
+    "version": "1.4.73",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25979,7 +25958,7 @@
         "name": "HentaiVN",
         "lang": "vi",
         "id": "6560768551969686205",
-        "baseUrl": "https://hentaivn.tv",
+        "baseUrl": "https://hentaivn.site",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26294,7 +26273,7 @@
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "https://truyenqqmoi.com",
+        "baseUrl": "https://truyenqqq.vn",
         "versionId": 1,
         "hasCloudflare": 1
       }
