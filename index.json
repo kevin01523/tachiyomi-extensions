@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.4.45.apk",
+    "apk": "tachiyomi-all.asurascans-v1.4.46.apk",
     "lang": "all",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -14,7 +14,7 @@
         "name": "Asura Scans",
         "lang": "en",
         "id": "6247824327199706550",
-        "baseUrl": "https://asura.gg",
+        "baseUrl": "https://www.asurascans.com",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -3364,10 +3364,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.1.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3378,7 +3378,7 @@
         "id": "6084907896154116083",
         "baseUrl": "https://mangafire.to",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       },
       {
         "name": "MangaFire",
@@ -3386,7 +3386,7 @@
         "id": "8098539940032331958",
         "baseUrl": "https://mangafire.to",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       },
       {
         "name": "MangaFire",
@@ -3394,7 +3394,7 @@
         "id": "3849324770075062403",
         "baseUrl": "https://mangafire.to",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       },
       {
         "name": "MangaFire",
@@ -3402,7 +3402,7 @@
         "id": "6228021941803932286",
         "baseUrl": "https://mangafire.to",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       },
       {
         "name": "MangaFire",
@@ -3410,7 +3410,7 @@
         "id": "524110931382140732",
         "baseUrl": "https://mangafire.to",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       },
       {
         "name": "MangaFire",
@@ -3418,7 +3418,7 @@
         "id": "758400875161895515",
         "baseUrl": "https://mangafire.to",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       },
       {
         "name": "MangaFire",
@@ -3426,7 +3426,7 @@
         "id": "7842137233968841729",
         "baseUrl": "https://mangafire.to",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
@@ -10731,10 +10731,10 @@
   {
     "name": "Tachiyomi: Mangafreak",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafreak",
-    "apk": "tachiyomi-en.mangafreak-v1.4.8.apk",
+    "apk": "tachiyomi-en.mangafreak-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10743,7 +10743,7 @@
         "name": "Mangafreak",
         "lang": "en",
         "id": "1201694572804778862",
-        "baseUrl": "https://w14.mangafreak.net",
+        "baseUrl": "https://w15.mangafreak.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -10941,10 +10941,10 @@
   {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
-    "apk": "tachiyomi-en.mangahubio-v1.4.28.apk",
+    "apk": "tachiyomi-en.mangahubio-v1.4.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11466,10 +11466,10 @@
   {
     "name": "Tachiyomi: MangaPanda.onl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
-    "apk": "tachiyomi-en.mangapandaonl-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangapandaonl-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11634,10 +11634,10 @@
   {
     "name": "Tachiyomi: MangaReader.site",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
-    "apk": "tachiyomi-en.mangareadersite-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangareadersite-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12390,10 +12390,10 @@
   {
     "name": "Tachiyomi: Manhua SY",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuasy",
-    "apk": "tachiyomi-en.manhuasy-v1.4.30.apk",
+    "apk": "tachiyomi-en.manhuasy-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18362,10 +18362,10 @@
   {
     "name": "Tachiyomi: Bento Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japanread",
-    "apk": "tachiyomi-fr.japanread-v1.4.11.apk",
+    "apk": "tachiyomi-fr.japanread-v1.4.12.apk",
     "lang": "fr",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21645,7 +21645,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki287.net",
+        "baseUrl": "https://manatoki288.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21653,7 +21653,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki287.com",
+        "baseUrl": "https://newtoki288.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25946,10 +25946,10 @@
   {
     "name": "Tachiyomi: Hentai CB",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.33.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.34.apk",
     "lang": "vi",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25958,7 +25958,7 @@
         "name": "Hentai CB",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hencb.top",
+        "baseUrl": "https://cubeteam.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25967,10 +25967,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.23.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.24.apk",
     "lang": "vi",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25979,7 +25979,7 @@
         "name": "HentaiVN",
         "lang": "vi",
         "id": "6560768551969686205",
-        "baseUrl": "https://hentaivn.site",
+        "baseUrl": "https://hentaivn.team",
         "versionId": 1,
         "hasCloudflare": 1
       }
