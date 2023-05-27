@@ -2324,10 +2324,10 @@
   {
     "name": "Tachiyomi: HentaiShark",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaishark",
-    "apk": "tachiyomi-all.hentaishark-v1.4.5.apk",
+    "apk": "tachiyomi-all.hentaishark-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6497,27 +6497,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Asgard Team",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.asgardteam",
-    "apk": "tachiyomi-ar.asgardteam-v1.4.11.apk",
-    "lang": "ar",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AsgardTeam",
-        "lang": "ar",
-        "id": "840937957705866650",
-        "baseUrl": "https://asgard1team.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Azora",
     "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
     "apk": "tachiyomi-ar.azora-v1.4.35.apk",
@@ -7066,10 +7045,10 @@
   {
     "name": "Tachiyomi: مانجا اون لاين",
     "pkg": "eu.kanade.tachiyomi.extension.ar.onma",
-    "apk": "tachiyomi-ar.onma-v1.4.5.apk",
+    "apk": "tachiyomi-ar.onma-v1.4.6.apk",
     "lang": "ar",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7078,7 +7057,7 @@
         "name": "مانجا اون لاين",
         "lang": "ar",
         "id": "335499577904379512",
-        "baseUrl": "https://onma.me",
+        "baseUrl": "https://onma.top",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -7192,10 +7171,10 @@
   {
     "name": "Tachiyomi: Utsukushii",
     "pkg": "eu.kanade.tachiyomi.extension.bg.utsukushii",
-    "apk": "tachiyomi-bg.utsukushii-v1.4.6.apk",
+    "apk": "tachiyomi-bg.utsukushii-v1.4.7.apk",
     "lang": "bg",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7289,27 +7268,6 @@
         "lang": "de",
         "id": "10",
         "baseUrl": "https://www.wiemanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Adult Painful Nightz",
-    "pkg": "eu.kanade.tachiyomi.extension.en.adultpainfulnightz",
-    "apk": "tachiyomi-en.adultpainfulnightz-v1.4.29.apk",
-    "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Adult Painful Nightz",
-        "lang": "en",
-        "id": "857401065227973859",
-        "baseUrl": "https://adults.painfulnightz.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -8526,10 +8484,10 @@
   {
     "name": "Tachiyomi: Fallen Angels",
     "pkg": "eu.kanade.tachiyomi.extension.en.fallenangels",
-    "apk": "tachiyomi-en.fallenangels-v1.4.7.apk",
+    "apk": "tachiyomi-en.fallenangels-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8539,27 +8497,6 @@
         "lang": "en",
         "id": "293230877131974500",
         "baseUrl": "https://manga.fascans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: FastManhwa",
-    "pkg": "eu.kanade.tachiyomi.extension.en.fastmanhwa",
-    "apk": "tachiyomi-en.fastmanhwa-v1.4.31.apk",
-    "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "FastManhwa",
-        "lang": "en",
-        "id": "208481732636232833",
-        "baseUrl": "https://fastmanhwa.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -10099,27 +10036,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga1st",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manga1st",
-    "apk": "tachiyomi-en.manga1st-v1.4.31.apk",
-    "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga1st",
-        "lang": "en",
-        "id": "8291513389703933573",
-        "baseUrl": "https://manga1st.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: 247Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.manga247",
     "apk": "tachiyomi-en.manga247-v1.4.30.apk",
@@ -11487,10 +11403,10 @@
   {
     "name": "Tachiyomi: MangaPill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapill",
-    "apk": "tachiyomi-en.mangapill-v1.4.7.apk",
+    "apk": "tachiyomi-en.mangapill-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12193,27 +12109,6 @@
         "lang": "en",
         "id": "6898050534781242111",
         "baseUrl": "https://manhuachill.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manhua Dragon",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhuadragon",
-    "apk": "tachiyomi-en.manhuadragon-v1.4.29.apk",
-    "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manhua Dragon",
-        "lang": "en",
-        "id": "1801185560707726638",
-        "baseUrl": "https://manhuadragon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -13270,27 +13165,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Nana",
-    "pkg": "eu.kanade.tachiyomi.extension.en.nana",
-    "apk": "tachiyomi-en.nana-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Nana ナナ",
-        "lang": "en",
-        "id": "3918711904570964493",
-        "baseUrl": "https://nana.my.id",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: NANI? Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.naniscans",
     "apk": "tachiyomi-en.naniscans-v1.4.8.apk",
@@ -14196,10 +14070,10 @@
   {
     "name": "Tachiyomi: Read Comics Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomicsonline",
-    "apk": "tachiyomi-en.readcomicsonline-v1.4.5.apk",
+    "apk": "tachiyomi-en.readcomicsonline-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16464,10 +16338,10 @@
   {
     "name": "Tachiyomi: Zahard",
     "pkg": "eu.kanade.tachiyomi.extension.en.zahard",
-    "apk": "tachiyomi-en.zahard-v1.4.7.apk",
+    "apk": "tachiyomi-en.zahard-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16714,27 +16588,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Chunchunmaru Translations",
-    "pkg": "eu.kanade.tachiyomi.extension.es.chunchunmarutranslations",
-    "apk": "tachiyomi-es.chunchunmarutranslations-v1.4.29.apk",
-    "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Chunchunmaru Translations",
-        "lang": "es",
-        "id": "3174322954768438402",
-        "baseUrl": "https://chunchunmarutl.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Clayrer",
     "pkg": "eu.kanade.tachiyomi.extension.es.clayrer",
     "apk": "tachiyomi-es.clayrer-v1.4.25.apk",
@@ -16821,10 +16674,10 @@
   {
     "name": "Tachiyomi: DokkoManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.dokkomanga",
-    "apk": "tachiyomi-es.dokkomanga-v1.4.29.apk",
+    "apk": "tachiyomi-es.dokkomanga-v1.4.30.apk",
     "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16833,7 +16686,7 @@
         "name": "DokkoManga",
         "lang": "es",
         "id": "9083558228647693798",
-        "baseUrl": "https://dokkomanga.xyz",
+        "baseUrl": "https://dokkomanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -16945,27 +16798,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Fusion Scanlation",
-    "pkg": "eu.kanade.tachiyomi.extension.es.fusionscanlation",
-    "apk": "tachiyomi-es.fusionscanlation-v1.4.32.apk",
-    "lang": "es",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Fusion Scanlation",
-        "lang": "es",
-        "id": "8742903578444741640",
-        "baseUrl": "https://fusionscanlation.com",
-        "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Gremory Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.gremorymangas",
     "apk": "tachiyomi-es.gremorymangas-v1.4.25.apk",
@@ -17065,27 +16897,6 @@
         "lang": "es",
         "id": "2149729874547950887",
         "baseUrl": "https://herenscan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hunter Fansub",
-    "pkg": "eu.kanade.tachiyomi.extension.es.hunterfansub",
-    "apk": "tachiyomi-es.hunterfansub-v1.4.30.apk",
-    "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hunter Fansub",
-        "lang": "es",
-        "id": "2804453080545902346",
-        "baseUrl": "https://hunterfansub.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17220,10 +17031,10 @@
   {
     "name": "Tachiyomi: Kings Of Darkness",
     "pkg": "eu.kanade.tachiyomi.extension.es.kingsofdarkness",
-    "apk": "tachiyomi-es.kingsofdarkness-v1.4.1.apk",
+    "apk": "tachiyomi-es.kingsofdarkness-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17233,27 +17044,6 @@
         "lang": "es",
         "id": "7771932021858541049",
         "baseUrl": "https://kings-of-darkness.wixsite.com/0000",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kirishima Fansub",
-    "pkg": "eu.kanade.tachiyomi.extension.es.kirishimafansub",
-    "apk": "tachiyomi-es.kirishimafansub-v1.4.3.apk",
-    "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kirishima Fansub",
-        "lang": "es",
-        "id": "6004510217874770986",
-        "baseUrl": "https://www.kirishimafansub.net",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -17344,27 +17134,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: LeoManga",
-    "pkg": "eu.kanade.tachiyomi.extension.es.leomanga",
-    "apk": "tachiyomi-es.leomanga-v1.4.6.apk",
-    "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "LeoManga",
-        "lang": "es",
-        "id": "2689740268712856495",
-        "baseUrl": "https://leomanga.me",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
     "apk": "tachiyomi-es.mangacrab-v1.4.33.apk",
@@ -17388,10 +17157,10 @@
   {
     "name": "Tachiyomi: Mangadoor",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangadoor",
-    "apk": "tachiyomi-es.mangadoor-v1.4.6.apk",
+    "apk": "tachiyomi-es.mangadoor-v1.4.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17470,27 +17239,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangasTK",
-    "pkg": "eu.kanade.tachiyomi.extension.es.mangastk",
-    "apk": "tachiyomi-es.mangastk-v1.4.32.apk",
-    "lang": "es",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangasTK",
-        "lang": "es",
-        "id": "3172894373634175439",
-        "baseUrl": "https://mangastk.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangasTK18",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangastk18",
     "apk": "tachiyomi-es.mangastk18-v1.4.29.apk",
@@ -17512,23 +17260,23 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangasTK.xyz",
-    "pkg": "eu.kanade.tachiyomi.extension.es.mangastkxyz",
-    "apk": "tachiyomi-es.mangastkxyz-v1.4.29.apk",
+    "name": "Tachiyomi: MangaTigre",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangatigre",
+    "apk": "tachiyomi-es.mangatigre-v1.4.2.apk",
     "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangasTK.xyz",
+        "name": "MangaTigre",
         "lang": "es",
-        "id": "6582167065817782306",
-        "baseUrl": "https://mangastk.xyz",
+        "id": "2097342954482164058",
+        "baseUrl": "https://www.mangatigre.net",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
@@ -17575,27 +17323,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Martial Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.es.martialmanga",
-    "apk": "tachiyomi-es.martialmanga-v1.4.25.apk",
-    "lang": "es",
-    "code": 25,
-    "version": "1.4.25",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Martial Manga",
-        "lang": "es",
-        "id": "7648357959557208368",
-        "baseUrl": "https://martialmanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Menudo-Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.menudofansub",
     "apk": "tachiyomi-es.menudofansub-v1.4.4.apk",
@@ -17613,27 +17340,6 @@
         "baseUrl": "https://www.menudo-fansub.com",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Meraki Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.merakiscan",
-    "apk": "tachiyomi-es.merakiscan-v1.4.29.apk",
-    "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Meraki Scan",
-        "lang": "es",
-        "id": "5810843478993960074",
-        "baseUrl": "https://meraki801.com",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -17745,20 +17451,20 @@
   {
     "name": "Tachiyomi: Phoenix Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.phoenixfansub",
-    "apk": "tachiyomi-es.phoenixfansub-v1.4.27.apk",
+    "apk": "tachiyomi-es.phoenixfansub-v1.4.29.apk",
     "lang": "es",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Phoenix Fansub",
         "lang": "es",
-        "id": "2188221998256522902",
-        "baseUrl": "https://phoenixfansub.com",
-        "versionId": 1,
+        "id": "6384691881406628485",
+        "baseUrl": "https://phoenixmangas.com",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -17850,10 +17556,10 @@
   {
     "name": "Tachiyomi: ScamberTraslator",
     "pkg": "eu.kanade.tachiyomi.extension.es.scambertraslator",
-    "apk": "tachiyomi-es.scambertraslator-v1.4.31.apk",
+    "apk": "tachiyomi-es.scambertraslator-v1.4.32.apk",
     "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17947,27 +17653,6 @@
         "lang": "es",
         "id": "3984924321110067740",
         "baseUrl": "https://shayami.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: submanga",
-    "pkg": "eu.kanade.tachiyomi.extension.es.submanga",
-    "apk": "tachiyomi-es.submanga-v1.4.5.apk",
-    "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "submanga",
-        "lang": "es",
-        "id": "1200098893271391617",
-        "baseUrl": "https://submanga.io",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18255,6 +17940,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: FMTEAM",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.fmteam",
+    "apk": "tachiyomi-fr.fmteam-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FMTEAM",
+        "lang": "fr",
+        "id": "3999514012368634446",
+        "baseUrl": "https://fmteam.fr",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FR-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.frdashscan",
     "apk": "tachiyomi-fr.frdashscan-v1.4.30.apk",
@@ -18278,10 +17984,10 @@
   {
     "name": "Tachiyomi: FR Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.frscan",
-    "apk": "tachiyomi-fr.frscan-v1.4.7.apk",
+    "apk": "tachiyomi-fr.frscan-v1.4.8.apk",
     "lang": "fr",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18404,10 +18110,10 @@
   {
     "name": "Tachiyomi: Jpmangas",
     "pkg": "eu.kanade.tachiyomi.extension.fr.jpmangas",
-    "apk": "tachiyomi-fr.jpmangas-v1.4.6.apk",
+    "apk": "tachiyomi-fr.jpmangas-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18446,10 +18152,10 @@
   {
     "name": "Tachiyomi: Lelscan-VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
-    "apk": "tachiyomi-fr.lelscanvf-v1.4.6.apk",
+    "apk": "tachiyomi-fr.lelscanvf-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18486,12 +18192,33 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga-FR",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.mangafr",
+    "apk": "tachiyomi-fr.mangafr-v1.4.6.apk",
+    "lang": "fr",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga-FR",
+        "lang": "fr",
+        "id": "1656809105675251389",
+        "baseUrl": "https://manga-fr.me",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangakawaii",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-    "apk": "tachiyomi-fr.mangakawaii-v1.4.36.apk",
+    "apk": "tachiyomi-fr.mangakawaii-v1.4.37.apk",
     "lang": "fr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18572,10 +18299,10 @@
   {
     "name": "Tachiyomi: Op-VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.opvf",
-    "apk": "tachiyomi-fr.opvf-v1.4.5.apk",
+    "apk": "tachiyomi-fr.opvf-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18614,10 +18341,10 @@
   {
     "name": "Tachiyomi: Scan FR",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanfr",
-    "apk": "tachiyomi-fr.scanfr-v1.4.7.apk",
+    "apk": "tachiyomi-fr.scanfr-v1.4.8.apk",
     "lang": "fr",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18656,10 +18383,10 @@
   {
     "name": "Tachiyomi: Scan-1",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanone",
-    "apk": "tachiyomi-fr.scanone-v1.4.7.apk",
+    "apk": "tachiyomi-fr.scanone-v1.4.8.apk",
     "lang": "fr",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18677,10 +18404,10 @@
   {
     "name": "Tachiyomi: Scan OP",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanop",
-    "apk": "tachiyomi-fr.scanop-v1.4.5.apk",
+    "apk": "tachiyomi-fr.scanop-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18719,10 +18446,10 @@
   {
     "name": "Tachiyomi: Scan VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanvf",
-    "apk": "tachiyomi-fr.scanvf-v1.4.6.apk",
+    "apk": "tachiyomi-fr.scanvf-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19263,6 +18990,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komik Chan",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikchan",
+    "apk": "tachiyomi-id.komikchan-v1.4.29.apk",
+    "lang": "id",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komik Chan",
+        "lang": "id",
+        "id": "9120337649658485983",
+        "baseUrl": "https://komikchan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KomikDewasa",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikdewasa",
     "apk": "tachiyomi-id.komikdewasa-v1.4.25.apk",
@@ -19328,10 +19076,10 @@
   {
     "name": "Tachiyomi: Komikid",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikid",
-    "apk": "tachiyomi-id.komikid-v1.4.5.apk",
+    "apk": "tachiyomi-id.komikid-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19685,10 +19433,10 @@
   {
     "name": "Tachiyomi: MangaID",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangaid",
-    "apk": "tachiyomi-id.mangaid-v1.4.6.apk",
+    "apk": "tachiyomi-id.mangaid-v1.4.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19790,10 +19538,10 @@
   {
     "name": "Tachiyomi: Mangasusu",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangasusu",
-    "apk": "tachiyomi-id.mangasusu-v1.4.26.apk",
+    "apk": "tachiyomi-id.mangasusu-v1.4.27.apk",
     "lang": "id",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19802,7 +19550,7 @@
         "name": "Mangasusu",
         "lang": "id",
         "id": "8157748444640827548",
-        "baseUrl": "https://mangasusu.co.in",
+        "baseUrl": "https://mangasusuku.xyz/",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20798,10 +20546,10 @@
   {
     "name": "Tachiyomi: Shingeki no Shoujo",
     "pkg": "eu.kanade.tachiyomi.extension.it.shingekinoshoujo",
-    "apk": "tachiyomi-it.shingekinoshoujo-v1.4.1.apk",
+    "apk": "tachiyomi-it.shingekinoshoujo-v1.4.2.apk",
     "lang": "it",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20810,7 +20558,7 @@
         "name": "Shingeki no Shoujo",
         "lang": "it",
         "id": "8539286681236797568",
-        "baseUrl": "https://shingekinoshoujo.to",
+        "baseUrl": "https://shingekinoshoujo.it",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21645,7 +21393,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki288.net",
+        "baseUrl": "https://manatoki291.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21653,7 +21401,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki288.com",
+        "baseUrl": "https://newtoki291.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21704,10 +21452,10 @@
   {
     "name": "Tachiyomi: Phoenix-Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pl.phoenixscans",
-    "apk": "tachiyomi-pl.phoenixscans-v1.4.6.apk",
+    "apk": "tachiyomi-pl.phoenixscans-v1.4.7.apk",
     "lang": "pl",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21788,10 +21536,10 @@
   {
     "name": "Tachiyomi: Ama Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.amascans",
-    "apk": "tachiyomi-pt.amascans-v1.4.7.apk",
+    "apk": "tachiyomi-pt.amascans-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21830,10 +21578,10 @@
   {
     "name": "Tachiyomi: AnimaRegia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.animaregia",
-    "apk": "tachiyomi-pt.animaregia-v1.4.9.apk",
+    "apk": "tachiyomi-pt.animaregia-v1.4.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22082,10 +21830,10 @@
   {
     "name": "Tachiyomi: Cerise Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.33.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22094,7 +21842,7 @@
         "name": "Cerise Scans",
         "lang": "pt-BR",
         "id": "8629915907358523454",
-        "baseUrl": "https://cerisescan.com",
+        "baseUrl": "https://cerisescans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25881,27 +25629,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: BlogTruyen",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
-    "apk": "tachiyomi-vi.blogtruyen-v1.4.14.apk",
-    "lang": "vi",
-    "code": 14,
-    "version": "1.4.14",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "BlogTruyen",
-        "lang": "vi",
-        "id": "7328966691702591431",
-        "baseUrl": "https://blogtruyen.vn",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Cứu Truyện",
     "pkg": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
     "apk": "tachiyomi-vi.cuutruyen-v1.4.4.apk",
@@ -25919,27 +25646,6 @@
         "baseUrl": "https://cuutruyen.net",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Fallen Angels Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.fallenangelsscans",
-    "apk": "tachiyomi-vi.fallenangelsscans-v1.4.5.apk",
-    "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Fallen Angels Scans",
-        "lang": "vi",
-        "id": "7057887837670164322",
-        "baseUrl": "https://truyen.fascans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -26154,27 +25860,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Phê Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.phemanga",
-    "apk": "tachiyomi-vi.phemanga-v1.4.1.apk",
-    "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Phê Manga",
-        "lang": "vi",
-        "id": "841842111356923980",
-        "baseUrl": "https://phemanga.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: QManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.qmanga",
     "apk": "tachiyomi-vi.qmanga-v1.4.1.apk",
@@ -26282,10 +25967,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.11.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.12.apk",
     "lang": "vi",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26294,7 +25979,7 @@
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "https://truyenqqq.vn",
+        "baseUrl": "https://truyenqqne.com/",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26576,10 +26261,10 @@
   {
     "name": "Tachiyomi: DMZJ",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.4.39.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.4.40.apk",
     "lang": "zh",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26744,10 +26429,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.35.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.36.apk",
     "lang": "zh",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27122,10 +26807,10 @@
   {
     "name": "Tachiyomi: WNACG",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
-    "apk": "tachiyomi-zh.wnacg-v1.4.12.apk",
+    "apk": "tachiyomi-zh.wnacg-v1.4.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27134,7 +26819,7 @@
         "name": "紳士漫畫",
         "lang": "zh",
         "id": "6551136894818591762",
-        "baseUrl": "http://www.htmanga3.top",
+        "baseUrl": "https://www.htmanga3.top, https://www.htmanga4.top, https://www.htmanga5.top",
         "versionId": 1,
         "hasCloudflare": 0
       }
