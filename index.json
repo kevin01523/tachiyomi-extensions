@@ -995,10 +995,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.25.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.26.apk",
     "lang": "all",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8398,6 +8398,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: ElarcPage",
+    "pkg": "eu.kanade.tachiyomi.extension.en.elarcpage",
+    "apk": "tachiyomi-en.elarcpage-v1.4.25.apk",
+    "lang": "en",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ElarcPage",
+        "lang": "en",
+        "id": "5482125641807211052",
+        "baseUrl": "https://elarcpage.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Erofus",
     "pkg": "eu.kanade.tachiyomi.extension.en.erofus",
     "apk": "tachiyomi-en.erofus-v1.4.2.apk",
@@ -13461,10 +13482,10 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.29.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17598,10 +17619,10 @@
   {
     "name": "Tachiyomi: Senpai Ediciones",
     "pkg": "eu.kanade.tachiyomi.extension.es.senpaiediciones",
-    "apk": "tachiyomi-es.senpaiediciones-v1.4.25.apk",
+    "apk": "tachiyomi-es.senpaiediciones-v1.4.26.apk",
     "lang": "es",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -20546,10 +20567,10 @@
   {
     "name": "Tachiyomi: Shingeki no Shoujo",
     "pkg": "eu.kanade.tachiyomi.extension.it.shingekinoshoujo",
-    "apk": "tachiyomi-it.shingekinoshoujo-v1.4.2.apk",
+    "apk": "tachiyomi-it.shingekinoshoujo-v1.4.3.apk",
     "lang": "it",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25629,13 +25650,34 @@
     ]
   },
   {
+    "name": "Tachiyomi: BlogTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
+    "apk": "tachiyomi-vi.blogtruyen-v1.4.15.apk",
+    "lang": "vi",
+    "code": 15,
+    "version": "1.4.15",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BlogTruyen",
+        "lang": "vi",
+        "id": "7328966691702591431",
+        "baseUrl": "https://blogtruyen.vn",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Cứu Truyện",
     "pkg": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
-    "apk": "tachiyomi-vi.cuutruyen-v1.4.4.apk",
+    "apk": "tachiyomi-vi.cuutruyen-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
