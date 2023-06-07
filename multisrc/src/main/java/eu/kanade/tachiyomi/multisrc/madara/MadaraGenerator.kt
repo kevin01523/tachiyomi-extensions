@@ -14,7 +14,7 @@ class MadaraGenerator : ThemeSourceGenerator {
 
     override val sources = listOf(
         MultiLang("Atlantis Scan", "https://atlantisscan.com", listOf("es", "pt-BR"), isNsfw = true),
-        MultiLang("Leviatan Scans", "https://leviatanscans.com", listOf("en", "es"), className = "LeviatanScansFactory", overrideVersionCode = 13),
+        MultiLang("Leviatan Scans", "https://leviatanscans.com", listOf("en", "es"), className = "LeviatanScansFactory", overrideVersionCode = 14),
         MultiLang("MangaForFree.net", "https://mangaforfree.net", listOf("en", "ko", "all"), isNsfw = true, className = "MangaForFreeFactory", pkgName = "mangaforfree", overrideVersionCode = 1),
         MultiLang("Manhwa18.cc", "https://manhwa18.cc", listOf("en", "ko", "all"), isNsfw = true, className = "Manhwa18CcFactory", pkgName = "manhwa18cc", overrideVersionCode = 4),
         MultiLang("Reaper Scans", "https://reaperscans.com", listOf("fr", "tr"), className = "ReaperScansFactory", pkgName = "reaperscans", overrideVersionCode = 12),
@@ -345,7 +345,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Projeto Scanlator", "https://projetoscanlator.com", "pt-BR", overrideVersionCode = 3),
         SingleLang("ROG Mangás", "https://rogmangas.com", "pt-BR", pkgName = "mangasoverall", className = "RogMangas", overrideVersionCode = 1),
         SingleLang("Ragnarok Scanlation", "https://ragnarokscanlation.com", "es", className = "RagnarokScanlation"),
-        SingleLang("RagnarokScan", "https://ragnarokscan.com", "es"),
+        SingleLang("RagnarokScan", "https://ragnarokscan.com", "es", overrideVersionCode = 1),
         SingleLang("Rainbow Fairy Scan", "https://rainbowfairyscan.com", "pt-BR"),
         SingleLang("Random Scan", "https://randomscans.com", "pt-BR", overrideVersionCode = 5),
         SingleLang("RawDEX", "https://rawdex.net", "ko", isNsfw = true, overrideVersionCode = 1),
@@ -394,6 +394,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Taurus Fansub", "https://taurusfansub.com", "es"),
         SingleLang("Tecno Scan", "https://tecnoscann.com", "es"),
         SingleLang("TeenManhua", "https://teenmanhua.com", "en"),
+        SingleLang("Temple Scan", "https://templescan.net", "en"),
         SingleLang("The Beginning After The End", "https://www.thebeginningaftertheend.fr", "fr", overrideVersionCode = 1),
         SingleLang("The Guild", "https://theguildscans.com", "en"),
         SingleLang("The Sugar", "https://thesugarscan.com", "pt-BR"),
