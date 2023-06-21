@@ -6772,10 +6772,10 @@
   {
     "name": "Tachiyomi: Manga.ae",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaae",
-    "apk": "tachiyomi-ar.mangaae-v1.4.9.apk",
+    "apk": "tachiyomi-ar.mangaae-v1.4.10.apk",
     "lang": "ar",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6784,7 +6784,7 @@
         "name": "مانجا العرب",
         "lang": "ar",
         "id": "8899980966961724489",
-        "baseUrl": "https://mngaar.com",
+        "baseUrl": "https://manga.ae",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -14931,10 +14931,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.43.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.4.45.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18257,10 +18257,10 @@
   {
     "name": "Tachiyomi: Bento Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japanread",
-    "apk": "tachiyomi-fr.japanread-v1.4.13.apk",
+    "apk": "tachiyomi-fr.japanread-v1.4.14.apk",
     "lang": "fr",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19202,10 +19202,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.43.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19214,7 +19214,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.site",
+        "baseUrl": "https://komikcast.io",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22901,10 +22901,10 @@
   {
     "name": "Tachiyomi: Mizu Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mizumangas",
-    "apk": "tachiyomi-pt.mizumangas-v1.4.29.apk",
+    "apk": "tachiyomi-pt.mizumangas-v1.4.30.apk",
     "lang": "pt-BR",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22912,9 +22912,9 @@
       {
         "name": "Mizu Mangás",
         "lang": "pt-BR",
-        "id": "930581406053423703",
+        "id": "2812678243743408422",
         "baseUrl": "https://mizumangas.com.br",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -26597,10 +26597,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.4.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
