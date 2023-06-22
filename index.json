@@ -14929,27 +14929,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Reaper Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.45.apk",
-    "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Reaper Scans",
-        "lang": "en",
-        "id": "5177220001642863679",
-        "baseUrl": "https://reaperscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Rio2 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.rio2manga",
     "apk": "tachiyomi-en.rio2manga-v1.4.29.apk",
@@ -27113,7 +27092,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobyw3.com",
+        "baseUrl": "http://www.zerobyw007.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
