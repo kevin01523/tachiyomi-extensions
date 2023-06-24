@@ -3033,10 +3033,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.180.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.181.apk",
     "lang": "all",
-    "code": 180,
-    "version": "1.4.180",
+    "code": 181,
+    "version": "1.4.181",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19559,10 +19559,10 @@
   {
     "name": "Tachiyomi: KumaPoi",
     "pkg": "eu.kanade.tachiyomi.extension.id.kumapoi",
-    "apk": "tachiyomi-id.kumapoi-v1.4.25.apk",
+    "apk": "tachiyomi-id.kumapoi-v1.4.27.apk",
     "lang": "id",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -19571,7 +19571,7 @@
         "name": "KumaPoi",
         "lang": "id",
         "id": "5075847076783200426",
-        "baseUrl": "https://kumapoi.me",
+        "baseUrl": "https://kumapoi.club",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21582,7 +21582,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki293.net",
+        "baseUrl": "https://manatoki294.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21590,7 +21590,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki293.com",
+        "baseUrl": "https://newtoki294.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22334,10 +22334,10 @@
   {
     "name": "Tachiyomi: Glorious Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gloriousscan",
-    "apk": "tachiyomi-pt.gloriousscan-v1.4.29.apk",
+    "apk": "tachiyomi-pt.gloriousscan-v1.4.30.apk",
     "lang": "pt-BR",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22345,9 +22345,9 @@
       {
         "name": "Glorious Scan",
         "lang": "pt-BR",
-        "id": "459966270874012439",
+        "id": "200454435436245822",
         "baseUrl": "https://gloriousscan.com",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -22683,6 +22683,27 @@
         "lang": "pt-BR",
         "id": "5221484950287110636",
         "baseUrl": "https://leitor.kamisama.com.br",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ler Yaoi",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.leryaoi",
+    "apk": "tachiyomi-pt.leryaoi-v1.4.29.apk",
+    "lang": "pt-BR",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ler Yaoi",
+        "lang": "pt-BR",
+        "id": "2716443222421590068",
+        "baseUrl": "https://leryaoi.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23235,6 +23256,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Pink Sea Unicorn",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.pinkseaunicorn",
+    "apk": "tachiyomi-pt.pinkseaunicorn-v1.4.29.apk",
+    "lang": "pt-BR",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pink Sea Unicorn",
+        "lang": "pt-BR",
+        "id": "2541069900188080676",
+        "baseUrl": "https://psunicorn.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Pirulito Rosa",
     "pkg": "eu.kanade.tachiyomi.extension.pt.pirulitorosa",
     "apk": "tachiyomi-pt.pirulitorosa-v1.4.29.apk",
@@ -23649,6 +23691,27 @@
         "lang": "pt-BR",
         "id": "2808515433020154279",
         "baseUrl": "https://sweetscan.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Tankou Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.tankouhentai",
+    "apk": "tachiyomi-pt.tankouhentai-v1.4.29.apk",
+    "lang": "pt-BR",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tankou Hentai",
+        "lang": "pt-BR",
+        "id": "9200419821846585447",
+        "baseUrl": "https://tankouhentai.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
