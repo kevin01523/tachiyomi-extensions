@@ -14,7 +14,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
     override val baseVersionCode: Int = 25
 
     override val sources = listOf(
-        MultiLang("Asura Scans", "https://www.asurascans.com", listOf("en", "tr"), className = "AsuraScansFactory", pkgName = "asurascans", overrideVersionCode = 22),
+        MultiLang("Asura Scans", "https://www.asurascans.com", listOf("en", "tr"), className = "AsuraScansFactory", pkgName = "asurascans", overrideVersionCode = 23),
         MultiLang("Flame Scans", "https://flamescans.org", listOf("en"), className = "FlameScansFactory", pkgName = "flamescans", overrideVersionCode = 4),
         MultiLang("Komik Lab", "https://komiklab.com", listOf("en", "id"), className = "KomikLabFactory", pkgName = "komiklab", overrideVersionCode = 2),
         MultiLang("Miau Scan", "https://miauscan.com", listOf("es", "pt-BR")),
@@ -61,6 +61,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("Kuma Scans (Kuma Translation)", "https://kumascans.com", "en", className = "KumaScans", overrideVersionCode = 1),
         SingleLang("Legacy Scans", "https://legacy-scans.com", "fr", pkgName = "flamescansfr"),
         SingleLang("LianScans", "https://www.lianscans.my.id", "id", isNsfw = true),
+        SingleLang("Lunar Scans", "https://lunarscan.org", "en", isNsfw = true),
         SingleLang("Magus Manga", "https://magusmanga.com", "ar"),
         SingleLang("Manga Indo.me", "https://mangaindo.me", "id", className = "MangaIndoMe"),
         SingleLang("Manga Raw.org", "https://mangaraw.org", "ja", className = "MangaRawOrg", overrideVersionCode = 1),
