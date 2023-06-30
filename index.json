@@ -23,10 +23,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.4.47.apk",
+    "apk": "tachiyomi-all.asurascans-v1.4.48.apk",
     "lang": "all",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -10015,6 +10015,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lunar Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lunarscans",
+    "apk": "tachiyomi-en.lunarscans-v1.4.25.apk",
+    "lang": "en",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lunar Scans",
+        "lang": "en",
+        "id": "3295715182522050094",
+        "baseUrl": "https://lunarscan.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LuxManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.luxmanga",
     "apk": "tachiyomi-en.luxmanga-v1.4.29.apk",
@@ -11590,21 +11611,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MReader",
+    "name": "Tachiyomi: MangaGeko",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.4.17.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MReader",
+        "name": "MangaGeko",
         "lang": "en",
         "id": "734865402529567092",
-        "baseUrl": "https://www.mreader.co",
+        "baseUrl": "https://www.mangageko.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -14133,10 +14154,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.14.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16317,10 +16338,10 @@
   {
     "name": "Tachiyomi: XOXO Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.xoxocomics",
-    "apk": "tachiyomi-en.xoxocomics-v1.4.3.apk",
+    "apk": "tachiyomi-en.xoxocomics-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16329,7 +16350,7 @@
         "name": "XOXO Comics",
         "lang": "en",
         "id": "2385956107618754468",
-        "baseUrl": "https://xoxocomics.com",
+        "baseUrl": "https://xoxocomics.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18501,6 +18522,27 @@
         "lang": "fr",
         "id": "4743523434971368490",
         "baseUrl": "https://www.op-vf.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pantheon Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.pantheonscan",
+    "apk": "tachiyomi-fr.pantheonscan-v1.4.29.apk",
+    "lang": "fr",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pantheon Scan",
+        "lang": "fr",
+        "id": "1615599506055429686",
+        "baseUrl": "https://pantheon-scan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21624,7 +21666,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki294.net",
+        "baseUrl": "https://manatoki295.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21632,7 +21674,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki294.com",
+        "baseUrl": "https://newtoki295.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27122,10 +27164,10 @@
   {
     "name": "Tachiyomi: vomic",
     "pkg": "eu.kanade.tachiyomi.extension.zh.vomic",
-    "apk": "tachiyomi-zh.vomic-v1.4.1.apk",
+    "apk": "tachiyomi-zh.vomic-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
