@@ -14005,6 +14005,48 @@
     ]
   },
   {
+    "name": "Tachiyomi: ReadAllComics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.readallcomicscom",
+    "apk": "tachiyomi-en.readallcomicscom-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReadAllComics",
+        "lang": "en",
+        "id": "58328287106519523",
+        "baseUrl": "https://readallcomics.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ReadAllManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.readallmanga",
+    "apk": "tachiyomi-en.readallmanga-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReadAllManga",
+        "lang": "en",
+        "id": "398376797498891640",
+        "baseUrl": "https://readallmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Read Attack on Titan Shingeki no Kyojin Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
     "apk": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.7.apk",
@@ -19391,10 +19433,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.10.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.11.apk",
     "lang": "id",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27017,10 +27059,10 @@
   {
     "name": "Tachiyomi: NoyAcg",
     "pkg": "eu.kanade.tachiyomi.extension.zh.noyacg",
-    "apk": "tachiyomi-zh.noyacg-v1.4.1.apk",
+    "apk": "tachiyomi-zh.noyacg-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27029,7 +27071,7 @@
         "name": "NoyAcg",
         "lang": "zh",
         "id": "7893367692443604037",
-        "baseUrl": "https://app.noy.asia",
+        "baseUrl": "https://noy1.top",
         "versionId": 1,
         "hasCloudflare": 0
       }
