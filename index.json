@@ -1016,10 +1016,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.28.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.29.apk",
     "lang": "all",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7360,10 +7360,10 @@
   {
     "name": "Tachiyomi: AllAnime",
     "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
-    "apk": "tachiyomi-en.allanime-v1.4.4.apk",
+    "apk": "tachiyomi-en.allanime-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7372,7 +7372,7 @@
         "name": "AllAnime",
         "lang": "en",
         "id": "4709139914729853090",
-        "baseUrl": "https://allanime.to",
+        "baseUrl": "https://allanime.ai",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -9553,6 +9553,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: IsekaiScan.top (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.en.isekaiscantop",
+    "apk": "tachiyomi-en.isekaiscantop-v1.4.29.apk",
+    "lang": "en",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "IsekaiScan.top (unoriginal)",
+        "lang": "en",
+        "id": "2873205829711053655",
+        "baseUrl": "https://isekaiscan.top",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Its Your Right Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.itsyourrightmanhua",
     "apk": "tachiyomi-en.itsyourrightmanhua-v1.4.31.apk",
@@ -10536,6 +10557,27 @@
         "baseUrl": "https://mangacv.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Demon",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
+    "apk": "tachiyomi-en.mangademon-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Demon",
+        "lang": "en",
+        "id": "8089306398534489202",
+        "baseUrl": "https://mangademon.org",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -13881,10 +13923,10 @@
   {
     "name": "Tachiyomi: Questionable Content",
     "pkg": "eu.kanade.tachiyomi.extension.en.questionablecontent",
-    "apk": "tachiyomi-en.questionablecontent-v1.4.6.apk",
+    "apk": "tachiyomi-en.questionablecontent-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14379,6 +14421,27 @@
         "baseUrl": "https://manga.watchgoblinslayer.com",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ReadGojo",
+    "pkg": "eu.kanade.tachiyomi.extension.en.readgojo",
+    "apk": "tachiyomi-en.readgojo-v1.4.25.apk",
+    "lang": "en",
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReadGojo",
+        "lang": "en",
+        "id": "4935725841214594400",
+        "baseUrl": "https://readgojo.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -18299,10 +18362,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.4.40.apk",
+    "apk": "tachiyomi-fr.japscan-v1.4.41.apk",
     "lang": "fr",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
