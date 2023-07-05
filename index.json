@@ -18034,10 +18034,10 @@
   {
     "name": "Tachiyomi: YugenMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.4.15.apk",
+    "apk": "tachiyomi-es.yugenmangas-v1.4.16.apk",
     "lang": "es",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
