@@ -17522,10 +17522,10 @@
   {
     "name": "Tachiyomi: Manhwas.net",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwasnet",
-    "apk": "tachiyomi-es.manhwasnet-v1.4.5.apk",
+    "apk": "tachiyomi-es.manhwasnet-v1.4.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17536,7 +17536,7 @@
         "id": "1326771034671033762",
         "baseUrl": "https://manhwas.net",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
