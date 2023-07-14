@@ -17522,10 +17522,10 @@
   {
     "name": "Tachiyomi: Manhwas.net",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwasnet",
-    "apk": "tachiyomi-es.manhwasnet-v1.4.6.apk",
+    "apk": "tachiyomi-es.manhwasnet-v1.4.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17536,7 +17536,7 @@
         "id": "1326771034671033762",
         "baseUrl": "https://manhwas.net",
         "versionId": 1,
-        "hasCloudflare": 1
+        "hasCloudflare": 0
       }
     ]
   },
@@ -21842,7 +21842,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki296.net",
+        "baseUrl": "https://manatoki297.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21850,7 +21850,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki296.com",
+        "baseUrl": "https://newtoki297.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24799,10 +24799,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.75.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.76.apk",
     "lang": "ru",
-    "code": 75,
-    "version": "1.4.75",
+    "code": 76,
+    "version": "1.4.76",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26269,10 +26269,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.25.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.26.apk",
     "lang": "vi",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26281,7 +26281,7 @@
         "name": "HentaiVN",
         "lang": "vi",
         "id": "6560768551969686205",
-        "baseUrl": "https://hentaivn.site",
+        "baseUrl": "https://hentaivn.autos",
         "versionId": 1,
         "hasCloudflare": 1
       }
