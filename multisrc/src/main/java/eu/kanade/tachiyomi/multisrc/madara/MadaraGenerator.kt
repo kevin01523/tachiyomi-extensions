@@ -10,7 +10,7 @@ class MadaraGenerator : ThemeSourceGenerator {
 
     override val themeClass = "Madara"
 
-    override val baseVersionCode: Int = 30
+    override val baseVersionCode: Int = 31
 
     override val sources = listOf(
         MultiLang("Atlantis Scan", "https://atlantisscan.com", listOf("es", "pt-BR"), isNsfw = true),
@@ -44,6 +44,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Arthur Scan", "https://arthurscan.xyz", "pt-BR", overrideVersionCode = 4),
         SingleLang("Astral Library", "https://www.astrallibrary.net", "en", overrideVersionCode = 2),
         SingleLang("Astral-Manga", "https://astral-manga.fr", "fr", className = "AstralManga"),
+        SingleLang("Astrum Scans", "https://astrumscans.xyz", "pt-BR", isNsfw = true),
         SingleLang("Atikrost", "https://atikrost.com", "tr", overrideVersionCode = 1),
         SingleLang("AZManhwa", "https://azmanhwa.net", "en"),
         SingleLang("Azora", "https://azoranov.com", "ar", overrideVersionCode = 6),
@@ -185,6 +186,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Lord Manga", "https://lordmanga.com", "en"),
         SingleLang("LuxManga", "https://luxmanga.com", "en"),
         SingleLang("MadaraDex", "https://madaradex.org", "en", isNsfw = true, overrideVersionCode = 1),
+        SingleLang("Maid Scan", "https://maidscan.com.br", "pt-BR"),
         SingleLang("Manga Action", "https://mangaaction.com", "en", overrideVersionCode = 2),
         SingleLang("Manga Bilgini", "https://mangabilgini.com", "tr"),
         SingleLang("Manga Bin", "https://mangabin.com", "en", overrideVersionCode = 1),
