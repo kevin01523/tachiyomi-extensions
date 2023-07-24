@@ -4317,10 +4317,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.4.42.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.4.43.apk",
     "lang": "all",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -4377,6 +4377,14 @@
         "name": "MANGA Plus by SHUEISHA",
         "lang": "th",
         "id": "6345211913721743017",
+        "baseUrl": "https://mangaplus.shueisha.co.jp",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MANGA Plus by SHUEISHA",
+        "lang": "vi",
+        "id": "4696259977267090434",
         "baseUrl": "https://mangaplus.shueisha.co.jp",
         "versionId": 1,
         "hasCloudflare": 0
@@ -16785,6 +16793,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Coco Rip",
+    "pkg": "eu.kanade.tachiyomi.extension.es.cocorip",
+    "apk": "tachiyomi-es.cocorip-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Coco Rip",
+        "lang": "es",
+        "id": "2811607756759454878",
+        "baseUrl": "https://cocorip.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CopyPasteScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.copypastescan",
     "apk": "tachiyomi-es.copypastescan-v1.4.32.apk",
@@ -21058,10 +21087,10 @@
   {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
-    "apk": "tachiyomi-ja.kisslove-v1.4.11.apk",
+    "apk": "tachiyomi-ja.kisslove-v1.4.12.apk",
     "lang": "ja",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
