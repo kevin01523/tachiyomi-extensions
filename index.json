@@ -3033,10 +3033,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.183.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.184.apk",
     "lang": "all",
-    "code": 183,
-    "version": "1.4.183",
+    "code": 184,
+    "version": "1.4.184",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -10046,21 +10046,21 @@
   {
     "name": "Tachiyomi: LynxScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.lynxscans",
-    "apk": "tachiyomi-en.lynxscans-v1.4.7.apk",
+    "apk": "tachiyomi-en.lynxscans-v1.4.26.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "LynxScans",
         "lang": "en",
-        "id": "4611641697493597220",
+        "id": "8023573245256501840",
         "baseUrl": "https://lynxscans.com",
-        "versionId": 2,
-        "hasCloudflare": 0
+        "versionId": 3,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -10571,10 +10571,10 @@
   {
     "name": "Tachiyomi: MangaDods",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadods",
-    "apk": "tachiyomi-en.mangadods-v1.4.33.apk",
+    "apk": "tachiyomi-en.mangadods-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10583,7 +10583,7 @@
         "name": "MangaDods",
         "lang": "en",
         "id": "1005243067156766734",
-        "baseUrl": "https://www.mangadods.com",
+        "baseUrl": "https://mangadods.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -13881,6 +13881,27 @@
         "lang": "en",
         "id": "2221515250486218861",
         "baseUrl": "https://pururin.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Queen Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.queenscans",
+    "apk": "tachiyomi-en.queenscans-v1.4.26.apk",
+    "lang": "en",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Queen Scans",
+        "lang": "en",
+        "id": "4680104728999154642",
+        "baseUrl": "https://queenscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26424,10 +26445,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.1.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26436,7 +26457,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.com",
+        "baseUrl": "https://teamlanhlung.vip",
         "versionId": 1,
         "hasCloudflare": 1
       }
