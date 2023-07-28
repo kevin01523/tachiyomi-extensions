@@ -1016,10 +1016,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.30.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.32.apk",
     "lang": "all",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5592,22 +5592,14 @@
   {
     "name": "Tachiyomi: Pixiv",
     "pkg": "eu.kanade.tachiyomi.extension.all.pixiv",
-    "apk": "tachiyomi-all.pixiv-v1.4.3.apk",
+    "apk": "tachiyomi-all.pixiv-v1.4.5.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
-      {
-        "name": "Pixiv",
-        "lang": "all",
-        "id": "1540319425449652195",
-        "baseUrl": "https://www.pixiv.net",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
       {
         "name": "Pixiv",
         "lang": "ja",
@@ -8032,27 +8024,6 @@
         "lang": "en",
         "id": "8305623360897841462",
         "baseUrl": "https://comickiba.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Constellar Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.constellarscans",
-    "apk": "tachiyomi-en.constellarscans-v1.4.40.apk",
-    "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
-    "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Constellar Scans",
-        "lang": "en",
-        "id": "621381833080231711",
-        "baseUrl": "https://constellarscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
