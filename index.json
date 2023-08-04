@@ -1016,10 +1016,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.32.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.33.apk",
     "lang": "all",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8263,10 +8263,10 @@
   {
     "name": "Tachiyomi: DragonTea",
     "pkg": "eu.kanade.tachiyomi.extension.en.dragontea",
-    "apk": "tachiyomi-en.dragontea-v1.4.32.apk",
+    "apk": "tachiyomi-en.dragontea-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21800,7 +21800,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki299.net",
+        "baseUrl": "https://manatoki301.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21808,7 +21808,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki299.com",
+        "baseUrl": "https://newtoki301.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
