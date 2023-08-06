@@ -3033,10 +3033,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.185.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.186.apk",
     "lang": "all",
-    "code": 185,
-    "version": "1.4.185",
+    "code": 186,
+    "version": "1.4.186",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -3051,8 +3051,24 @@
       },
       {
         "name": "MangaDex",
+        "lang": "sq",
+        "id": "987803387023224960",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
         "lang": "ar",
         "id": "3339599426223341161",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "az",
+        "id": "9127464796236242233",
         "baseUrl": "https://mangadex.org",
         "versionId": 1,
         "hasCloudflare": 0
@@ -3107,6 +3123,14 @@
       },
       {
         "name": "MangaDex",
+        "lang": "hr",
+        "id": "8548374501079910130",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
         "lang": "cs",
         "id": "3578612018159256808",
         "baseUrl": "https://mangadex.org",
@@ -3131,6 +3155,22 @@
       },
       {
         "name": "MangaDex",
+        "lang": "eo",
+        "id": "2819252027406613931",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "et",
+        "id": "8773024089257004344",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
         "lang": "fil",
         "id": "8578871918181236609",
         "baseUrl": "https://mangadex.org",
@@ -3149,6 +3189,14 @@
         "name": "MangaDex",
         "lang": "fr",
         "id": "4505830566611664829",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "ka",
+        "id": "8952567078513962586",
         "baseUrl": "https://mangadex.org",
         "versionId": 1,
         "hasCloudflare": 0
@@ -3331,8 +3379,24 @@
       },
       {
         "name": "MangaDex",
+        "lang": "sr",
+        "id": "3507378005483435886",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
         "lang": "sh",
         "id": "4710920497926776490",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "sk",
+        "id": "2875503798326600410",
         "baseUrl": "https://mangadex.org",
         "versionId": 1,
         "hasCloudflare": 0
@@ -3365,6 +3429,14 @@
         "name": "MangaDex",
         "lang": "ta",
         "id": "4273071356706429527",
+        "baseUrl": "https://mangadex.org",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaDex",
+        "lang": "te",
+        "id": "6886894829142702925",
         "baseUrl": "https://mangadex.org",
         "versionId": 1,
         "hasCloudflare": 0
@@ -7381,10 +7453,10 @@
   {
     "name": "Tachiyomi: AllAnime",
     "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
-    "apk": "tachiyomi-en.allanime-v1.4.5.apk",
+    "apk": "tachiyomi-en.allanime-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10542,10 +10614,10 @@
   {
     "name": "Tachiyomi: Manga District",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadistrict",
-    "apk": "tachiyomi-en.mangadistrict-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangadistrict-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16703,11 +16775,11 @@
   {
     "name": "Tachiyomi: AiYuManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.aiyumanga",
-    "apk": "tachiyomi-es.aiyumanga-v1.4.32.apk",
+    "apk": "tachiyomi-es.aiyumanga-v1.4.33.apk",
     "lang": "es",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16715,7 +16787,7 @@
         "name": "AiYuManga",
         "lang": "es",
         "id": "4037099760593306450",
-        "baseUrl": "https://aiyumangascanlation.com",
+        "baseUrl": "https://aiyumanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18328,10 +18400,10 @@
   {
     "name": "Tachiyomi: FuryoSquad",
     "pkg": "eu.kanade.tachiyomi.extension.fr.furyosquad",
-    "apk": "tachiyomi-fr.furyosquad-v1.4.2.apk",
+    "apk": "tachiyomi-fr.furyosquad-v1.4.3.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18340,7 +18412,7 @@
         "name": "FuryoSquad",
         "lang": "fr",
         "id": "267710359229814456",
-        "baseUrl": "https://www.furyosquad.com/",
+        "baseUrl": "https://www.furyosociety.com/",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26290,10 +26362,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.28.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.29.apk",
     "lang": "vi",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26301,7 +26373,7 @@
       {
         "name": "HentaiVN",
         "lang": "vi",
-        "id": "6560768551969686205",
+        "id": "7173390495455323659",
         "baseUrl": "https://hentaivn.tv",
         "versionId": 1,
         "hasCloudflare": 1
@@ -27298,10 +27370,10 @@
   {
     "name": "Tachiyomi: Qinqin Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.qinqin",
-    "apk": "tachiyomi-zh.qinqin-v1.4.10.apk",
+    "apk": "tachiyomi-zh.qinqin-v1.4.11.apk",
     "lang": "zh",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27310,7 +27382,7 @@
         "name": "亲亲漫画",
         "lang": "zh",
         "id": "5708464438257530526",
-        "baseUrl": "https://www.acgqd.com",
+        "baseUrl": "https://www.acgud.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
