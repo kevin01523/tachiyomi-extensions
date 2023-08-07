@@ -4831,27 +4831,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MWManhwa",
-    "pkg": "eu.kanade.tachiyomi.extension.all.mwmanhwa",
-    "apk": "tachiyomi-all.mwmanhwa-v1.4.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MWManhwa",
-        "lang": "all",
-        "id": "3977886331011695481",
-        "baseUrl": "https://mwmanhwa.net",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
     "apk": "tachiyomi-all.myreadingmanga-v1.4.47.apk",
@@ -6926,27 +6905,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: مانجا العرب Manga Alarab",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalarab",
-    "apk": "tachiyomi-ar.mangalarab-v1.4.32.apk",
-    "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "مانجا العرب Manga Alarab",
-        "lang": "ar",
-        "id": "3659349346202197160",
-        "baseUrl": "https://manga-alarab.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
     "apk": "tachiyomi-ar.mangalek-v1.4.33.apk",
@@ -7033,10 +6991,10 @@
   {
     "name": "Tachiyomi: MangaSpark",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaspark",
-    "apk": "tachiyomi-ar.mangaspark-v1.4.33.apk",
+    "apk": "tachiyomi-ar.mangaspark-v1.4.34.apk",
     "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8041,10 +7999,10 @@
   {
     "name": "Tachiyomi: Colored Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.coloredmanga",
-    "apk": "tachiyomi-en.coloredmanga-v1.4.32.apk",
+    "apk": "tachiyomi-en.coloredmanga-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11263,27 +11221,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Kio",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangakio",
-    "apk": "tachiyomi-en.mangakio-v1.4.32.apk",
-    "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Kio",
-        "lang": "en",
-        "id": "1809032265411406487",
-        "baseUrl": "https://mangakio.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Kiss",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakiss",
     "apk": "tachiyomi-en.mangakiss-v1.4.32.apk",
@@ -12418,27 +12355,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ManhuaManga.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhuamanganet",
-    "apk": "tachiyomi-en.manhuamanganet-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhuaManga.net",
-        "lang": "en",
-        "id": "4446065254429792869",
-        "baseUrl": "https://manhuamanga.net",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manhua Plus",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuaplus",
     "apk": "tachiyomi-en.manhuaplus-v1.4.37.apk",
@@ -12792,27 +12708,6 @@
         "baseUrl": "https://manhwalover.com",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ManhwaManga.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhwamanganet",
-    "apk": "tachiyomi-en.manhwamanganet-v1.4.8.apk",
-    "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhwaManga.net",
-        "lang": "en",
-        "id": "5866007440358889004",
-        "baseUrl": "https://manhwamanga.net",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
@@ -18127,10 +18022,10 @@
   {
     "name": "Tachiyomi: YugenMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.4.21.apk",
+    "apk": "tachiyomi-es.yugenmangas-v1.4.22.apk",
     "lang": "es",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18169,10 +18064,10 @@
   {
     "name": "Tachiyomi: AralosBD",
     "pkg": "eu.kanade.tachiyomi.extension.fr.aralosbd",
-    "apk": "tachiyomi-fr.aralosbd-v1.4.4.apk",
+    "apk": "tachiyomi-fr.aralosbd-v1.4.5.apk",
     "lang": "fr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18316,10 +18211,10 @@
   {
     "name": "Tachiyomi: FMTEAM",
     "pkg": "eu.kanade.tachiyomi.extension.fr.fmteam",
-    "apk": "tachiyomi-fr.fmteam-v1.4.1.apk",
+    "apk": "tachiyomi-fr.fmteam-v1.4.2.apk",
     "lang": "fr",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18327,9 +18222,9 @@
       {
         "name": "FMTEAM",
         "lang": "fr",
-        "id": "3999514012368634446",
+        "id": "7699632518084274667",
         "baseUrl": "https://fmteam.fr",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 0
       }
     ]
@@ -21361,11 +21256,11 @@
   {
     "name": "Tachiyomi: MangaRaw",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga9co",
-    "apk": "tachiyomi-ja.manga9co-v1.4.6.apk",
+    "apk": "tachiyomi-ja.manga9co-v1.4.7.apk",
     "lang": "ja",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
+    "code": 7,
+    "version": "1.4.7",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21437,27 +21332,6 @@
         "lang": "ja",
         "id": "6223520752496636410",
         "baseUrl": "https://mangaraw.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaRawRU",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.mangarawru",
-    "apk": "tachiyomi-ja.mangarawru-v1.4.5.apk",
-    "lang": "ja",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaRawRU",
-        "lang": "ja",
-        "id": "4141244548126370547",
-        "baseUrl": "https://mangaraw.ru",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21634,10 +21508,10 @@
   {
     "name": "Tachiyomi: SyoSetu",
     "pkg": "eu.kanade.tachiyomi.extension.ja.syosetu",
-    "apk": "tachiyomi-ja.syosetu-v1.4.4.apk",
+    "apk": "tachiyomi-ja.syosetu-v1.4.5.apk",
     "lang": "ja",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23821,10 +23695,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscans",
-    "apk": "tachiyomi-pt.reaperscans-v1.4.51.apk",
+    "apk": "tachiyomi-pt.reaperscans-v1.4.52.apk",
     "lang": "pt-BR",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25766,27 +25640,6 @@
         "lang": "tr",
         "id": "2533138448805911283",
         "baseUrl": "https://jiangzaitoon.co",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Bilgini",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangabilgini",
-    "apk": "tachiyomi-tr.mangabilgini-v1.4.31.apk",
-    "lang": "tr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Bilgini",
-        "lang": "tr",
-        "id": "6134278003502231085",
-        "baseUrl": "https://mangabilgini.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
