@@ -5509,6 +5509,59 @@
     ]
   },
   {
+    "name": "Tachiyomi: 999Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ninenineninehentai",
+    "apk": "tachiyomi-all.ninenineninehentai-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "999Hentai",
+        "lang": "all",
+        "id": "5098173700376022513",
+        "baseUrl": "https://999hentai.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "999Hentai",
+        "lang": "en",
+        "id": "4370122548313941497",
+        "baseUrl": "https://999hentai.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "999Hentai",
+        "lang": "ja",
+        "id": "8948948503520127713",
+        "baseUrl": "https://999hentai.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "999Hentai",
+        "lang": "zh",
+        "id": "3874510362699054213",
+        "baseUrl": "https://999hentai.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      },
+      {
+        "name": "999Hentai",
+        "lang": "es",
+        "id": "2790053117909987291",
+        "baseUrl": "https://999hentai.to",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NOISE Manga",
     "pkg": "eu.kanade.tachiyomi.extension.all.noisemanga",
     "apk": "tachiyomi-all.noisemanga-v1.4.5.apk",
@@ -17342,10 +17395,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.35.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17615,10 +17668,10 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.3.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.4.apk",
     "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17627,7 +17680,7 @@
         "name": "Olympus Scanlation",
         "lang": "es",
         "id": "1163124599525658616",
-        "baseUrl": "https://olympusscans.com",
+        "baseUrl": "https://olympusv2.gg",
         "versionId": 2,
         "hasCloudflare": 0
       }
@@ -26215,10 +26268,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.29.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.30.apk",
     "lang": "vi",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26635,10 +26688,10 @@
   {
     "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.4.20.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.4.21.apk",
     "lang": "zh",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
