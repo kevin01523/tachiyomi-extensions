@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit
 
 class NinjaScan : Madara(
     "Ninja Scan",
-    "https://ninjascan.xyz",
+    "https://ninjascan.site",
     "pt-BR",
     SimpleDateFormat("dd 'de' MMMMM 'de' yyyy", Locale("pt", "BR")),
 ) {
@@ -17,4 +17,6 @@ class NinjaScan : Madara(
     override val client: OkHttpClient = super.client.newBuilder()
         .rateLimit(1, 2, TimeUnit.SECONDS)
         .build()
+
+    override val useNewChapterEndpoint = true
 }
