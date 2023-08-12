@@ -3,10 +3,10 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlinx-serialization'
 
 ext {
-    extName = 'NovelCool'
-    pkgNameSuffix = 'all.novelcool'
-    extClass = '.NovelCoolFactory'
-    extVersionCode = 2
+    extName = 'Yomu Mangás'
+    pkgNameSuffix = 'pt.yomumangas'
+    extClass = '.YomuMangas'
+    extVersionCode = 1
     isNsfw = true
 }
 
