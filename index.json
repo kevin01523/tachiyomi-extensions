@@ -23,10 +23,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.4.50.apk",
+    "apk": "tachiyomi-all.asurascans-v1.4.51.apk",
     "lang": "all",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -35,7 +35,7 @@
         "name": "Asura Scans",
         "lang": "en",
         "id": "6247824327199706550",
-        "baseUrl": "https://asura.gg",
+        "baseUrl": "https://asura.nacm.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -7344,10 +7344,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.11.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.12.apk",
     "lang": "ar",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7356,7 +7356,7 @@
         "name": "Team X",
         "lang": "ar",
         "id": "4110737012647435874",
-        "baseUrl": "https://team1x1.fun",
+        "baseUrl": "https://teamxnovel.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17464,10 +17464,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.36.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17476,7 +17476,7 @@
         "name": "Manga Crab",
         "lang": "es",
         "id": "6167683270485370369",
-        "baseUrl": "https://mangacrab.com",
+        "baseUrl": "https://manga-crab.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23164,27 +23164,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangazim",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangazim",
-    "apk": "tachiyomi-pt.mangazim-v1.4.7.apk",
-    "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangazim",
-        "lang": "pt-BR",
-        "id": "2261479970554286738",
-        "baseUrl": "https://mangazim.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MHentais",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mhentais",
     "apk": "tachiyomi-pt.mhentais-v1.4.32.apk",
@@ -24489,10 +24468,10 @@
   {
     "name": "Tachiyomi: Yomu Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yomumangas",
-    "apk": "tachiyomi-pt.yomumangas-v1.4.1.apk",
+    "apk": "tachiyomi-pt.yomumangas-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
