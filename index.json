@@ -1989,10 +1989,10 @@
   {
     "name": "Tachiyomi: Everia.club",
     "pkg": "eu.kanade.tachiyomi.extension.all.everiaclub",
-    "apk": "tachiyomi-all.everiaclub-v1.4.6.apk",
+    "apk": "tachiyomi-all.everiaclub-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2450,6 +2450,43 @@
         "lang": "en",
         "id": "7820880467432898007",
         "baseUrl": "https://hni-scantrad.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HOLONOMETRIA",
+    "pkg": "eu.kanade.tachiyomi.extension.all.holonometria",
+    "apk": "tachiyomi-all.holonometria-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HOLONOMETRIA",
+        "lang": "ja",
+        "id": "8779183423368672304",
+        "baseUrl": "https://alt.hololive.tv",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "HOLONOMETRIA",
+        "lang": "en",
+        "id": "1334492919632049277",
+        "baseUrl": "https://alt.hololive.tv",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "HOLONOMETRIA",
+        "lang": "id",
+        "id": "5054301488874110968",
+        "baseUrl": "https://alt.hololive.tv",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -5587,10 +5624,10 @@
   {
     "name": "Tachiyomi: 999Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ninenineninehentai",
-    "apk": "tachiyomi-all.ninenineninehentai-v1.4.1.apk",
+    "apk": "tachiyomi-all.ninenineninehentai-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8827,10 +8864,10 @@
   {
     "name": "Tachiyomi: Drake Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.drakescans",
-    "apk": "tachiyomi-en.drakescans-v1.4.34.apk",
+    "apk": "tachiyomi-en.drakescans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20047,10 +20084,10 @@
   {
     "name": "Tachiyomi: FR-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.frdashscan",
-    "apk": "tachiyomi-fr.frdashscan-v1.4.32.apk",
+    "apk": "tachiyomi-fr.frdashscan-v1.4.33.apk",
     "lang": "fr",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20059,7 +20096,7 @@
         "name": "FR-Scan",
         "lang": "fr",
         "id": "9131824751687740063",
-        "baseUrl": "https://fr-scan.com",
+        "baseUrl": "https://fr-scan.cc",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22796,27 +22833,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Shingeki no Shoujo",
-    "pkg": "eu.kanade.tachiyomi.extension.it.shingekinoshoujo",
-    "apk": "tachiyomi-it.shingekinoshoujo-v1.4.3.apk",
-    "lang": "it",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Shingeki no Shoujo",
-        "lang": "it",
-        "id": "8539286681236797568",
-        "baseUrl": "https://shingekinoshoujo.it",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: TuttoAnimeManga",
     "pkg": "eu.kanade.tachiyomi.extension.it.tuttoanimemanga",
     "apk": "tachiyomi-it.tuttoanimemanga-v1.4.6.apk",
@@ -24859,10 +24875,10 @@
   {
     "name": "Tachiyomi: Mangás Chan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaschan",
-    "apk": "tachiyomi-pt.mangaschan-v1.4.26.apk",
+    "apk": "tachiyomi-pt.mangaschan-v1.4.27.apk",
     "lang": "pt-BR",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -24871,7 +24887,7 @@
         "name": "Mangás Chan",
         "lang": "pt-BR",
         "id": "2691607827452752161",
-        "baseUrl": "https://mangaschan.com",
+        "baseUrl": "https://mangaschan.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
