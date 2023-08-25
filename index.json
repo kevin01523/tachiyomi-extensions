@@ -15196,10 +15196,10 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.34.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19895,10 +19895,10 @@
   {
     "name": "Tachiyomi: YugenMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.4.24.apk",
+    "apk": "tachiyomi-es.yugenmangas-v1.4.25.apk",
     "lang": "es",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19907,7 +19907,7 @@
         "name": "YugenMangas",
         "lang": "es",
         "id": "4657393995731164616",
-        "baseUrl": "https://yugenmangas.lat",
+        "baseUrl": "https://yugenmangas.net",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -19937,10 +19937,10 @@
   {
     "name": "Tachiyomi: AralosBD",
     "pkg": "eu.kanade.tachiyomi.extension.fr.aralosbd",
-    "apk": "tachiyomi-fr.aralosbd-v1.4.5.apk",
+    "apk": "tachiyomi-fr.aralosbd-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20189,10 +20189,10 @@
   {
     "name": "Tachiyomi: HentaiZone",
     "pkg": "eu.kanade.tachiyomi.extension.fr.hentaizone",
-    "apk": "tachiyomi-fr.hentaizone-v1.4.31.apk",
+    "apk": "tachiyomi-fr.hentaizone-v1.4.32.apk",
     "lang": "fr",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20601,6 +20601,27 @@
         "lang": "fr",
         "id": "8373267671495516033",
         "baseUrl": "https://raijinscans.fr",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ReaderGen",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.readergen",
+    "apk": "tachiyomi-fr.readergen-v1.4.31.apk",
+    "lang": "fr",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReaderGen",
+        "lang": "fr",
+        "id": "7001228692542929165",
+        "baseUrl": "https://fr.readergen.fr",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24455,10 +24476,10 @@
   {
     "name": "Tachiyomi: Glorious Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gloriousscan",
-    "apk": "tachiyomi-pt.gloriousscan-v1.4.34.apk",
+    "apk": "tachiyomi-pt.gloriousscan-v1.4.35.apk",
     "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25589,10 +25610,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscans",
-    "apk": "tachiyomi-pt.reaperscans-v1.4.53.apk",
+    "apk": "tachiyomi-pt.reaperscans-v1.4.54.apk",
     "lang": "pt-BR",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
