@@ -7436,10 +7436,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.37.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.38.apk",
     "lang": "ar",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -7448,7 +7448,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://swatop.club",
+        "baseUrl": "https://stmgs.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -10030,10 +10030,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.40.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10042,7 +10042,7 @@
         "name": "Hiperdex",
         "lang": "en",
         "id": "3064755045370217842",
-        "baseUrl": "https://1sthiperdex.com",
+        "baseUrl": "https://hiperdex.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19822,6 +19822,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: TempleScan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
+    "apk": "tachiyomi-es.templescanesp-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TempleScan",
+        "lang": "es",
+        "id": "5156005718098309529",
+        "baseUrl": "https://templescanesp.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TenkaiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tenkaiscan",
     "apk": "tachiyomi-es.tenkaiscan-v1.4.26.apk",
@@ -19860,6 +19881,27 @@
         "baseUrl": "https://tmohentai.com",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Traducciones Moonlight",
+    "pkg": "eu.kanade.tachiyomi.extension.es.traduccionesmoonlight",
+    "apk": "tachiyomi-es.traduccionesmoonlight-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Traducciones Moonlight",
+        "lang": "es",
+        "id": "3078082450536171700",
+        "baseUrl": "https://traduccionesmoonlight.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -19921,6 +19963,27 @@
         "lang": "es",
         "id": "6185754253712667540",
         "baseUrl": "https://lectorunitoon.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Unitoon Oficial",
+    "pkg": "eu.kanade.tachiyomi.extension.es.unitoonoficial",
+    "apk": "tachiyomi-es.unitoonoficial-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Unitoon Oficial",
+        "lang": "es",
+        "id": "2422714322713320966",
+        "baseUrl": "https://unitoonoficial.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20462,10 +20525,10 @@
   {
     "name": "Tachiyomi: Manga-FR",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangafr",
-    "apk": "tachiyomi-fr.mangafr-v1.4.6.apk",
+    "apk": "tachiyomi-fr.mangafr-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24222,21 +24285,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Cerise Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.36.apk",
+    "name": "Tachiyomi: Cerise Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescan",
+    "apk": "tachiyomi-pt.cerisescan-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Cerise Scans",
+        "name": "Cerise Scan",
         "lang": "pt-BR",
-        "id": "8629915907358523454",
-        "baseUrl": "https://cerisescans.com",
+        "id": "2786985044432914203",
+        "baseUrl": "https://cerisescan.com/home1",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24553,6 +24616,27 @@
         "id": "38569701795132984",
         "baseUrl": "https://gekkou.com.br",
         "versionId": 2,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ghost Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.ghostscan",
+    "apk": "tachiyomi-pt.ghostscan-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ghost Scan",
+        "lang": "pt-BR",
+        "id": "2150748053027323425",
+        "baseUrl": "https://ghostscan.com.br",
+        "versionId": 1,
         "hasCloudflare": 1
       }
     ]
@@ -27933,27 +28017,6 @@
         "lang": "tr",
         "id": "9068262319581900273",
         "baseUrl": "https://mangawt.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mono Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.monomanga",
-    "apk": "tachiyomi-tr.monomanga-v1.4.31.apk",
-    "lang": "tr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mono Manga",
-        "lang": "tr",
-        "id": "7385940383162035314",
-        "baseUrl": "https://monomanga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
