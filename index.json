@@ -8526,6 +8526,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Collected Curios",
+    "pkg": "eu.kanade.tachiyomi.extension.en.collectedcurios",
+    "apk": "tachiyomi-en.collectedcurios-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Collected Curios",
+        "lang": "en",
+        "id": "1896428900030795228",
+        "baseUrl": "https://www.collectedcurios.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Colored Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.coloredmanga",
     "apk": "tachiyomi-en.coloredmanga-v1.4.33.apk",
@@ -24286,8 +24307,8 @@
   },
   {
     "name": "Tachiyomi: Cerise Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescan",
-    "apk": "tachiyomi-pt.cerisescan-v1.4.37.apk",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.37.apk",
     "lang": "pt-BR",
     "code": 37,
     "version": "1.4.37",
@@ -24298,7 +24319,7 @@
       {
         "name": "Cerise Scan",
         "lang": "pt-BR",
-        "id": "2786985044432914203",
+        "id": "8629915907358523454",
         "baseUrl": "https://cerisescan.com/home1",
         "versionId": 1,
         "hasCloudflare": 1
@@ -29390,10 +29411,10 @@
   {
     "name": "Tachiyomi: Manwa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manwa",
-    "apk": "tachiyomi-zh.manwa-v1.4.2.apk",
+    "apk": "tachiyomi-zh.manwa-v1.4.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
