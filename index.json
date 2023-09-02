@@ -27836,10 +27836,10 @@
   {
     "name": "Tachiyomi: Hentai CB",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.36.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.37.apk",
     "lang": "vi",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27848,7 +27848,7 @@
         "name": "Hentai CB",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://cubeteam.xyz",
+        "baseUrl": "https://hentaicube.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27962,10 +27962,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.20.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.21.apk",
     "lang": "vi",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27974,7 +27974,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "https://www.nettruyenmax.com",
+        "baseUrl": "https://www.nettruyenus.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
