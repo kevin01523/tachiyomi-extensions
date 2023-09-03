@@ -1014,6 +1014,131 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comic Fury",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comicfury",
+    "apk": "tachiyomi-all.comicfury-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comic Fury",
+        "lang": "all",
+        "id": "5182817189941556265",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "en",
+        "id": "6251704791239468278",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "es",
+        "id": "4984634867953711392",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "pt-BR",
+        "id": "8655141799625656041",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "de",
+        "id": "7464199493988606175",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "fr",
+        "id": "2880365189708146138",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "it",
+        "id": "4412608991854703246",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "pl",
+        "id": "7974978914502436971",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "ja",
+        "id": "8819952928004218630",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "zh",
+        "id": "6187036261988654925",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "ru",
+        "id": "2995199135797572970",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "fi",
+        "id": "6411256237640188165",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury",
+        "lang": "other",
+        "id": "501810935334397655",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "Comic Fury (No Text)",
+        "lang": "other",
+        "id": "2537678488019181229",
+        "baseUrl": "https://comicfury.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
     "apk": "tachiyomi-all.comickfun-v1.4.34.apk",
@@ -25400,10 +25525,10 @@
   {
     "name": "Tachiyomi: Random Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.36.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25412,7 +25537,7 @@
         "name": "Random Scan",
         "lang": "pt-BR",
         "id": "8295593204533043008",
-        "baseUrl": "https://randomscans.com",
+        "baseUrl": "https://randomscanlators.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28004,10 +28129,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.13.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.14.apk",
     "lang": "vi",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28016,7 +28141,7 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
-        "baseUrl": "https://nhattruyenmin.com",
+        "baseUrl": "https://nhattruyenplus.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
