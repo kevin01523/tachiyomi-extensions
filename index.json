@@ -9229,6 +9229,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: EnryuManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.enryumanga",
+    "apk": "tachiyomi-en.enryumanga-v1.4.26.apk",
+    "lang": "en",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "EnryuManga",
+        "lang": "en",
+        "id": "1541707858895373368",
+        "baseUrl": "https://enryumanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Erofus",
     "pkg": "eu.kanade.tachiyomi.extension.en.erofus",
     "apk": "tachiyomi-en.erofus-v1.4.2.apk",
@@ -27554,6 +27575,27 @@
         "lang": "tr",
         "id": "9068262319581900273",
         "baseUrl": "https://mangawt.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Moon Daisy Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.moondaisyscans",
+    "apk": "tachiyomi-tr.moondaisyscans-v1.4.26.apk",
+    "lang": "tr",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Moon Daisy Scans",
+        "lang": "tr",
+        "id": "2732049206654972364",
+        "baseUrl": "https://moondaisyscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
