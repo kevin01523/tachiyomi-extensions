@@ -21595,10 +21595,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.45.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.46.apk",
     "lang": "id",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22349,21 +22349,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MasterKomik",
+    "name": "Tachiyomi: Tenshi.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.masterkomik",
-    "apk": "tachiyomi-id.masterkomik-v1.4.27.apk",
+    "apk": "tachiyomi-id.masterkomik-v1.4.28.apk",
     "lang": "id",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MasterKomik",
+        "name": "Tenshi.id",
         "lang": "id",
         "id": "3146720114171452298",
-        "baseUrl": "https://masterkomik.com",
+        "baseUrl": "https://tenshi.id",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23975,7 +23975,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki305.net",
+        "baseUrl": "https://manatoki306.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -23983,7 +23983,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki305.com",
+        "baseUrl": "https://newtoki306.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26491,10 +26491,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.76.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.77.apk",
     "lang": "ru",
-    "code": 76,
-    "version": "1.4.76",
+    "code": 77,
+    "version": "1.4.77",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
