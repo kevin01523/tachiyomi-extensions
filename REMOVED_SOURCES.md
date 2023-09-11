@@ -10,6 +10,7 @@ Here is a list of known sources that were removed.
 
 ### Too difficult to maintain
 
+- Bakai https://github.com/tachiyomiorg/tachiyomi-extensions/pull/17890
 - ColaManhua (COLA漫画) https://github.com/tachiyomiorg/tachiyomi-extensions/pull/11445
 - Comikey https://github.com/tachiyomiorg/tachiyomi-extensions/pull/11971
 - Constellar Scans https://github.com/tachiyomiorg/tachiyomi-extensions/pull/17277
@@ -18,6 +19,7 @@ Here is a list of known sources that were removed.
 - Hentai Kai https://github.com/tachiyomiorg/tachiyomi-extensions/issues/9999
 - Hitomi.la https://github.com/tachiyomiorg/tachiyomi-extensions/pull/11613
 - HQ Dragon https://github.com/tachiyomiorg/tachiyomi-extensions/pull/7065
+- Japscan https://github.com/tachiyomiorg/tachiyomi-extensions/pull/17892
 - Koushoku https://github.com/tachiyomiorg/tachiyomi-extensions/pull/13329
 - LeerCapitulo https://github.com/tachiyomiorg/tachiyomi-extensions/pull/16255
 - Mangá Host https://github.com/tachiyomiorg/tachiyomi-extensions/pull/7065
