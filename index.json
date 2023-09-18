@@ -24564,10 +24564,10 @@
   {
     "name": "Tachiyomi: Golden Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
-    "apk": "tachiyomi-pt.goldenmangas-v1.4.20.apk",
+    "apk": "tachiyomi-pt.goldenmangas-v1.4.21.apk",
     "lang": "pt-BR",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24576,7 +24576,7 @@
         "name": "Golden Mangás",
         "lang": "pt-BR",
         "id": "6858719406079923084",
-        "baseUrl": "https://goldenmanga.top",
+        "baseUrl": "https://www.goldenmangas.top",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26370,10 +26370,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.78.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.79.apk",
     "lang": "ru",
-    "code": 78,
-    "version": "1.4.78",
+    "code": 79,
+    "version": "1.4.79",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
