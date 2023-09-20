@@ -9423,6 +9423,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Freak Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.freakscans",
+    "apk": "tachiyomi-en.freakscans-v1.4.26.apk",
+    "lang": "en",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Freak Scans",
+        "lang": "en",
+        "id": "5596420054123855921",
+        "baseUrl": "https://freakscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Free Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.freemanga",
     "apk": "tachiyomi-en.freemanga-v1.4.34.apk",
@@ -11609,10 +11630,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.4.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21810,10 +21831,10 @@
   {
     "name": "Tachiyomi: Komik Station",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikstation",
-    "apk": "tachiyomi-id.komikstation-v1.4.29.apk",
+    "apk": "tachiyomi-id.komikstation-v1.4.30.apk",
     "lang": "id",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -24564,10 +24585,10 @@
   {
     "name": "Tachiyomi: Golden Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
-    "apk": "tachiyomi-pt.goldenmangas-v1.4.21.apk",
+    "apk": "tachiyomi-pt.goldenmangas-v1.4.22.apk",
     "lang": "pt-BR",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24576,7 +24597,7 @@
         "name": "Golden Mangás",
         "lang": "pt-BR",
         "id": "6858719406079923084",
-        "baseUrl": "https://www.goldenmangas.top",
+        "baseUrl": "https://www.goldenmanga.top",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25131,10 +25152,10 @@
   {
     "name": "Tachiyomi: Mundo Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundowebtoon",
-    "apk": "tachiyomi-pt.mundowebtoon-v1.4.7.apk",
+    "apk": "tachiyomi-pt.mundowebtoon-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
