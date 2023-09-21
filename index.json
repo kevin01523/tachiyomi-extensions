@@ -4892,10 +4892,10 @@
   {
     "name": "Tachiyomi: Manhwa18.net",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhwa18net",
-    "apk": "tachiyomi-all.manhwa18net-v1.4.8.apk",
+    "apk": "tachiyomi-all.manhwa18net-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8104,6 +8104,27 @@
         "lang": "en",
         "id": "8861274191478178487",
         "baseUrl": "https://arenascans.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Arven Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
+    "apk": "tachiyomi-en.arvenscans-v1.4.26.apk",
+    "lang": "en",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Arven Scans",
+        "lang": "en",
+        "id": "6386907714376807971",
+        "baseUrl": "https://arvenscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23896,7 +23917,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki307.net",
+        "baseUrl": "https://manatoki308.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -23904,7 +23925,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki307.com",
+        "baseUrl": "https://newtoki308.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25927,21 +25948,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: YugenMangas",
+    "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.33.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "YugenMangas",
+        "name": "Yugen Mangás",
         "lang": "pt-BR",
-        "id": "140083806094083708",
-        "baseUrl": "https://yugenmangas.com.br",
+        "id": "386974442889227227",
+        "baseUrl": "https://yugenmangas.net.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
