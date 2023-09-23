@@ -7965,10 +7965,10 @@
   {
     "name": "Tachiyomi: Animated Glitched Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedscans",
-    "apk": "tachiyomi-en.animatedglitchedscans-v1.4.26.apk",
+    "apk": "tachiyomi-en.animatedglitchedscans-v1.4.27.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -7977,7 +7977,7 @@
         "name": "Animated Glitched Scans",
         "lang": "en",
         "id": "77648069822920338",
-        "baseUrl": "https://anigliscans.com",
+        "baseUrl": "https://anigliscans.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -11077,6 +11077,27 @@
         "id": "8023573245256501840",
         "baseUrl": "https://lynxscans.com",
         "versionId": 3,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Lyra Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lyrascans",
+    "apk": "tachiyomi-en.lyrascans-v1.4.26.apk",
+    "lang": "en",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lyra Scans",
+        "lang": "en",
+        "id": "1039711134470720739",
+        "baseUrl": "https://lyrascans.com",
+        "versionId": 1,
         "hasCloudflare": 1
       }
     ]
@@ -22209,10 +22230,10 @@
   {
     "name": "Tachiyomi: ManhwaIndo",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwaindo",
-    "apk": "tachiyomi-id.manhwaindo-v1.4.28.apk",
+    "apk": "tachiyomi-id.manhwaindo-v1.4.29.apk",
     "lang": "id",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -24877,6 +24898,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ler Mangá",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lermanga",
+    "apk": "tachiyomi-pt.lermanga-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ler Mangá",
+        "lang": "pt-BR",
+        "id": "8835611358722000524",
+        "baseUrl": "https://lermanga.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ler Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.leryaoi",
     "apk": "tachiyomi-pt.leryaoi-v1.4.31.apk",
@@ -26118,10 +26160,10 @@
   {
     "name": "Tachiyomi: HenChan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.4.40.apk",
+    "apk": "tachiyomi-ru.henchan-v1.4.41.apk",
     "lang": "ru",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26130,7 +26172,7 @@
         "name": "HenChan",
         "lang": "ru",
         "id": "5504588601186153612",
-        "baseUrl": "http://y.hchan.live",
+        "baseUrl": "https://xxxxx.hentaichan.live",
         "versionId": 1,
         "hasCloudflare": 0
       }
