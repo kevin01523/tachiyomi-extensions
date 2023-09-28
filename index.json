@@ -8784,10 +8784,10 @@
   {
     "name": "Tachiyomi: Dark Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.darkscans",
-    "apk": "tachiyomi-en.darkscans-v1.4.31.apk",
+    "apk": "tachiyomi-en.darkscans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20130,10 +20130,10 @@
   {
     "name": "Tachiyomi: YugenMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.4.26.apk",
+    "apk": "tachiyomi-es.yugenmangas-v1.4.27.apk",
     "lang": "es",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23917,7 +23917,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki308.net",
+        "baseUrl": "https://manatoki309.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -23925,7 +23925,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki308.com",
+        "baseUrl": "https://newtoki309.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
