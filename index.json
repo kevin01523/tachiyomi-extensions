@@ -23,10 +23,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.4.54.apk",
+    "apk": "tachiyomi-all.asurascans-v1.4.56.apk",
     "lang": "all",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -35,7 +35,7 @@
         "name": "Asura Scans",
         "lang": "en",
         "id": "6247824327199706550",
-        "baseUrl": "https://asuracomics.gg",
+        "baseUrl": "https://asuratoon.com",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -43,7 +43,7 @@
         "name": "Asura Scans",
         "lang": "tr",
         "id": "7963074674054946733",
-        "baseUrl": "https://asurascanstr.com",
+        "baseUrl": "https://armoniscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -3637,10 +3637,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.2.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21138,20 +21138,20 @@
   {
     "name": "Tachiyomi: Alceascan",
     "pkg": "eu.kanade.tachiyomi.extension.id.alceascan",
-    "apk": "tachiyomi-id.alceascan-v1.4.1.apk",
+    "apk": "tachiyomi-id.alceascan-v1.4.26.apk",
     "lang": "id",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
-    "hasReadme": 0,
+    "hasReadme": 1,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Alceascan",
         "lang": "id",
-        "id": "6329904503179698288",
+        "id": "1767623223550972150",
         "baseUrl": "https://alceascan.my.id",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -22629,10 +22629,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.33.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.34.apk",
     "lang": "id",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22641,7 +22641,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami.ae",
+        "baseUrl": "https://shinigami.sh",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26244,10 +26244,10 @@
   {
     "name": "Tachiyomi: MangaClub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangaclub",
-    "apk": "tachiyomi-ru.mangaclub-v1.4.11.apk",
+    "apk": "tachiyomi-ru.mangaclub-v1.4.12.apk",
     "lang": "ru",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
