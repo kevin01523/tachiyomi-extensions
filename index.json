@@ -16922,10 +16922,10 @@
   {
     "name": "Tachiyomi: S2Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.s2manga",
-    "apk": "tachiyomi-en.s2manga-v1.4.32.apk",
+    "apk": "tachiyomi-en.s2manga-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16934,7 +16934,7 @@
         "name": "S2Manga",
         "lang": "en",
         "id": "4870917758913494428",
-        "baseUrl": "https://s2manga.com",
+        "baseUrl": "https://www.s2manga.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26349,10 +26349,10 @@
   {
     "name": "Tachiyomi: MangaPoisk",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
-    "apk": "tachiyomi-ru.mangapoisk-v1.4.8.apk",
+    "apk": "tachiyomi-ru.mangapoisk-v1.4.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
