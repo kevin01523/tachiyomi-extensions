@@ -21537,10 +21537,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.47.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.48.apk",
     "lang": "id",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22713,10 +22713,10 @@
   {
     "name": "Tachiyomi: Soul Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.soulscans",
-    "apk": "tachiyomi-id.soulscans-v1.4.26.apk",
+    "apk": "tachiyomi-id.soulscans-v1.4.27.apk",
     "lang": "id",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -24499,6 +24499,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Flower Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.flowermanga",
+    "apk": "tachiyomi-pt.flowermanga-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Flower Manga",
+        "lang": "pt-BR",
+        "id": "2421010180391442293",
+        "baseUrl": "https://flowermanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Fox White",
     "pkg": "eu.kanade.tachiyomi.extension.pt.foxwhite",
     "apk": "tachiyomi-pt.foxwhite-v1.4.31.apk",
@@ -24871,6 +24892,27 @@
         "lang": "pt-BR",
         "id": "8114824843195053987",
         "baseUrl": "https://leitorizakaya.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Kakusei Project",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.kakuseiproject",
+    "apk": "tachiyomi-pt.kakuseiproject-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kakusei Project",
+        "lang": "pt-BR",
+        "id": "4352186290154944735",
+        "baseUrl": "https://kakuseiproject.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25425,10 +25467,10 @@
   {
     "name": "Tachiyomi: Prisma Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.33.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25437,7 +25479,7 @@
         "name": "Prisma Scans",
         "lang": "pt-BR",
         "id": "8168108118738519332",
-        "baseUrl": "https://prismascans.net",
+        "baseUrl": "https://prismacomics.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
