@@ -4548,10 +4548,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.4.44.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.4.46.apk",
     "lang": "all",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -17363,10 +17363,10 @@
   {
     "name": "Tachiyomi: Surya Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
-    "apk": "tachiyomi-en.suryascans-v1.4.26.apk",
+    "apk": "tachiyomi-en.suryascans-v1.4.27.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -17375,7 +17375,7 @@
         "name": "Surya Scans",
         "lang": "en",
         "id": "2909429739457928148",
-        "baseUrl": "https://suryascans.com",
+        "baseUrl": "https://suryareader.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24354,10 +24354,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.37.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24366,7 +24366,7 @@
         "name": "Cerise Scan",
         "lang": "pt-BR",
         "id": "8629915907358523454",
-        "baseUrl": "https://cerisescan.com/home1",
+        "baseUrl": "https://cerisescan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25759,6 +25759,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Taberu Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.taberumangas",
+    "apk": "tachiyomi-pt.taberumangas-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Taberu Mangás",
+        "lang": "pt-BR",
+        "id": "3136904121410078242",
+        "baseUrl": "https://taberu.org",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tankou Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tankouhentai",
     "apk": "tachiyomi-pt.tankouhentai-v1.4.31.apk",
@@ -26391,10 +26412,10 @@
   {
     "name": "Tachiyomi: MangaPoisk",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
-    "apk": "tachiyomi-ru.mangapoisk-v1.4.9.apk",
+    "apk": "tachiyomi-ru.mangapoisk-v1.4.10.apk",
     "lang": "ru",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
