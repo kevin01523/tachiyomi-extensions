@@ -7314,10 +7314,10 @@
   {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
-    "apk": "tachiyomi-ar.mangalek-v1.4.33.apk",
+    "apk": "tachiyomi-ar.mangalek-v1.4.34.apk",
     "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7326,7 +7326,7 @@
         "name": "مانجا ليك",
         "lang": "ar",
         "id": "918460697583900080",
-        "baseUrl": "https://mangalek.com",
+        "baseUrl": "https://manga-lek.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -15137,10 +15137,10 @@
   {
     "name": "Tachiyomi: NineAnime",
     "pkg": "eu.kanade.tachiyomi.extension.en.nineanime",
-    "apk": "tachiyomi-en.nineanime-v1.4.3.apk",
+    "apk": "tachiyomi-en.nineanime-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
