@@ -7377,10 +7377,10 @@
   {
     "name": "Tachiyomi: MangaLionz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalionz",
-    "apk": "tachiyomi-ar.mangalionz-v1.4.32.apk",
+    "apk": "tachiyomi-ar.mangalionz-v1.4.33.apk",
     "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7389,7 +7389,7 @@
         "name": "MangaLionz",
         "lang": "ar",
         "id": "2589550143244611118",
-        "baseUrl": "https://mangalionz.com",
+        "baseUrl": "https://mangalionz.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -9291,6 +9291,27 @@
         "lang": "en",
         "id": "293230877131974500",
         "baseUrl": "https://manga.fascans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Fire Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.firescans",
+    "apk": "tachiyomi-en.firescans-v1.4.31.apk",
+    "lang": "en",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fire Scans",
+        "lang": "en",
+        "id": "5761461704760730187",
+        "baseUrl": "https://firescans.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20676,10 +20697,10 @@
   {
     "name": "Tachiyomi: Manga-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangascan",
-    "apk": "tachiyomi-fr.mangascan-v1.4.6.apk",
+    "apk": "tachiyomi-fr.mangascan-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20688,7 +20709,7 @@
         "name": "Manga-Scan",
         "lang": "fr",
         "id": "5152484884536000046",
-        "baseUrl": "https://manga-scan.co",
+        "baseUrl": "https://manga-scan.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21894,10 +21915,10 @@
   {
     "name": "Tachiyomi: Komiku",
     "pkg": "eu.kanade.tachiyomi.extension.id.komiku",
-    "apk": "tachiyomi-id.komiku-v1.4.16.apk",
+    "apk": "tachiyomi-id.komiku-v1.4.17.apk",
     "lang": "id",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26517,10 +26538,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.81.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.82.apk",
     "lang": "ru",
-    "code": 81,
-    "version": "1.4.81",
+    "code": 82,
+    "version": "1.4.82",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
