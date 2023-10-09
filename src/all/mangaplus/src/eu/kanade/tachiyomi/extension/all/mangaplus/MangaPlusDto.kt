@@ -70,6 +70,9 @@ data class TitleDetailView(
 ) {
 
     val chapterList: List<Chapter> by lazy {
+        // Doesn't include `midChapterList` by design as their site API returns it
+        // just for visual representation to redirect users to their app. The extension
+        // intends to allow users to read only what they can already read in their site.
         chapterListGroup.flatMap { it.firstChapterList + it.lastChapterList }
     }
 
@@ -184,38 +187,44 @@ data class Label(val label: LabelCode? = LabelCode.WEEKLY_SHOUNEN_JUMP) {
             LabelCode.WEEKLY_YOUNG_JUMP -> "Weekly Young Jump"
             LabelCode.TONARI_NO_YOUNG_JUMP -> "Tonari no Young Jump"
             LabelCode.SHOUNEN_JUMP_PLUS -> "Shounen Jump+"
-            LabelCode.REVIVAL -> "Revival"
             LabelCode.MANGA_PLUS_CREATORS -> "MANGA Plus Creators"
+            LabelCode.SAIKYOU_JUMP -> "Saikyou Jump"
             else -> null
         }
 }
 
 @Serializable
 enum class LabelCode {
-    @SerialName("WJ")
-    WEEKLY_SHOUNEN_JUMP,
-
-    @SerialName("SQ")
-    JUMP_SQUARE,
-
-    @SerialName("VJ")
-    V_JUMP,
+    @SerialName("CREATORS")
+    MANGA_PLUS_CREATORS,
 
     @SerialName("GIGA")
     SHOUNEN_JUMP_GIGA,
 
-    @SerialName("YJ")
-    WEEKLY_YOUNG_JUMP,
+    @SerialName("J_PLUS")
+    SHOUNEN_JUMP_PLUS,
+
+    OTHERS,
+
+    REVIVAL,
+
+    @SerialName("SKJ")
+    SAIKYOU_JUMP,
+
+    @SerialName("SQ")
+    JUMP_SQUARE,
 
     @SerialName("TYJ")
     TONARI_NO_YOUNG_JUMP,
 
-    @SerialName("J_PLUS")
-    SHOUNEN_JUMP_PLUS,
-    REVIVAL,
+    @SerialName("VJ")
+    V_JUMP,
 
-    @SerialName("CREATORS")
-    MANGA_PLUS_CREATORS,
+    @SerialName("YJ")
+    WEEKLY_YOUNG_JUMP,
+
+    @SerialName("WSJ")
+    WEEKLY_SHOUNEN_JUMP,
 }
 
 @Serializable
