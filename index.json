@@ -19366,10 +19366,10 @@
   {
     "name": "Tachiyomi: Manga Fenix",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangafenix",
-    "apk": "tachiyomi-es.mangafenix-v1.4.33.apk",
+    "apk": "tachiyomi-es.mangafenix-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19378,7 +19378,7 @@
         "name": "Manga Fenix",
         "lang": "es",
         "id": "19158964284779393",
-        "baseUrl": "https://manga-fenix.com",
+        "baseUrl": "https://manhua-fenix.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19660,10 +19660,10 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.4.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.5.apk",
     "lang": "es",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21285,10 +21285,10 @@
   {
     "name": "Tachiyomi: CosmicScans.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
-    "apk": "tachiyomi-id.cosmicscansid-v1.4.28.apk",
+    "apk": "tachiyomi-id.cosmicscansid-v1.4.29.apk",
     "lang": "id",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22496,6 +22496,27 @@
         "id": "2636071300407720294",
         "baseUrl": "https://noromax.my.id",
         "versionId": 2,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Otsugami",
+    "pkg": "eu.kanade.tachiyomi.extension.id.otsugami",
+    "apk": "tachiyomi-id.otsugami-v1.4.26.apk",
+    "lang": "id",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Otsugami",
+        "lang": "id",
+        "id": "6180918733699384067",
+        "baseUrl": "https://otsugami.id",
+        "versionId": 1,
         "hasCloudflare": 1
       }
     ]
