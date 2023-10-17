@@ -7228,27 +7228,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Magus Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.magusmanga",
-    "apk": "tachiyomi-ar.magusmanga-v1.4.27.apk",
-    "lang": "ar",
-    "code": 27,
-    "version": "1.4.27",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Magus Manga",
-        "lang": "ar",
-        "id": "7792477462646075400",
-        "baseUrl": "https://magusmanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: مانجا العاشق",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manga3asq",
     "apk": "tachiyomi-ar.manga3asq-v1.4.33.apk",
@@ -8028,10 +8007,10 @@
   {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
-    "apk": "tachiyomi-en.aquamanga-v1.4.34.apk",
+    "apk": "tachiyomi-en.aquamanga-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11166,6 +11145,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Magus Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
+    "apk": "tachiyomi-en.magusmanga-v1.4.28.apk",
+    "lang": "en",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Magus Manga",
+        "lang": "en",
+        "id": "7792477462646075400",
+        "baseUrl": "https://magusmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga18fx",
     "pkg": "eu.kanade.tachiyomi.extension.en.manga18fx",
     "apk": "tachiyomi-en.manga18fx-v1.4.36.apk",
@@ -14171,10 +14171,10 @@
   {
     "name": "Tachiyomi: ManhuaZone",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuazone",
-    "apk": "tachiyomi-en.manhuazone-v1.4.31.apk",
+    "apk": "tachiyomi-en.manhuazone-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14183,7 +14183,7 @@
         "name": "ManhuaZone",
         "lang": "en",
         "id": "965243814055269023",
-        "baseUrl": "https://manhuazone.com",
+        "baseUrl": "https://manhuazone.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -15801,6 +15801,27 @@
         "lang": "en",
         "id": "8901224921283550027",
         "baseUrl": "https://rainofsnow.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Raiscans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.raiscans",
+    "apk": "tachiyomi-en.raiscans-v1.4.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Raiscans",
+        "lang": "en",
+        "id": "1513630160588607354",
+        "baseUrl": "https://www.raiscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18839,27 +18860,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: DatGarScanlation",
-    "pkg": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
-    "apk": "tachiyomi-es.datgarscanlation-v1.4.7.apk",
-    "lang": "es",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "DatGarScanlation",
-        "lang": "es",
-        "id": "597614591067448309",
-        "baseUrl": "https://datgarscanlation.blogspot.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: DokkoManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.dokkomanga",
     "apk": "tachiyomi-es.dokkomanga-v1.4.32.apk",
@@ -19660,10 +19660,10 @@
   {
     "name": "Tachiyomi: Noblesse Translations",
     "pkg": "eu.kanade.tachiyomi.extension.es.noblessetranslations",
-    "apk": "tachiyomi-es.noblessetranslations-v1.4.31.apk",
+    "apk": "tachiyomi-es.noblessetranslations-v1.4.32.apk",
     "lang": "es",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19672,7 +19672,7 @@
         "name": "Noblesse Translations",
         "lang": "es",
         "id": "5125011410949702843",
-        "baseUrl": "https://www.noblessetranslations.com",
+        "baseUrl": "https://noblessetranslations.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20382,10 +20382,10 @@
   {
     "name": "Tachiyomi: FR-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.frdashscan",
-    "apk": "tachiyomi-fr.frdashscan-v1.4.33.apk",
+    "apk": "tachiyomi-fr.frdashscan-v1.4.34.apk",
     "lang": "fr",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20394,7 +20394,7 @@
         "name": "FR-Scan",
         "lang": "fr",
         "id": "9131824751687740063",
-        "baseUrl": "https://fr-scan.cc",
+        "baseUrl": "https://fr-scan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21075,10 +21075,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.34.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.35.apk",
     "lang": "fr",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22537,6 +22537,27 @@
         "lang": "id",
         "id": "6180918733699384067",
         "baseUrl": "https://otsugami.id",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pikiran Wibu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.pikiranwibu",
+    "apk": "tachiyomi-id.pikiranwibu-v1.4.31.apk",
+    "lang": "id",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pikiran Wibu",
+        "lang": "id",
+        "id": "7091340832940249132",
+        "baseUrl": "https://pikiran-wibu.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
