@@ -23280,10 +23280,10 @@
   {
     "name": "Tachiyomi: Walpurgi Scan",
     "pkg": "eu.kanade.tachiyomi.extension.it.walpurgisscan",
-    "apk": "tachiyomi-it.walpurgisscan-v1.4.33.apk",
+    "apk": "tachiyomi-it.walpurgisscan-v1.4.34.apk",
     "lang": "it",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -23292,7 +23292,7 @@
         "name": "Walpurgi Scan",
         "lang": "it",
         "id": "6566957355096372149",
-        "baseUrl": "https://www.walpurgiscan.com",
+        "baseUrl": "https://www.walpurgiscan.it",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26307,10 +26307,10 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.26.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.27.apk",
     "lang": "ru",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
