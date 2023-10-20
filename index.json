@@ -8007,10 +8007,10 @@
   {
     "name": "Tachiyomi: Aqua Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
-    "apk": "tachiyomi-en.aquamanga-v1.4.36.apk",
+    "apk": "tachiyomi-en.aquamanga-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
