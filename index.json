@@ -22755,10 +22755,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.37.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.38.apk",
     "lang": "id",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24085,7 +24085,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki312.net",
+        "baseUrl": "https://manatoki313.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24093,7 +24093,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki312.com",
+        "baseUrl": "https://newtoki313.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
