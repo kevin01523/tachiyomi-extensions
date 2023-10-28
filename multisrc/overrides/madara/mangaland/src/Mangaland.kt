@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.es.taurusfansub
+package eu.kanade.tachiyomi.extension.es.mangaland
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.POST
@@ -9,11 +9,11 @@ import java.text.SimpleDateFormat
 import java.util.Locale
 import java.util.concurrent.TimeUnit
 
-class TaurusFansub : Madara(
-    "Taurus Fansub",
-    "https://taurusmanga.com",
+class Mangaland : Madara(
+    "Mangaland",
+    "https://mangaland.net",
     "es",
-    dateFormat = SimpleDateFormat("dd/MM/yyy", Locale.ROOT),
+    SimpleDateFormat("MMMM dd, yyyy", Locale("es")),
 ) {
     override val client = super.client.newBuilder()
         .rateLimit(2, 1, TimeUnit.SECONDS)
@@ -22,7 +22,6 @@ class TaurusFansub : Madara(
     override val useNewChapterEndpoint = true
 
     override fun popularMangaNextPageSelector() = "body:not(:has(.no-posts))"
-    override val mangaDetailsSelectorDescription = "div.tab-summary > div.tab-content > div#tab-reducir > div.contenedor"
 
     private fun loadMoreRequest(page: Int, metaKey: String): Request {
         val formBody = FormBody.Builder().apply {
@@ -32,12 +31,14 @@ class TaurusFansub : Madara(
             add("vars[paged]", "1")
             add("vars[orderby]", "meta_value_num")
             add("vars[template]", "archive")
-            add("vars[sidebar]", "right")
+            add("vars[sidebar]", "full")
+            add("vars[meta_query][0][0][key]", "_wp_manga_chapter_type")
+            add("vars[meta_query][0][0][value]", "manga")
+            add("vars[meta_query][0][relation]", "AND")
+            add("vars[meta_query][relation]", "AND")
             add("vars[post_type]", "wp-manga")
             add("vars[post_status]", "publish")
             add("vars[meta_key]", metaKey)
-            add("vars[order]", "desc")
-            add("vars[meta_query][relation]", "OR")
             add("vars[manga_archives_item_layout]", "big_thumbnail")
         }.build()
 

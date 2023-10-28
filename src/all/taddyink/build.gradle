@@ -3,11 +3,10 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlinx-serialization'
 
 ext {
-    extName = 'Ler Mangá'
-    pkgNameSuffix = 'pt.lermanga'
-    extClass = '.LerManga'
-    extVersionCode = 2
-    isNsfw = true
+    extName = 'Taddy INK (Webtoons)'
+    pkgNameSuffix = 'all.taddyink'
+    extClass = '.TaddyInkFactory'
+    extVersionCode = 1
 }
 
 apply from: "$rootDir/common.gradle"
