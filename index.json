@@ -1016,10 +1016,10 @@
   {
     "name": "Tachiyomi: Comic Fury",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicfury",
-    "apk": "tachiyomi-all.comicfury-v1.4.1.apk",
+    "apk": "tachiyomi-all.comicfury-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2129,27 +2129,6 @@
         "baseUrl": "https://everia.club",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Flame Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.all.flamescans",
-    "apk": "tachiyomi-all.flamescans-v1.4.32.apk",
-    "lang": "all",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Flame Scans",
-        "lang": "en",
-        "id": "6350607071566689772",
-        "baseUrl": "https://flamescans.org",
-        "versionId": 1,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -9423,6 +9402,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Flame Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
+    "apk": "tachiyomi-en.flamecomics-v1.4.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Flame Comics",
+        "lang": "en",
+        "id": "6350607071566689772",
+        "baseUrl": "https://flamecomics.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Flex Tape Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flextapescans",
     "apk": "tachiyomi-en.flextapescans-v1.4.31.apk",
@@ -15368,10 +15368,10 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.35.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18818,6 +18818,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Cerberus Series",
+    "pkg": "eu.kanade.tachiyomi.extension.es.cerberusseries",
+    "apk": "tachiyomi-es.cerberusseries-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cerberus Series",
+        "lang": "es",
+        "id": "144471574235575421",
+        "baseUrl": "https://cerberuseries.xyz",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Coco Rip",
     "pkg": "eu.kanade.tachiyomi.extension.es.cocorip",
     "apk": "tachiyomi-es.cocorip-v1.4.31.apk",
@@ -19318,27 +19339,6 @@
         "baseUrl": "https://r1.leermanga.xyz",
         "versionId": 1,
         "hasCloudflare": 0
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Legion Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.legionscan",
-    "apk": "tachiyomi-es.legionscan-v1.4.33.apk",
-    "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Legion Scan",
-        "lang": "es",
-        "id": "1864419645989454982",
-        "baseUrl": "https://legionscans.com",
-        "versionId": 2,
-        "hasCloudflare": 1
       }
     ]
   },
@@ -22419,10 +22419,10 @@
   {
     "name": "Tachiyomi: Tenshi.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.masterkomik",
-    "apk": "tachiyomi-id.masterkomik-v1.4.30.apk",
+    "apk": "tachiyomi-id.masterkomik-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22602,6 +22602,27 @@
         "baseUrl": "https://noromax.my.id",
         "versionId": 2,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: One Piece Berwarna",
+    "pkg": "eu.kanade.tachiyomi.extension.id.onepieceberwarna",
+    "apk": "tachiyomi-id.onepieceberwarna-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "One Piece Berwarna",
+        "lang": "id",
+        "id": "6327374097013138583",
+        "baseUrl": "https://onepieceberwarna.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -25186,6 +25207,27 @@
         "lang": "pt-BR",
         "id": "785489692920959121",
         "baseUrl": "https://limboscan.com.br",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Link Start Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.linkstartscan",
+    "apk": "tachiyomi-pt.linkstartscan-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Link Start Scan",
+        "lang": "pt-BR",
+        "id": "5735566668025999711",
+        "baseUrl": "https://www.linkstartscan.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28365,10 +28407,10 @@
   {
     "name": "Tachiyomi: O Cu Meo",
     "pkg": "eu.kanade.tachiyomi.extension.vi.ocumeo",
-    "apk": "tachiyomi-vi.ocumeo-v1.4.1.apk",
+    "apk": "tachiyomi-vi.ocumeo-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28377,7 +28419,7 @@
         "name": "Ổ Cú Mèo",
         "lang": "vi",
         "id": "8330490015365279279",
-        "baseUrl": "https://www.ocumeo.com",
+        "baseUrl": "https://www.ocumoe.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
