@@ -15,7 +15,6 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
 
     override val sources = listOf(
         MultiLang("Asura Scans", "https://asuratoon.com", listOf("en", "tr"), className = "AsuraScansFactory", pkgName = "asurascans", overrideVersionCode = 31),
-        MultiLang("Flame Scans", "https://flamescans.org", listOf("en"), className = "FlameScansFactory", pkgName = "flamescans", overrideVersionCode = 5),
         MultiLang("Miau Scan", "https://miauscans.com", listOf("es", "pt-BR"), overrideVersionCode = 1),
         SingleLang("AiYuManga", "https://aiyumanhua.com", "es", overrideVersionCode = 8),
         SingleLang("Alceascan", "https://alceascan.my.id", "id"),
@@ -37,6 +36,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("EnryuManga", "https://enryumanga.com", "en"),
         SingleLang("Epsilon Scan", "https://epsilonscan.fr", "fr", isNsfw = true),
         SingleLang("Fairy Manga", "https://fairymanga.com", "en", className = "QueenScans", overrideVersionCode = 1),
+        SingleLang("Flame Comics", "https://flamecomics.com", "en"),
         SingleLang("Franxx Mangás", "https://franxxmangas.net", "pt-BR", className = "FranxxMangas", isNsfw = true),
         SingleLang("Freak Scans", "https://freakscans.com", "en"),
         SingleLang("Gecenin Lordu", "https://geceninlordu.com", "tr", overrideVersionCode = 1),
@@ -65,7 +65,6 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("Komiku.com", "https://komiku.com", "id", className = "KomikuCom"),
         SingleLang("Kuma Scans (Kuma Translation)", "https://kumascans.com", "en", className = "KumaScans", overrideVersionCode = 1),
         SingleLang("Legacy Scans", "https://legacy-scans.com", "fr", pkgName = "flamescansfr"),
-        SingleLang("Legion Scan", "https://legionscans.com", "es", overrideVersionCode = 6),
         SingleLang("Lelmanga", "https://www.lelmanga.com", "fr"),
         SingleLang("LianScans", "https://www.lianscans.my.id", "id", isNsfw = true),
         SingleLang("Lunar Scans", "https://lunarscan.org", "en", isNsfw = true, overrideVersionCode = 1),
@@ -139,7 +138,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("Tarot Scans", "https://www.tarotscans.com", "tr"),
         SingleLang("Tecno Scan", "https://tecnoscann.com", "es", isNsfw = true, overrideVersionCode = 6),
         SingleLang("TenkaiScan", "https://tenkaiscan.net", "es", isNsfw = true),
-        SingleLang("Tenshi.id", "https://tenshi.id", "id", className = "TenshiId", pkgName = "masterkomik", overrideVersionCode = 3),
+        SingleLang("Tenshi.id", "https://tenshi.id", "id", className = "TenshiId", pkgName = "masterkomik", overrideVersionCode = 4),
         SingleLang("The Apollo Team", "https://theapollo.team", "en"),
         SingleLang("Tsundoku Traduções", "https://tsundoku.com.br", "pt-BR", className = "TsundokuTraducoes", overrideVersionCode = 9),
         SingleLang("TukangKomik", "https://tukangkomik.id", "id", overrideVersionCode = 1),
