@@ -3,11 +3,11 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlinx-serialization'
 
 ext {
-    extName = 'Comick'
-    pkgNameSuffix = 'all.comickfun'
-    extClass = '.ComickFunFactory'
-    extVersionCode = 37
-    isNsfw = true
+    extName = 'RavenManga'
+    pkgNameSuffix = 'es.ravenmanga'
+    extClass = '.RavenManga'
+    extVersionCode = 1
+    isNsfw = false
 }
 
 apply from: "$rootDir/common.gradle"
