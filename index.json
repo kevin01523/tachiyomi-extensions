@@ -1141,10 +1141,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.36.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.37.apk",
     "lang": "all",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19805,6 +19805,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: RavenManga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ravenmanga",
+    "apk": "tachiyomi-es.ravenmanga-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RavenManga",
+        "lang": "es",
+        "id": "698913079501532785",
+        "baseUrl": "https://ravenseries.lat",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rightdark Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.rightdarkscan",
     "apk": "tachiyomi-es.rightdarkscan-v1.4.31.apk",
@@ -22228,6 +22249,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangalay",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangalay",
+    "apk": "tachiyomi-id.mangalay-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangalay",
+        "lang": "id",
+        "id": "7859511511298731707",
+        "baseUrl": "http://mangalay.blogspot.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangasusu",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangasusu",
     "apk": "tachiyomi-id.mangasusu-v1.4.29.apk",
@@ -23007,10 +23049,10 @@
   {
     "name": "Tachiyomi: West Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.westmanga",
-    "apk": "tachiyomi-id.westmanga-v1.4.28.apk",
+    "apk": "tachiyomi-id.westmanga-v1.4.29.apk",
     "lang": "id",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -23019,7 +23061,7 @@
         "name": "West Manga",
         "lang": "id",
         "id": "8883916630998758688",
-        "baseUrl": "https://westmanga.info",
+        "baseUrl": "https://westmanga.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
