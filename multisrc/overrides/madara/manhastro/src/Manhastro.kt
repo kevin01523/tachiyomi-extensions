@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.pt.remangas
+package eu.kanade.tachiyomi.extension.pt.manhastro
 
 import eu.kanade.tachiyomi.multisrc.madara.Madara
 import eu.kanade.tachiyomi.network.interceptor.rateLimit
@@ -7,17 +7,16 @@ import java.text.SimpleDateFormat
 import java.util.Locale
 import java.util.concurrent.TimeUnit
 
-class Remangas : Madara(
-    "Remangas",
-    "https://remangas.net",
+class Manhastro : Madara(
+    "Manhastro",
+    "https://manhastro.com",
     "pt-BR",
-    SimpleDateFormat("dd 'de' MMM 'de' yyy", Locale("pt", "BR")),
+    SimpleDateFormat("MMMMM dd, yyyy", Locale("pt", "BR")),
 ) {
-    override val versionId = 2
-
-    override val useNewChapterEndpoint = true
 
     override val client: OkHttpClient = super.client.newBuilder()
         .rateLimit(1, 2, TimeUnit.SECONDS)
         .build()
+
+    override val useNewChapterEndpoint = true
 }
