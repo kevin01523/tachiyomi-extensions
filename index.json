@@ -1141,10 +1141,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.37.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.38.apk",
     "lang": "all",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5984,6 +5984,27 @@
         "baseUrl": "https://www.pixiv.net",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Project Suki",
+    "pkg": "eu.kanade.tachiyomi.extension.all.projectsuki",
+    "apk": "tachiyomi-all.projectsuki-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Project Suki",
+        "lang": "en",
+        "id": "8965918600406781666",
+        "baseUrl": "https://projectsuki.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -13100,10 +13121,10 @@
   {
     "name": "Tachiyomi: MangaGeko",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22627,6 +22648,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Nonbiri",
+    "pkg": "eu.kanade.tachiyomi.extension.id.nonbiri",
+    "apk": "tachiyomi-id.nonbiri-v1.4.27.apk",
+    "lang": "id",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nonbiri",
+        "lang": "id",
+        "id": "6914421548026063757",
+        "baseUrl": "https://nonbiri.space",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Noromax",
     "pkg": "eu.kanade.tachiyomi.extension.id.noromax",
     "apk": "tachiyomi-id.noromax-v1.4.27.apk",
@@ -25339,6 +25381,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manhastro",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
+    "apk": "tachiyomi-pt.manhastro-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhastro",
+        "lang": "pt-BR",
+        "id": "5123733616022476906",
+        "baseUrl": "https://manhastro.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MiniTwo Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.minitwoscan",
     "apk": "tachiyomi-pt.minitwoscan-v1.4.31.apk",
@@ -25795,27 +25858,6 @@
         "lang": "pt-BR",
         "id": "8225529306937468421",
         "baseUrl": "https://reaperscans.net",
-        "versionId": 2,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Remangas",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.remangas",
-    "apk": "tachiyomi-pt.remangas-v1.4.31.apk",
-    "lang": "pt-BR",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Remangas",
-        "lang": "pt-BR",
-        "id": "9091333294250450941",
-        "baseUrl": "https://remangas.net",
         "versionId": 2,
         "hasCloudflare": 1
       }
