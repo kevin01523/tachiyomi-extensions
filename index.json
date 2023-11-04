@@ -13121,10 +13121,10 @@
   {
     "name": "Tachiyomi: MangaGeko",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.4.19.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21277,6 +21277,27 @@
         "lang": "hi",
         "id": "764114338476521079",
         "baseUrl": "https://comicsworld.in",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ainz Scans ID",
+    "pkg": "eu.kanade.tachiyomi.extension.id.ainzscansid",
+    "apk": "tachiyomi-id.ainzscansid-v1.4.27.apk",
+    "lang": "id",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ainz Scans ID",
+        "lang": "id",
+        "id": "6828652413569586396",
+        "baseUrl": "https://ainzscans.site",
         "versionId": 1,
         "hasCloudflare": 1
       }
