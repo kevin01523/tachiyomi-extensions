@@ -22230,10 +22230,10 @@
   {
     "name": "Tachiyomi: MangaKita",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangakita",
-    "apk": "tachiyomi-id.mangakita-v1.4.28.apk",
+    "apk": "tachiyomi-id.mangakita-v1.4.29.apk",
     "lang": "id",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -22242,7 +22242,7 @@
         "name": "MangaKita",
         "lang": "id",
         "id": "2550247158174867325",
-        "baseUrl": "https://mangakita.net",
+        "baseUrl": "https://mangakita.id",
         "versionId": 1,
         "hasCloudflare": 1
       }
