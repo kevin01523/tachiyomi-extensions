@@ -2114,10 +2114,10 @@
   {
     "name": "Tachiyomi: Everia.club",
     "pkg": "eu.kanade.tachiyomi.extension.all.everiaclub",
-    "apk": "tachiyomi-all.everiaclub-v1.4.8.apk",
+    "apk": "tachiyomi-all.everiaclub-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5670,10 +5670,10 @@
   {
     "name": "Tachiyomi: 999Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ninenineninehentai",
-    "apk": "tachiyomi-all.ninenineninehentai-v1.4.3.apk",
+    "apk": "tachiyomi-all.ninenineninehentai-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5682,7 +5682,7 @@
         "name": "999Hentai",
         "lang": "all",
         "id": "5098173700376022513",
-        "baseUrl": "https://999hentai.net",
+        "baseUrl": "https://999hentai.to",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5690,7 +5690,7 @@
         "name": "999Hentai",
         "lang": "en",
         "id": "4370122548313941497",
-        "baseUrl": "https://999hentai.net",
+        "baseUrl": "https://999hentai.to",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5698,7 +5698,7 @@
         "name": "999Hentai",
         "lang": "ja",
         "id": "8948948503520127713",
-        "baseUrl": "https://999hentai.net",
+        "baseUrl": "https://999hentai.to",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5706,7 +5706,7 @@
         "name": "999Hentai",
         "lang": "zh",
         "id": "3874510362699054213",
-        "baseUrl": "https://999hentai.net",
+        "baseUrl": "https://999hentai.to",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -5714,7 +5714,7 @@
         "name": "999Hentai",
         "lang": "es",
         "id": "2790053117909987291",
-        "baseUrl": "https://999hentai.net",
+        "baseUrl": "https://999hentai.to",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -10278,27 +10278,6 @@
         "lang": "en",
         "id": "1622300899445122947",
         "baseUrl": "https://hreads.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hscans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hscans",
-    "apk": "tachiyomi-en.hscans-v1.4.34.apk",
-    "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hscans",
-        "lang": "en",
-        "id": "3218173601050311368",
-        "baseUrl": "https://hscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17277,27 +17256,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Sleeping Knight Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.sleepingknightscans",
-    "apk": "tachiyomi-en.sleepingknightscans-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Sleeping Knight Scans",
-        "lang": "en",
-        "id": "470210832901522464",
-        "baseUrl": "https://skscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Sleepy Translations",
     "pkg": "eu.kanade.tachiyomi.extension.en.sleepytranslations",
     "apk": "tachiyomi-en.sleepytranslations-v1.4.32.apk",
@@ -17447,10 +17405,10 @@
   {
     "name": "Tachiyomi: Surya Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
-    "apk": "tachiyomi-en.suryascans-v1.4.28.apk",
+    "apk": "tachiyomi-en.suryascans-v1.4.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -17459,7 +17417,7 @@
         "name": "Surya Scans",
         "lang": "en",
         "id": "2909429739457928148",
-        "baseUrl": "https://suryareader.com",
+        "baseUrl": "https://suryacomics.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17573,20 +17531,20 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
-    "apk": "tachiyomi-en.templescan-v1.4.33.apk",
+    "apk": "tachiyomi-en.templescan-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Temple Scan",
         "lang": "en",
-        "id": "4859394251147646039",
+        "id": "4210732525216763379",
         "baseUrl": "https://templescan.net",
-        "versionId": 2,
+        "versionId": 3,
         "hasCloudflare": 1
       }
     ]
@@ -19324,10 +19282,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.4.29.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.4.30.apk",
     "lang": "es",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24274,7 +24232,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki313.net",
+        "baseUrl": "https://manatoki314.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24282,7 +24240,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki313.com",
+        "baseUrl": "https://newtoki314.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25360,6 +25318,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangá Nanquim",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangananquim",
+    "apk": "tachiyomi-pt.mangananquim-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangá Nanquim",
+        "lang": "pt-BR",
+        "id": "7307221978155754822",
+        "baseUrl": "https://mangananquim.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangás Chan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaschan",
     "apk": "tachiyomi-pt.mangaschan-v1.4.28.apk",
@@ -25570,27 +25549,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Nix Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.nixmangas",
-    "apk": "tachiyomi-pt.nixmangas-v1.4.3.apk",
-    "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Nix Mangás",
-        "lang": "pt-BR",
-        "id": "7158227645830523421",
-        "baseUrl": "https://nixmangas.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Nocturne Summer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nocturnesummer",
     "apk": "tachiyomi-pt.nocturnesummer-v1.4.31.apk",
@@ -25780,21 +25738,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Prisma Scans",
+    "name": "Tachiyomi: Demon Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.34.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.35.apk",
     "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Prisma Scans",
+        "name": "Demon Sect",
         "lang": "pt-BR",
         "id": "8168108118738519332",
-        "baseUrl": "https://prismacomics.com",
+        "baseUrl": "https://demonsect.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
