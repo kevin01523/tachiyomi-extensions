@@ -7797,11 +7797,11 @@
   {
     "name": "Tachiyomi: Fansubs.cat",
     "pkg": "eu.kanade.tachiyomi.extension.ca.fansubscat",
-    "apk": "tachiyomi-ca.fansubscat-v1.4.3.apk",
+    "apk": "tachiyomi-ca.fansubscat-v1.4.4.apk",
     "lang": "ca",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 1,
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -7810,6 +7810,27 @@
         "lang": "ca",
         "id": "3974404971892520732",
         "baseUrl": "https://manga.fansubs.cat",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Fansubs.cat - Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.ca.fansubscathentai",
+    "apk": "tachiyomi-ca.fansubscathentai-v1.4.4.apk",
+    "lang": "ca",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fansubs.cat - Hentai",
+        "lang": "ca",
+        "id": "7575385310756416449",
+        "baseUrl": "https://hentai.fansubs.cat/manga",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -19366,10 +19387,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.37.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19378,7 +19399,7 @@
         "name": "Manga Crab",
         "lang": "es",
         "id": "6167683270485370369",
-        "baseUrl": "https://manga-crab.com",
+        "baseUrl": "https://mangacrab3.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -19702,10 +19723,10 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.5.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.6.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19714,7 +19735,7 @@
         "name": "Olympus Scanlation",
         "lang": "es",
         "id": "1163124599525658616",
-        "baseUrl": "https://olympusv2.gg",
+        "baseUrl": "https://olympusvisor.com",
         "versionId": 2,
         "hasCloudflare": 0
       }
@@ -24274,7 +24295,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki315.net",
+        "baseUrl": "https://manatoki316.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24282,7 +24303,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki315.com",
+        "baseUrl": "https://newtoki316.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
