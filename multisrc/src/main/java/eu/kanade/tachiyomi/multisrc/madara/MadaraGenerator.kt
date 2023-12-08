@@ -10,7 +10,7 @@ class MadaraGenerator : ThemeSourceGenerator {
 
     override val themeClass = "Madara"
 
-    override val baseVersionCode: Int = 31
+    override val baseVersionCode: Int = 32
 
     override val sources = listOf(
         MultiLang("Atlantis Scan", "https://atlantisscan.com", listOf("es", "pt-BR"), isNsfw = true),
@@ -260,7 +260,6 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("MangaFreak.online", "https://mangafreak.online", "en", className = "MangaFreakOnline"),
         SingleLang("MangaGG", "https://mangagg.com", "en", overrideVersionCode = 2),
         SingleLang("MangaGo Yaoi", "https://mangagoyaoi.com", "en", isNsfw = true),
-        SingleLang("MangaGreat", "https://mangagreat.com", "en", overrideVersionCode = 4),
         SingleLang("MangaHub.fr", "https://mangahub.fr", "fr", isNsfw = true, className = "MangaHubFr", pkgName = "mangahubfr", overrideVersionCode = 2),
         SingleLang("MangaHZ", "https://www.mangahz.com", "en", isNsfw = true, overrideVersionCode = 2),
         SingleLang("MangaK2", "https://mangak2.com", "en", isNsfw = true),
@@ -289,7 +288,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("MangaRosie", "https://mangarosie.in", "en", isNsfw = true),
         SingleLang("MangaRuby.com", "https://mangaruby.com", "en", isNsfw = true, className = "MangaRubyCom"),
         SingleLang("Mangaryu", "https://mangaryu.com", "en", isNsfw = true),
-        SingleLang("Mangas No Sekai", "https://mangasnosekai.com", "es"),
+        SingleLang("Mangas No Sekai", "https://mangasnosekai.com", "es", overrideVersionCode = 1),
         SingleLang("Mangas Origines", "https://mangas-origines.xyz", "fr", isNsfw = true, overrideVersionCode = 4),
         SingleLang("Mangas-Origines.fr", "https://mangas-origines.fr", "fr", className = "MangasOriginesFr"),
         SingleLang("MangaSco", "https://manhwasco.net", "en", overrideVersionCode = 2),
@@ -330,7 +329,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("ManhuaUS", "https://manhuaus.com", "en", overrideVersionCode = 5),
         SingleLang("ManhuaZone", "https://manhuazone.org", "en", overrideVersionCode = 1),
         SingleLang("Manhwa Raw", "https://manhwaraw.com", "ko", isNsfw = true, overrideVersionCode = 1),
-        SingleLang("Manhwa-Latino", "https://manhwa-latino.com", "es", isNsfw = true, className = "ManhwaLatino", overrideVersionCode = 6),
+        SingleLang("Manhwa-Latino", "https://manhwa-latino.com", "es", isNsfw = true, className = "ManhwaLatino", overrideVersionCode = 7),
         SingleLang("Manhwa-raw", "https://manhwa-raw.com", "all", isNsfw = true, className = "ManhwaDashRaw", overrideVersionCode = 1),
         SingleLang("Manhwa18.app", "https://manhwa18.app", "en", isNsfw = true, className = "Manhwa18app"),
         SingleLang("Manhwa18.org", "https://manhwa18.org", "en", isNsfw = true, className = "Manhwa18Org", overrideVersionCode = 2),
@@ -454,6 +453,7 @@ class MadaraGenerator : ThemeSourceGenerator {
         SingleLang("Taurus Fansub", "https://taurusmanga.com", "es", overrideVersionCode = 1),
         SingleLang("TeenManhua", "https://teenmanhua.com", "en", overrideVersionCode = 1),
         SingleLang("The Beginning After The End", "https://www.thebeginningaftertheend.fr", "fr", overrideVersionCode = 1),
+        SingleLang("The Blank Scanlation", "https://theblank.net", "en", className = "TheBlank", isNsfw = true),
         SingleLang("The Guild", "https://theguildscans.com", "en"),
         SingleLang("Time Naight", "https://timenaight.com", "tr"),
         SingleLang("Todaymic", "https://todaymic.com", "en", overrideVersionCode = 1),
