@@ -19639,10 +19639,10 @@
   {
     "name": "Tachiyomi: Noblesse Translations",
     "pkg": "eu.kanade.tachiyomi.extension.es.noblessetranslations",
-    "apk": "tachiyomi-es.noblessetranslations-v1.4.33.apk",
+    "apk": "tachiyomi-es.noblessetranslations-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19651,7 +19651,7 @@
         "name": "Noblesse Translations",
         "lang": "es",
         "id": "5125011410949702843",
-        "baseUrl": "https://noblessetranslations.com",
+        "baseUrl": "https://www.noblessev1.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20403,10 +20403,10 @@
   {
     "name": "Tachiyomi: FR-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.frdashscan",
-    "apk": "tachiyomi-fr.frdashscan-v1.4.36.apk",
+    "apk": "tachiyomi-fr.frdashscan-v1.4.37.apk",
     "lang": "fr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24604,27 +24604,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: BR Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.brmangas",
-    "apk": "tachiyomi-pt.brmangas-v1.4.5.apk",
-    "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "BR Mangás",
-        "lang": "pt-BR",
-        "id": "3995626938844406015",
-        "baseUrl": "https://www.brmangas.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Bruttal",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bruttal",
     "apk": "tachiyomi-pt.bruttal-v1.4.6.apk",
@@ -24933,7 +24912,7 @@
         "name": "Gekkou Scans",
         "lang": "pt-BR",
         "id": "38569701795132984",
-        "baseUrl": "https://gekkou.com.br",
+        "baseUrl": "https://gekkouscans.top",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -25257,10 +25236,10 @@
   {
     "name": "Tachiyomi: Ler Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lermanga",
-    "apk": "tachiyomi-pt.lermanga-v1.4.2.apk",
+    "apk": "tachiyomi-pt.lermanga-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25656,10 +25635,10 @@
   {
     "name": "Tachiyomi: Origami Orpheans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.origamiorpheans",
-    "apk": "tachiyomi-pt.origamiorpheans-v1.4.36.apk",
+    "apk": "tachiyomi-pt.origamiorpheans-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -25668,7 +25647,7 @@
         "name": "Origami Orpheans",
         "lang": "pt-BR",
         "id": "4038055363600290082",
-        "baseUrl": "https://origami-orpheans.com.br",
+        "baseUrl": "https://origami-orpheans.com",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -26391,10 +26370,10 @@
   {
     "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.37.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26403,7 +26382,7 @@
         "name": "Yugen Mangás",
         "lang": "pt-BR",
         "id": "386974442889227227",
-        "baseUrl": "https://yugenmangas.org",
+        "baseUrl": "https://yugenmangas.net.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
