@@ -50,35 +50,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Atlantis Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.all.atlantisscan",
-    "apk": "tachiyomi-all.atlantisscan-v1.4.32.apk",
-    "lang": "all",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Atlantis Scan",
-        "lang": "pt-BR",
-        "id": "2357735833792758085",
-        "baseUrl": "https://br.atlantisscan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "Atlantis Scan",
-        "lang": "es",
-        "id": "2237642340381856331",
-        "baseUrl": "https://atlantisscan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
     "apk": "tachiyomi-all.batoto-v1.4.32.apk",
@@ -1141,10 +1112,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.40.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.41.apk",
     "lang": "all",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1153,7 +1124,7 @@
         "name": "Comick",
         "lang": "all",
         "id": "982606170401027267",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1161,7 +1132,7 @@
         "name": "Comick",
         "lang": "en",
         "id": "2971557565147974499",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1169,7 +1140,7 @@
         "name": "Comick",
         "lang": "pt-BR",
         "id": "8729626158695297897",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1177,7 +1148,7 @@
         "name": "Comick",
         "lang": "ru",
         "id": "5846182885417171581",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1185,7 +1156,7 @@
         "name": "Comick",
         "lang": "fr",
         "id": "9126078936214680667",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1193,7 +1164,7 @@
         "name": "Comick",
         "lang": "es-419",
         "id": "3182432228546767958",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1201,7 +1172,7 @@
         "name": "Comick",
         "lang": "pl",
         "id": "7005108854993254607",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1209,7 +1180,7 @@
         "name": "Comick",
         "lang": "tr",
         "id": "7186425300860782365",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1217,7 +1188,7 @@
         "name": "Comick",
         "lang": "it",
         "id": "8807318985460553537",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1225,7 +1196,7 @@
         "name": "Comick",
         "lang": "es",
         "id": "9052019484488287695",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1233,7 +1204,7 @@
         "name": "Comick",
         "lang": "id",
         "id": "5506707690027487154",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1241,7 +1212,7 @@
         "name": "Comick",
         "lang": "hu",
         "id": "7838940669485160901",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1249,7 +1220,7 @@
         "name": "Comick",
         "lang": "vi",
         "id": "9191587139933034493",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1257,7 +1228,7 @@
         "name": "Comick",
         "lang": "zh-Hant",
         "id": "3140511316190656180",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1265,7 +1236,7 @@
         "name": "Comick",
         "lang": "ar",
         "id": "8266599095155001097",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1273,7 +1244,7 @@
         "name": "Comick",
         "lang": "de",
         "id": "7552236568334706863",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1281,7 +1252,7 @@
         "name": "Comick",
         "lang": "zh-Hans",
         "id": "1071494508319622063",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1289,7 +1260,7 @@
         "name": "Comick",
         "lang": "ca",
         "id": "2159382907508433047",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1297,7 +1268,7 @@
         "name": "Comick",
         "lang": "bg",
         "id": "8981320463367739957",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1305,7 +1276,7 @@
         "name": "Comick",
         "lang": "th",
         "id": "4246541831082737053",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1313,7 +1284,7 @@
         "name": "Comick",
         "lang": "fa",
         "id": "3146252372540608964",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1321,7 +1292,7 @@
         "name": "Comick",
         "lang": "uk",
         "id": "3505068018066717349",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1329,7 +1300,7 @@
         "name": "Comick",
         "lang": "mn",
         "id": "2147260678391898600",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1337,7 +1308,7 @@
         "name": "Comick",
         "lang": "ro",
         "id": "6676949771764486043",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1345,7 +1316,7 @@
         "name": "Comick",
         "lang": "he",
         "id": "5354540502202034685",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1353,7 +1324,7 @@
         "name": "Comick",
         "lang": "ms",
         "id": "4731643595200952045",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1361,7 +1332,7 @@
         "name": "Comick",
         "lang": "tl",
         "id": "8549617092958820123",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1369,7 +1340,7 @@
         "name": "Comick",
         "lang": "ja",
         "id": "8288710818308434509",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1377,7 +1348,7 @@
         "name": "Comick",
         "lang": "hi",
         "id": "5176570178081213805",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1385,7 +1356,7 @@
         "name": "Comick",
         "lang": "my",
         "id": "9199495862098963317",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1393,7 +1364,7 @@
         "name": "Comick",
         "lang": "ko",
         "id": "3493720175703105662",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1401,7 +1372,7 @@
         "name": "Comick",
         "lang": "cs",
         "id": "2651978322082769022",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1409,7 +1380,7 @@
         "name": "Comick",
         "lang": "pt",
         "id": "4153491877797434408",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1417,7 +1388,7 @@
         "name": "Comick",
         "lang": "nl",
         "id": "6104206360977276112",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1425,7 +1396,7 @@
         "name": "Comick",
         "lang": "sv",
         "id": "979314012722687145",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1433,7 +1404,7 @@
         "name": "Comick",
         "lang": "bn",
         "id": "3598159956413889411",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1441,7 +1412,7 @@
         "name": "Comick",
         "lang": "no",
         "id": "5932005504194733317",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1449,7 +1420,7 @@
         "name": "Comick",
         "lang": "lt",
         "id": "1792260331167396074",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1457,7 +1428,7 @@
         "name": "Comick",
         "lang": "el",
         "id": "6190162673651111756",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1465,7 +1436,7 @@
         "name": "Comick",
         "lang": "sr",
         "id": "571668187470919545",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       },
@@ -1473,7 +1444,7 @@
         "name": "Comick",
         "lang": "da",
         "id": "7137437402245830147",
-        "baseUrl": "https://comick.ink",
+        "baseUrl": "https://comick.cc",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -2718,10 +2689,10 @@
   {
     "name": "Tachiyomi: Kavita",
     "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
-    "apk": "tachiyomi-all.kavita-v1.4.10.apk",
+    "apk": "tachiyomi-all.kavita-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -7083,10 +7054,10 @@
   {
     "name": "Tachiyomi: جالاكسي مانجا",
     "pkg": "eu.kanade.tachiyomi.extension.ar.galaxymanga",
-    "apk": "tachiyomi-ar.galaxymanga-v1.4.28.apk",
+    "apk": "tachiyomi-ar.galaxymanga-v1.4.29.apk",
     "lang": "ar",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7375,27 +7346,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: مانجا نون",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.manganoon",
-    "apk": "tachiyomi-ar.manganoon-v1.4.2.apk",
-    "lang": "ar",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "مانجا نون",
-        "lang": "ar",
-        "id": "3244399826714600926",
-        "baseUrl": "https://manjanoon.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaRabic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangarabic",
     "apk": "tachiyomi-ar.mangarabic-v1.4.33.apk",
@@ -7629,10 +7579,10 @@
   {
     "name": "Tachiyomi: PotatoManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.potatomanga",
-    "apk": "tachiyomi-ar.potatomanga-v1.4.27.apk",
+    "apk": "tachiyomi-ar.potatomanga-v1.4.28.apk",
     "lang": "ar",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -7713,10 +7663,10 @@
   {
     "name": "Tachiyomi: فيكس مانجا",
     "pkg": "eu.kanade.tachiyomi.extension.ar.vexmanga",
-    "apk": "tachiyomi-ar.vexmanga-v1.4.29.apk",
+    "apk": "tachiyomi-ar.vexmanga-v1.4.30.apk",
     "lang": "ar",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -8343,10 +8293,10 @@
   {
     "name": "Tachiyomi: Babel Wuxia",
     "pkg": "eu.kanade.tachiyomi.extension.en.babelwuxia",
-    "apk": "tachiyomi-en.babelwuxia-v1.4.32.apk",
+    "apk": "tachiyomi-en.babelwuxia-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8355,7 +8305,7 @@
         "name": "Babel Wuxia",
         "lang": "en",
         "id": "5609267969522033946",
-        "baseUrl": "https://read.babelwuxia.com",
+        "baseUrl": "https://babelwuxia.com",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -9551,10 +9501,10 @@
   {
     "name": "Tachiyomi: Flix Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flixscans",
-    "apk": "tachiyomi-en.flixscans-v1.4.2.apk",
+    "apk": "tachiyomi-en.flixscans-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9563,7 +9513,7 @@
         "name": "Flix Scans",
         "lang": "en",
         "id": "2602904659965278831",
-        "baseUrl": "https://flixscans.net",
+        "baseUrl": "https://flixscans.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -16145,10 +16095,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.16.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18671,6 +18621,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Atlantis Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.atlantisscan",
+    "apk": "tachiyomi-es.atlantisscan-v1.4.32.apk",
+    "lang": "es",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Atlantis Scan",
+        "lang": "es",
+        "id": "2237642340381856331",
+        "baseUrl": "https://scansatlanticos.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BarManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.barmanga",
     "apk": "tachiyomi-es.barmanga-v1.4.32.apk",
@@ -18686,6 +18657,27 @@
         "lang": "es",
         "id": "404674447362480247",
         "baseUrl": "https://barmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Berserker Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.berserkerscan",
+    "apk": "tachiyomi-es.berserkerscan-v1.4.27.apk",
+    "lang": "es",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Berserker Scan",
+        "lang": "es",
+        "id": "6568185689251164335",
+        "baseUrl": "https://ragnascan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18967,11 +18959,11 @@
   {
     "name": "Tachiyomi: Hades no Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.hadesnofansub",
-    "apk": "tachiyomi-es.hadesnofansub-v1.4.33.apk",
+    "apk": "tachiyomi-es.hadesnofansub-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -18979,7 +18971,7 @@
         "name": "Hades no Fansub",
         "lang": "es",
         "id": "8311505150576608267",
-        "baseUrl": "https://mangareaderpro.com",
+        "baseUrl": "https://hadesnofansub.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
