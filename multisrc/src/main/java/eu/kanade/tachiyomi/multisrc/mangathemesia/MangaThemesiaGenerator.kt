@@ -26,6 +26,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("Azure Scans", "https://azuremanga.com", "en", overrideVersionCode = 1),
         SingleLang("Banana-Scan", "https://banana-scan.com", "fr", className = "BananaScan", isNsfw = true),
         SingleLang("Beast Scans", "https://beastscans.net", "ar", overrideVersionCode = 1),
+        SingleLang("Berserker Scan", "https://ragnascan.com", "es"),
         SingleLang("Boosei", "https://boosei.net", "id", overrideVersionCode = 2),
         SingleLang("Cartel de Manhwas", "https://carteldemanhwas.com", "es", overrideVersionCode = 5),
         SingleLang("Cosmic Scans", "https://cosmic-scans.com", "en", overrideVersionCode = 2),
@@ -113,7 +114,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("Phantom Scans", "https://phantomscans.com", "en", overrideVersionCode = 1),
         SingleLang("PhenixScans", "https://phenixscans.fr", "fr", className = "PhenixScans", overrideVersionCode = 1),
         SingleLang("Pi Scans", "https://piscans.in", "id", overrideVersionCode = 1),
-        SingleLang("PotatoManga", "https://potatomanga.xyz", "ar"),
+        SingleLang("PotatoManga", "https://potatomanga.xyz", "ar", overrideVersionCode = 1),
         SingleLang("Quantum Scans", "https://readers-point.space", "en"),
         SingleLang("Raiki Scan", "https://raikiscan.com", "es"),
         SingleLang("Raiscans", "https://www.raiscans.com", "en"),
@@ -156,7 +157,7 @@ class MangaThemesiaGenerator : ThemeSourceGenerator {
         SingleLang("YumeKomik", "https://yumekomik.com", "id", isNsfw = true, className = "YumeKomik", pkgName = "inazumanga", overrideVersionCode = 6),
         SingleLang("Zahard", "https://zahard.xyz", "en"),
         SingleLang("أريا مانجا", "https://www.areascans.net", "ar", className = "AreaManga"),
-        SingleLang("فيكس مانجا", "https://vexmanga.com", "ar", className = "VexManga", overrideVersionCode = 2),
+        SingleLang("فيكس مانجا", "https://vexmanga.com", "ar", className = "VexManga", overrideVersionCode = 3),
         SingleLang("สดใสเมะ", "https://www.xn--l3c0azab5a2gta.com", "th", isNsfw = true, className = "Sodsaime", overrideVersionCode = 1),
     )
 
