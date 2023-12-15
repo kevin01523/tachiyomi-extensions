@@ -1569,10 +1569,10 @@
   {
     "name": "Tachiyomi: Cubari",
     "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
-    "apk": "tachiyomi-all.cubari-v1.4.22.apk",
+    "apk": "tachiyomi-all.cubari-v1.4.23.apk",
     "lang": "all",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -8075,6 +8075,27 @@
         "lang": "en",
         "id": "626267698662819838",
         "baseUrl": "https://aquamanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Arcanescans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.arcanescans",
+    "apk": "tachiyomi-en.arcanescans-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Arcanescans",
+        "lang": "en",
+        "id": "3730279390037035104",
+        "baseUrl": "https://arcanescans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21109,10 +21130,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.36.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.37.apk",
     "lang": "fr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -21130,10 +21151,10 @@
   {
     "name": "Tachiyomi: Sushiscan.fr",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscanfr",
-    "apk": "tachiyomi-fr.sushiscanfr-v1.4.27.apk",
+    "apk": "tachiyomi-fr.sushiscanfr-v1.4.28.apk",
     "lang": "fr",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -21142,7 +21163,7 @@
         "name": "Sushiscan.fr",
         "lang": "fr",
         "id": "3196884165456788667",
-        "baseUrl": "https://sushiscan.fr",
+        "baseUrl": "https://anime-sama.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21403,10 +21424,10 @@
   {
     "name": "Tachiyomi: DoujinDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujindesu",
-    "apk": "tachiyomi-id.doujindesu-v1.4.5.apk",
+    "apk": "tachiyomi-id.doujindesu-v1.4.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22004,6 +22025,27 @@
         "lang": "id",
         "id": "6148605743576635261",
         "baseUrl": "https://komikstation.co",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komiktap",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komiktap",
+    "apk": "tachiyomi-id.komiktap-v1.4.27.apk",
+    "lang": "id",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komiktap",
+        "lang": "id",
+        "id": "8162933120097302217",
+        "baseUrl": "https://komiktap.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
