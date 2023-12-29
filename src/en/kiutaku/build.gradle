@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 ext {
-    extName = 'MangaInUa'
-    pkgNameSuffix = 'uk.mangainua'
-    extClass = '.Mangainua'
-    extVersionCode = 5
+    extName = 'Kiutaku'
+    pkgNameSuffix = 'en.kiutaku'
+    extClass = '.Kiutaku'
+    extVersionCode = 1
     isNsfw = true
 }
 
